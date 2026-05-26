@@ -89,8 +89,8 @@ application:
       #- 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/tracking_servers_firstparty.txt' #AdGuard Tracking Protection filter — first-party trackers
 
       ## BadBlock
-      - 'https://badblock.celenity.dev/abp/badblock_plus.txt'
-      - 'https://badblock.celenity.dev/abp/whitelist.txt'
+      #- 'https://badblock.celenity.dev/abp/badblock_plus.txt'
+      #- 'https://badblock.celenity.dev/abp/whitelist.txt'
       
       ## Others
       - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.txt' #hagezi pro list
