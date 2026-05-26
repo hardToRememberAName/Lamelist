@@ -34,6 +34,11 @@
 ||ksmobile.com^$important
 ||wifi.lead.com^
 
+#小红书
+||live-feed.xiaohongshu.com^$important
+||live-go.xiaohongshu.com^$important
+||live-room.xiaohongshu.com^$important
+||live-mall.xiaohongshu.com^$important
 
 !-----------------待定-----------------
 
