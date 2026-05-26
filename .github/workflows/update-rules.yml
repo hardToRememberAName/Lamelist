@@ -10,6 +10,9 @@ on:
     - cron: '0 */12 * * *'  # 每 12 小时执行一次
   workflow_dispatch:  # 允许手动触发
 
+permissions:
+  contents: write
+  
 env:
   TZ: Asia/Shanghai
 
@@ -18,17 +21,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout adrules branch
-        uses: actions/checkout@main
+        uses: actions/checkout@v5
         with:
           ref: adrules  # 切换到 adrules 分支
 
       - name: Setup Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v4
         with:
-          #node-version: '14'
+          node-version: '24'
           check-latest: true
 
       # Install hostlist-compiler
@@ -68,7 +71,7 @@ jobs:
           git push origin adrules
 
       - name: Delete workflow runs
-        uses: Mattraks/delete-workflow-runs@main
+        uses: Mattraks/delete-workflow-runs@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           repository: ${{ github.repository }}
