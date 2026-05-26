@@ -113,12 +113,3 @@ application:
 - 提交所有修改并等待 `Github Action` 执行，执行完成后相应规则生成在配置中指定的目录下
 - 👉 特别感谢@fordes123
 
-<br/>
-<h2 id="c">🧭 支持</h2>
-
-<table>
-  <tr>
-    <td><a href="https://dartnode.com?aff=GrumpySalamander981"><img src="./src/img/DartNode.png" width="350" height="150" border="0" alt="Stop Overpaying Start Sharing Save More with DolOffer"></a></td>
-    <td><a href="https://doloffer.com/friend/0ApoCZTz"><img src="./src/img/DolOffer.png" width="350" height="150" border="0" alt="Stop Overpaying Start Sharing Save More with DolOffer"></a></td>
-  </tr>
-</table>
