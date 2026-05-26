@@ -69,7 +69,7 @@ application:
       - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/regex.txt' #afwfv/DD-AD regex
 
       ## English 
-      - 'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/abp_big.txt' #sjhgvr/oisd
+      - 'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/abp_big.txt' #sjhgvr/oisd abp_big.txt
       - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts' #StevenBlack Basic
       - 'https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts' #StevenBlack gambling
 
