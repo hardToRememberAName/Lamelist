@@ -1,5 +1,6 @@
-# Update time: 2026-05-26 14:24:13
-# Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重127.0.0.1 exoclick.com
+# Update time: 2026-05-26 14:46:36
+# Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
+127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
 127.0.0.1 primetime.net
 127.0.0.1 tour.brazzers.com
@@ -11449,7 +11450,6 @@
 0.0.0.0 bpb-corp.com
 0.0.0.0 mail.verify-accounts.run
 0.0.0.0 www.3hv33d.cfd
-0.0.0.0 ale-gratka.pl
 0.0.0.0 createinmeadowland.com
 0.0.0.0 www.konkursbiedronka.5v.pl
 0.0.0.0 www.nouvf.site
@@ -18368,7 +18368,6 @@
 0.0.0.0 casaventoza.shop
 0.0.0.0 domavik.shop
 0.0.0.0 kissmetrics.com
-0.0.0.0 ads.cdnow.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 akustikpanelleri.com
 0.0.0.0 profileconfirm.info
@@ -23199,7 +23198,6 @@
 0.0.0.0 itssure.shop
 0.0.0.0 cinematicfanatic.com
 0.0.0.0 www.biliclusti.cyou
-0.0.0.0 v1.cnzz.com
 0.0.0.0 strauss1-euonline.shop
 0.0.0.0 1bm.cqcounter.com
 0.0.0.0 thegroup.112.2o7.net
@@ -40767,7 +40765,6 @@
 0.0.0.0 pbid.pro-market.net
 0.0.0.0 www.lidlmk.shop
 0.0.0.0 coxtv.us.intellitxt.com
-0.0.0.0 www.daily.boonovel.com
 0.0.0.0 lintumank.com
 0.0.0.0 www.jremaskeiloajare.com
 0.0.0.0 html-load.cc
@@ -50636,7 +50633,6 @@
 0.0.0.0 skypicker-api.infinario.com
 0.0.0.0 silversunflower.odoactive.com
 0.0.0.0 counter.snackly.co
-0.0.0.0 media4.popmarker.com
 0.0.0.0 gov-pl.sbs
 0.0.0.0 walletgear.org
 0.0.0.0 foxamw.112.2o7.net
@@ -51812,7 +51808,6 @@
 0.0.0.0 securecloud-smart.com
 0.0.0.0 6842zpo.top
 0.0.0.0 www.kaitsboutique.com
-0.0.0.0 trk42.net
 0.0.0.0 flimsycircle.com
 0.0.0.0 fqtypyb.fit
 0.0.0.0 wojciuks.cfd
@@ -56364,7 +56359,6 @@
 0.0.0.0 traffic-bam.link
 0.0.0.0 colorfulpet.com
 0.0.0.0 zelmavoniqa.info
-0.0.0.0 photos6.pop6.com
 0.0.0.0 liquidfile.nocoshop.ru
 0.0.0.0 rtb-use.mfadsrvr.com
 0.0.0.0 nonfismobi.cyou
@@ -58079,7 +58073,6 @@
 0.0.0.0 addisugebeya.com
 0.0.0.0 centrolinguisticorobert.com
 0.0.0.0 viaquiz.112.2o7.net
-0.0.0.0 hyperion.adtech.fr
 0.0.0.0 www.ad-up.com
 0.0.0.0 albertopl.b-cdn.net
 0.0.0.0 dendrochronolvvogies.business
@@ -64146,7 +64139,6 @@
 0.0.0.0 www.solverao.com
 0.0.0.0 immediateedgepro.com
 0.0.0.0 www.tipobetguncelgiris2025.com
-0.0.0.0 buttcandy.com
 0.0.0.0 moja-paczka.oimane.icu
 0.0.0.0 www.maxinvestcom.com
 0.0.0.0 radiant-cog.com
@@ -64839,6 +64831,7 @@
 0.0.0.0 track.enviodemails.com
 0.0.0.0 pata.ero-advertising.com
 0.0.0.0 www.discounsel.cyou
+0.0.0.0 admedia.com
 0.0.0.0 www.dailydinks.com
 0.0.0.0 ax.xrea.com
 0.0.0.0 f11098.privacy4browsers.com
@@ -72626,7 +72619,6 @@
 0.0.0.0 www.fleetlicense.com
 0.0.0.0 www.pgslot200.online
 0.0.0.0 www.lalinerie.com
-0.0.0.0 adserver.myownemail.com
 0.0.0.0 media.nk-net.pl
 0.0.0.0 mowmihache.pl
 0.0.0.0 moonpers.validatedpro.com
@@ -75619,7 +75611,6 @@
 0.0.0.0 www.widgetcoredigital.site
 0.0.0.0 shoesoutletstore.shop
 0.0.0.0 plantexo.shop
-0.0.0.0 www.damascolyu.cyou
 0.0.0.0 mathenea.com
 0.0.0.0 robotechcity.com
 0.0.0.0 brstwkroms.com
@@ -76370,7 +76361,6 @@
 0.0.0.0 outletmega.shop
 0.0.0.0 startnow.com
 0.0.0.0 www.coconutsport.com
-0.0.0.0 www.rtyuop.fit
 0.0.0.0 www.thewaldronlawgroup.com
 0.0.0.0 r5.ritikajoshi.com
 0.0.0.0 mcfg.sandai.net
@@ -76392,7 +76382,6 @@
 0.0.0.0 amazonco.uk
 0.0.0.0 www.nova-pln.com
 0.0.0.0 pics.kolmic.com #[Parking Service]
-0.0.0.0 ads.citymagazine.si
 0.0.0.0 codice.shinystat.com
 0.0.0.0 www.bestpl.shop
 0.0.0.0 playhaven.com
@@ -77419,7 +77408,6 @@
 0.0.0.0 cli.m.ambient-platform.com
 0.0.0.0 www.paczkapost.glamzlot24.sbs
 0.0.0.0 globalprimeindex.blog
-0.0.0.0 glasscoyote.com
 0.0.0.0 ice-casino-games.pl
 0.0.0.0 succeedscene.com
 0.0.0.0 adspruce.com
@@ -77919,7 +77907,6 @@
 0.0.0.0 mticket.fyi
 0.0.0.0 www.links.tf8izo.top
 0.0.0.0 spnet2-1.i-mobile.co.jp
-0.0.0.0 themangotea.com
 0.0.0.0 exmusicprof.com
 0.0.0.0 www.glowmedaesthetics.com
 0.0.0.0 www.oferp7283501.lat
@@ -79588,7 +79575,6 @@
 0.0.0.0 www.ambient-trails.com
 0.0.0.0 assets.adspruce.com
 0.0.0.0 www.bikeflowstore.shop
-0.0.0.0 lameletters.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 qlcyj.com
 0.0.0.0 vaultflowpro.site
@@ -83262,7 +83248,6 @@
 0.0.0.0 www.urbogyms-pl.shop
 0.0.0.0 jetbluecom2.112.2o7.net
 0.0.0.0 4612.hittail.com
-0.0.0.0 worldmedpilldeliver.com
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.40cg.com
 0.0.0.0 admin.giaminhmedia.vn
@@ -92577,7 +92562,6 @@
 0.0.0.0 www.sauconysklep.com
 0.0.0.0 brunelavixa.top
 0.0.0.0 poacprod.122.2o7.net
-0.0.0.0 e-2dj6wjk4ukazebo.stats.esomniture.com
 0.0.0.0 metrics.thenation.com
 0.0.0.0 xchange.ro
 0.0.0.0 www.pl946353738.shop
