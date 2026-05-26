@@ -66,7 +66,7 @@ application:
       - 'https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt' #晴雅
       - 'https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt' #PiHoleBlocklist/SmartTV-AGH
       - 'https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt' #Noyllopa/NoAppDownload
-      - 'https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/regex.txt' #afwfv/DD-AD regex
+      - 'https://raw.githubusercontent.com/afwfv/DD-AD/refs/heads/release/easylist.txt' #afwfv/DD-AD
 
       ## English 
       - 'https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/abp_big.txt' #sjhgvr/oisd abp_big.txt
