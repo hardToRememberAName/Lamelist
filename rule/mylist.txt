@@ -1,7 +1,7 @@
 !-------------白名单---------------
 
 #东方财富
-@@||tradegatewayjqbgpmix.18.cn^$important
+@@||18.cn^$important
 
 #图床
 @@||pic.imgdb.cn
