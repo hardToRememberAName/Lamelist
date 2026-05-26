@@ -8,7 +8,7 @@ public class Constant {
 
     public static final String UPDATE = "# Update time: {}\r\n";
 
-    public static final String REPO = "# Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重";
+    public static final String REPO = "# Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重\r\n";
 
     public static final String LOCAL_RULE_SUFFIX = ROOT_PATH + File.separator + "rule";
 
