@@ -1,5 +1,8 @@
 !-------------白名单---------------
 
+#东方财富
+@@||tradegatewayjqbgpmix.18.cn^$important
+
 #图床
 @@||pic.imgdb.cn
 
@@ -29,6 +32,8 @@
 
 ||log.uu.163.com^$important
 ||ksmobile.com^$important
+||wifi.lead.com^
+
 
 !-----------------待定-----------------
 
