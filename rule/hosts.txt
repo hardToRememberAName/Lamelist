@@ -1,4 +1,4 @@
-# Update time: 2026-05-27 08:53:33
+# Update time: 2026-05-27 09:11:52
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -18376,6 +18376,7 @@
 0.0.0.0 casaventoza.shop
 0.0.0.0 domavik.shop
 0.0.0.0 kissmetrics.com
+0.0.0.0 ads.cdnow.com
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 akustikpanelleri.com
 0.0.0.0 profileconfirm.info
@@ -22642,6 +22643,7 @@
 0.0.0.0 analyticsapi.bsbportal.com
 0.0.0.0 cm.masky.biddingx.com
 0.0.0.0 featulink.casa
+0.0.0.0 select001.adtech.us
 0.0.0.0 www.eliteprac.top
 0.0.0.0 ad.koreadaily.com
 0.0.0.0 a8.net
@@ -32975,6 +32977,7 @@
 0.0.0.0 ad10.focalink.com
 0.0.0.0 beacon-3.newrelic.com
 0.0.0.0 gotowka-doreki.eu
+0.0.0.0 24m.nuggad.net
 0.0.0.0 strefamlodych.pl
 0.0.0.0 plpertiorisite.com
 0.0.0.0 mp.apmebf.com
@@ -38855,7 +38858,6 @@
 0.0.0.0 bjdata.ads.oppomobile.com
 0.0.0.0 aaannuairex.com
 0.0.0.0 www.calm-mortgage.com
-0.0.0.0 h6.helenrosi.com
 0.0.0.0 www.app-mediify.site
 0.0.0.0 narrowrot.adiestramiento-natural.com
 0.0.0.0 www.potebonski.com
@@ -39366,6 +39368,7 @@
 0.0.0.0 ads.okcimg.com
 0.0.0.0 js.indexww.com
 0.0.0.0 www.sparkle-swish.com
+0.0.0.0 www.olx.g3g3497g43.bond
 0.0.0.0 sento.122.2o7.net
 0.0.0.0 toolplsa.club
 0.0.0.0 www.aldi.helvado.shop
@@ -42377,6 +42380,7 @@
 0.0.0.0 cdn.krxd.net
 0.0.0.0 mediaplex.com
 0.0.0.0 saksfifthavenue.122.2o7.net
+0.0.0.0 monkposseacre.casa
 0.0.0.0 colorsoflife.online
 0.0.0.0 atorieso.com
 0.0.0.0 bggrontosaurstull.info
@@ -45290,7 +45294,6 @@
 0.0.0.0 ads.aws.fwmrm.net
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 pelna-zyskowow.com
-0.0.0.0 media.bonnint.net
 0.0.0.0 carnataldez.ml
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 ammatscacc.cyou
@@ -52151,6 +52154,7 @@
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 www.9329304g12-4g.lat
 0.0.0.0 bellserviceeng.112.2o7.net
+0.0.0.0 optnmstr.com
 0.0.0.0 digitwthlabs-qn40suvs-2cc55ye5.s3.amazonaws.com
 0.0.0.0 www.dnps.com
 0.0.0.0 imads.integral-marketing.com
@@ -52983,7 +52987,6 @@
 0.0.0.0 valine.harperiom.info
 0.0.0.0 ad.eva.vn
 0.0.0.0 01li1xpo1-5s43.f5dcxq.sbs
-0.0.0.0 www.themesets.com
 0.0.0.0 k8s.dable.io
 0.0.0.0 vnchecker.site
 0.0.0.0 123laceypink.com
@@ -56211,6 +56214,7 @@
 0.0.0.0 www.vinted.aukcj823549523012.lat
 0.0.0.0 www.super-jysk.top
 0.0.0.0 www.thefreeplanet.com
+0.0.0.0 orner.fr
 0.0.0.0 www.troglspreg.cyou
 0.0.0.0 redirect-systems.com
 0.0.0.0 www.uk-techsignal.com
@@ -58986,6 +58990,7 @@
 0.0.0.0 urchin.lstat.youku.com
 0.0.0.0 adamsfilms.com
 0.0.0.0 www.genevieveblog.click
+0.0.0.0 www.eobuwiestore.sbs
 0.0.0.0 shinystat.shiny.it
 0.0.0.0 xoada0pzosa.appspot.com
 0.0.0.0 monerra.shop
@@ -60627,7 +60632,6 @@
 0.0.0.0 vanillaandcream.com
 0.0.0.0 tarhangsm.com
 0.0.0.0 www.minddesign.top
-0.0.0.0 ehg-baa.hitbox.com
 0.0.0.0 www.vip-stetson-shop.shop
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 www.gymglamour.club
@@ -64482,7 +64486,6 @@
 0.0.0.0 www.valoluck.com
 0.0.0.0 redintelligence.net
 0.0.0.0 dava.ero-advertising.com
-0.0.0.0 ads.cgchannel.com
 0.0.0.0 gingert.net
 0.0.0.0 reportoraq.pro
 0.0.0.0 www.rtier.elsplatto.com
@@ -65401,7 +65404,6 @@
 0.0.0.0 www.waytut.kthanksbuy.com
 0.0.0.0 www.lacasadialicedesenzano.it
 0.0.0.0 t6-xmp.site
-0.0.0.0 www.devis-abri-de-piscine.fr
 0.0.0.0 securetracking2.com
 0.0.0.0 mvconf.lato.cloud.360safe.com
 0.0.0.0 ad8digital.checkm8.com
@@ -73152,7 +73154,6 @@
 0.0.0.0 labashl.de
 0.0.0.0 netdirect.nl
 0.0.0.0 wsback-event.presage.io
-0.0.0.0 tvn.adocean.pl
 0.0.0.0 www.jobonail.weebly.com
 0.0.0.0 www.informje3.is-best.net
 0.0.0.0 forumzarabiamy.pl
@@ -77543,6 +77544,7 @@
 0.0.0.0 evolvpinne.cyou
 0.0.0.0 securemailpath.com
 0.0.0.0 microad.vn
+0.0.0.0 www.doz.life
 0.0.0.0 board.classifieds1000.com
 0.0.0.0 content.maropost.com
 0.0.0.0 www.fintech115.com
@@ -88407,7 +88409,6 @@
 0.0.0.0 cashbro.net
 0.0.0.0 figsprotein.com
 0.0.0.0 microsoftuk.122.2o7.net
-0.0.0.0 searchwe.com
 0.0.0.0 www.grandfirless.top
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 hornytraffic.com
