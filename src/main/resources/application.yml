@@ -90,7 +90,7 @@ application:
 
       ## BadBlock
       #- 'https://badblock.celenity.dev/abp/badblock_plus.txt'
-      #- 'https://badblock.celenity.dev/abp/whitelist.txt'
+      - 'https://badblock.celenity.dev/abp/whitelist.txt'
       
       ## Others
       - 'https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/pro.txt' #hagezi pro list
