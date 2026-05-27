@@ -50,7 +50,6 @@ application:
       - 'https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext'
 
       ## Ohters
-      - 'https://raw.githubusercontent.com/damengzhu/banad/refs/heads/main/jiekouAD.txt' #damengzhu/banad
       - 'https://filter.futa.gg/filter.txt'
       - 'https://filter.futa.gg/hosts_abp.txt'
       - 'https://filter.futa.gg/TW165_abp.txt'
