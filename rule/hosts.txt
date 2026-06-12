@@ -1,4 +1,4 @@
-# Update time: 2026-06-12 10:09:54
+# Update time: 2026-06-12 22:27:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -159,7 +159,6 @@
 127.0.0.1 look.djfiln.com
 127.0.0.1 ads.co.com
 127.0.0.1 ads2.contentabc.com
-127.0.0.1 affiliates.globat.com
 127.0.0.1 stopstomach.com
 127.0.0.1 adimages.omroepzeeland.nl
 127.0.0.1 247media.com
@@ -184,6 +183,7 @@
 127.0.0.1 adsynergy.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 lizardslaugh.com
+127.0.0.1 starkscale.com
 127.0.0.1 adtechus.com
 127.0.0.1 fireads.online
 127.0.0.1 actionsplash.com
@@ -727,6 +727,7 @@
 127.0.0.1 mlsend.com
 127.0.0.1 max.i12.de
 127.0.0.1 pluckypocket.com
+127.0.0.1 zenkreka.com
 127.0.0.1 hsn.uqhv.net
 127.0.0.1 conversantmedia.com
 127.0.0.1 hotlog.ru
@@ -892,6 +893,7 @@
 127.0.0.1 media6degrees.com
 127.0.0.1 mixpanel.com
 127.0.0.1 page-checker.eu
+127.0.0.1 overkick.com
 127.0.0.1 voluumtrk2.com
 127.0.0.1 serendipityecho.com
 127.0.0.1 fc.webmasterpro.de
@@ -1335,7 +1337,6 @@
 127.0.0.1 intelliads.com
 127.0.0.1 track.anchorfree.com
 127.0.0.1 dapper.net
-127.0.0.1 domaining.in
 127.0.0.1 link.beelivery.com
 127.0.0.1 personagraph.com
 127.0.0.1 reachjunction.com
@@ -1885,7 +1886,6 @@
 127.0.0.1 audit.webinform.hu
 127.0.0.1 hitcounters.miarroba.com
 127.0.0.1 madcpms.com
-127.0.0.1 clickyab.com
 127.0.0.1 yadro.ru
 127.0.0.1 bizographics.com
 127.0.0.1 adserver.pl
@@ -2092,7 +2092,6 @@
 127.0.0.1 securedopen-bp.com
 127.0.0.1 ads.verticalresponse.com
 127.0.0.1 pennyweb.com
-127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 bestbuy.7tiv.net
 127.0.0.1 bespoke.iln8.net
 127.0.0.1 libraryfacts.com
@@ -2638,7 +2637,6 @@
 127.0.0.1 adstest.weather.com
 127.0.0.1 eversales.space
 127.0.0.1 funtoyplanet.com
-127.0.0.1 webtrackerplus.com
 127.0.0.1 pubnative.net
 127.0.0.1 adlightning.com
 127.0.0.1 ads.ibryte.com
@@ -3078,7 +3076,6 @@
 127.0.0.1 vtracy.de
 127.0.0.1 nullitics.com
 127.0.0.1 strack.pubmatic.com
-127.0.0.1 ads.powweb.com
 127.0.0.1 banners.czi.cz
 127.0.0.1 r3.visualwebsiteoptimizer.com
 127.0.0.1 click.comm.rcibank.co.uk
@@ -3433,7 +3430,6 @@
 127.0.0.1 servedbyadbutler.com
 127.0.0.1 stakingsmile.com
 127.0.0.1 tia.timeinc.net
-127.0.0.1 advertipros.com
 127.0.0.1 adserver.friendfinder.com
 127.0.0.1 nzaza.com
 127.0.0.1 cdn.freshmarketer.com
@@ -15483,6 +15479,7 @@
 0.0.0.0 biedronka.spot-site.com
 0.0.0.0 osb-ussvc.samsungqbe.com
 0.0.0.0 log-plo.zadn.vn
+0.0.0.0 www.rationaliffst.info
 0.0.0.0 halvskaalvendrik.info
 0.0.0.0 hispanostream.com
 0.0.0.0 fixcleaner.com
@@ -17062,7 +17059,6 @@
 0.0.0.0 www.66849931.s3.amazonaws.com
 0.0.0.0 www.manymean.baby
 0.0.0.0 www.prdirectory.biz
-0.0.0.0 pl6.landtrov.com
 0.0.0.0 www.east-oasis.com
 0.0.0.0 j9m3g6vclq.lat
 0.0.0.0 bank02.ads.mp.mydas.mobi
@@ -17945,6 +17941,7 @@
 0.0.0.0 www.imctheaters.com
 0.0.0.0 www.travelocityt.com
 0.0.0.0 www.furnithrifty.com
+0.0.0.0 amayaresorts.fr
 0.0.0.0 www.justdebug.com
 0.0.0.0 adbsdk.flyermobi.com
 0.0.0.0 www.65xps.com
@@ -22608,7 +22605,6 @@
 0.0.0.0 loading-page.net
 0.0.0.0 microbulle.cyou
 0.0.0.0 birkenstockjuneseason.shop
-0.0.0.0 ranks.boardtracker.com
 0.0.0.0 bbcdn.delivery.reklamz.com
 0.0.0.0 evercorepro.site
 0.0.0.0 www.texeyprooy.icu
@@ -31472,6 +31468,7 @@
 0.0.0.0 ivrfemdcxxsf.com
 0.0.0.0 rosesforus.com
 0.0.0.0 www.exixzaan.shop
+0.0.0.0 whtfwec.hesabdari3.xyz
 0.0.0.0 ggath.ownmobilehomes.com
 0.0.0.0 www.biedsale.shop
 0.0.0.0 track.msadcenter.xpp.com
@@ -33871,7 +33868,6 @@
 0.0.0.0 www.indgfilker.com
 0.0.0.0 gavvia.com
 0.0.0.0 chancellorttship.info
-0.0.0.0 wisteria-js.excite.co.jp
 0.0.0.0 ipcyachtingworldprod.122.2o7.net
 0.0.0.0 www.magazineery.mom
 0.0.0.0 ambien.ourtablets.com
@@ -41423,6 +41419,7 @@
 0.0.0.0 www.scnaob.info
 0.0.0.0 leaffi.jp
 0.0.0.0 www.silverfieldpost.eu
+0.0.0.0 ncsf.fr
 0.0.0.0 leukoalbif.pro
 0.0.0.0 w147.hitbox.com
 0.0.0.0 nmbradenton.112.2o7.net
@@ -45671,6 +45668,7 @@
 0.0.0.0 superstarweedcutter.com
 0.0.0.0 www.astravolime.info
 0.0.0.0 www.grubin-rs.shop
+0.0.0.0 teads-match.dotomi.com
 0.0.0.0 rtb.da.us.criteo.com
 0.0.0.0 jrfa.net
 0.0.0.0 athletesdendriootes.info
@@ -49129,7 +49127,6 @@
 0.0.0.0 smyk.daily-sale.com
 0.0.0.0 www.eileenmuellerneill.com
 0.0.0.0 umowmy-sie-teraz.pl
-0.0.0.0 cedato.com
 0.0.0.0 click.payserve.com
 0.0.0.0 au.umeng.com
 0.0.0.0 www.ppleood.com
@@ -51788,7 +51785,6 @@
 0.0.0.0 bibilucas.shop
 0.0.0.0 beacon.thred.woven.com
 0.0.0.0 www.urbanrethread.shop
-0.0.0.0 eztrck.com
 0.0.0.0 www.taffr.com
 0.0.0.0 click.get-answers-fast.com
 0.0.0.0 www.ebony-travels.com
@@ -54609,7 +54605,6 @@
 0.0.0.0 tavrenokis.pro
 0.0.0.0 forex-broker.hut1.ru
 0.0.0.0 www.ayuda-cliente-servico.lapacifico.com
-0.0.0.0 vod.plus
 0.0.0.0 www.localstonehouse.eu
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 www.siminmotion.com
@@ -55150,6 +55145,7 @@
 0.0.0.0 www.adzerk.net
 0.0.0.0 www.l1nks.org
 0.0.0.0 elegiora.shop
+0.0.0.0 www.arknasasbluecross.com
 0.0.0.0 rec1.smt.docomo.ne.jp
 0.0.0.0 travelexperiencelodgingpnw.com
 0.0.0.0 www.conflmicro.cyou
@@ -56503,6 +56499,7 @@
 0.0.0.0 ehg-pacifictheatres.hitbox.com
 0.0.0.0 zooplusonline.com
 0.0.0.0 prom82rs.cyou
+0.0.0.0 web.stati.bid
 0.0.0.0 iboldu.turnyourshiparound.com
 0.0.0.0 www.gentle-invest.com
 0.0.0.0 www.goodseap.com
@@ -60676,6 +60673,7 @@
 0.0.0.0 www.pravilo.cfd
 0.0.0.0 delivery.upremium.asia
 0.0.0.0 yannduval.shop
+0.0.0.0 continentalgroup.net.in
 0.0.0.0 srothuynguyen.com
 0.0.0.0 vitacocoyougoloco.potassium.st
 0.0.0.0 freehealthpoints.com
@@ -60741,6 +60739,7 @@
 0.0.0.0 newsentry.simpals.md
 0.0.0.0 primecaviar.com
 0.0.0.0 blackcat.pw
+0.0.0.0 advertising.entensity.net
 0.0.0.0 www.gameatlas.com
 0.0.0.0 mirillis.fr
 0.0.0.0 supportwaves.com
@@ -70835,6 +70834,7 @@
 0.0.0.0 www.localh0st.info
 0.0.0.0 www.rebbiappos.cyou
 0.0.0.0 www.devigekfrufe.icu
+0.0.0.0 seasonale.1.p2l.info
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 gofun.info
 0.0.0.0 quiltruler.com
@@ -73409,7 +73409,6 @@
 0.0.0.0 www.jadebondonno.com
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 birchwoodlane.eu
-0.0.0.0 1priest1nun.net
 0.0.0.0 tewznvqlka.icu
 0.0.0.0 ad.gunosy.com
 0.0.0.0 www.kobajo-xupojo.info
@@ -76752,7 +76751,6 @@
 0.0.0.0 www.retailstoreeu.shop
 0.0.0.0 zjsjw.com
 0.0.0.0 www.e24892610.s3.amazonaws.com
-0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 www.aldi-uk.awpantry.shop
 0.0.0.0 seedapp-creative.s3.amazonaws.com
 0.0.0.0 www.dwzacisze.com.pl
@@ -77018,6 +77016,7 @@
 0.0.0.0 static.foresee.com
 0.0.0.0 www.polskaniesztampowa.xyz
 0.0.0.0 equativ-match.dotomi.com
+0.0.0.0 www.justhookup.com
 0.0.0.0 kancelariakufieta.pl
 0.0.0.0 prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 0.0.0.0 www.jzvtb.com
@@ -81185,6 +81184,7 @@
 0.0.0.0 logi5.xiti.com
 0.0.0.0 doldursepeti.com
 0.0.0.0 www.empirecannabisclubs.shop
+0.0.0.0 ssl-wko.oewabox.at
 0.0.0.0 www.ciitiibank.com
 0.0.0.0 www.coilsforce.fleetlicense.com
 0.0.0.0 www.pricecutpl.shop
@@ -90030,7 +90030,6 @@
 0.0.0.0 pakpolice.com
 0.0.0.0 www.nexnextal.eu
 0.0.0.0 ehg-vmware.hitbox.com
-0.0.0.0 www.everifymatch.com
 0.0.0.0 bounceexchange.com
 0.0.0.0 jgjuwx.pishbiniclass.com
 0.0.0.0 www.alenty.com
@@ -90407,6 +90406,7 @@
 0.0.0.0 storecor.net
 0.0.0.0 px.dmp.zaloapp.com
 0.0.0.0 configure-tcp.rayjump.com
+0.0.0.0 mediasquare.fr
 0.0.0.0 diadora-polska.com
 0.0.0.0 omeryusufzai.com
 0.0.0.0 resize.mantisadnetwork.com
@@ -94722,6 +94722,7 @@
 0.0.0.0 www.harborbasketdaily.eu
 0.0.0.0 subplots341.site
 0.0.0.0 zbsbz.com
+0.0.0.0 ads.toronto.com
 0.0.0.0 demo.adtima.vn
 0.0.0.0 nexmivex.eu
 0.0.0.0 xanax-store.shengen.ru
