@@ -1,4 +1,4 @@
-# Update time: 2026-06-15 10:28:57
+# Update time: 2026-06-16 00:49:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -12852,7 +12852,6 @@
 0.0.0.0 agilityprocessing.net
 0.0.0.0 2975c.v.fwmrm.net
 0.0.0.0 www.rabatt-total.de
-0.0.0.0 counter28.bravenet.com
 0.0.0.0 www.s10.histas.ero-advertising.com
 0.0.0.0 rmbn.net
 0.0.0.0 syndication.exdynsrv.com
@@ -15117,7 +15116,6 @@
 0.0.0.0 veltiko.shop
 0.0.0.0 gpaper133.112.2o7.net
 0.0.0.0 www.housemanage39332.com
-0.0.0.0 www.cedracause.cyou
 0.0.0.0 www.gryxxsale.shop
 0.0.0.0 img.crossinstall.com
 0.0.0.0 hygromycin-b-50mg-ml-solution.com
@@ -20170,7 +20168,6 @@
 0.0.0.0 farmergoldfish.com
 0.0.0.0 push.oncustomer.asia
 0.0.0.0 lay.dubya.us
-0.0.0.0 wordstore.net
 0.0.0.0 www.wigenau.com
 0.0.0.0 www.florisvanbommel-zira.shop
 0.0.0.0 schlaukopf.fr
@@ -26440,6 +26437,7 @@
 0.0.0.0 pl22.landovn.com
 0.0.0.0 cabrerapelaez.com
 0.0.0.0 api6.agilone.com
+0.0.0.0 wantajecah.eu
 0.0.0.0 www.taublu.digital
 0.0.0.0 nanoadexchange.com
 0.0.0.0 kickcube.shop
@@ -27273,6 +27271,7 @@
 0.0.0.0 idtargeting.com
 0.0.0.0 peerfly.com
 0.0.0.0 e-kern.fr
+0.0.0.0 www.lllllb.com
 0.0.0.0 reklam.milliyet.com.tr
 0.0.0.0 marketingweek.imgix.net
 0.0.0.0 www.eurogallery.shop
@@ -28059,7 +28058,6 @@
 0.0.0.0 eadsrv.com
 0.0.0.0 plstartformtodayfreegogo.com
 0.0.0.0 pixel-user-1039.everesttech.net
-0.0.0.0 adserver.creative-asia.com
 0.0.0.0 aastore.top
 0.0.0.0 jgen23.cjt1.net
 0.0.0.0 hasdokum.com
@@ -28339,6 +28337,7 @@
 0.0.0.0 sdk.jiguang.cn
 0.0.0.0 track.msadcenter.dgt.com
 0.0.0.0 www.quaionmi.eu
+0.0.0.0 www.harrisonnathaniel.shop
 0.0.0.0 www.kgoj.casa
 0.0.0.0 www.zikoapteka.pl-offers.sbs
 0.0.0.0 godalmingcorner.eu
@@ -30305,7 +30304,6 @@
 0.0.0.0 ebay1.112.2o7.net
 0.0.0.0 ilylyw.com
 0.0.0.0 www.pando.earth
-0.0.0.0 www.avenues-inc.com
 0.0.0.0 www.ttok.site
 0.0.0.0 v4r9z-fjydq.ads.tremorhub.com
 0.0.0.0 www.hoksneakers-pl.com
@@ -31234,6 +31232,7 @@
 0.0.0.0 www.poczta-pl.zwthbae.icu
 0.0.0.0 objects.tremormedia.com #[adserver.adtechus.com]
 0.0.0.0 odd-onead.cdn.hinet.net
+0.0.0.0 counter24.bravenet.com
 0.0.0.0 www.550a.com
 0.0.0.0 www.olx.paycore-line.cfd
 0.0.0.0 sorbitraso.cyou
@@ -36982,6 +36981,7 @@
 0.0.0.0 www.kronikadnia.info
 0.0.0.0 playmax.co
 0.0.0.0 rusticpartyvenue.com
+0.0.0.0 www.spiccfili.cyou
 0.0.0.0 kormzi.gotrackier.com
 0.0.0.0 www.nwbidrtb.com
 0.0.0.0 sankei2ad.durasite.net
@@ -37628,7 +37628,6 @@
 0.0.0.0 www.furnituresalepl.shop
 0.0.0.0 www.ecopublse.shop
 0.0.0.0 www.winektear.tutorialbar.com
-0.0.0.0 ads.deltha.hu
 0.0.0.0 adjuggler.net
 0.0.0.0 www.kvr-systems.de
 0.0.0.0 www.online-cda.pl
@@ -37748,7 +37747,6 @@
 0.0.0.0 interchangecorporation.122.2o7.net
 0.0.0.0 www.makeandplay.pl
 0.0.0.0 tugoind.com
-0.0.0.0 bridgetrack.com
 0.0.0.0 www.hfiewdpidsdipapajdow.com
 0.0.0.0 ads.virtual-nights.com
 0.0.0.0 www.brite-dust.com
@@ -38457,6 +38455,7 @@
 0.0.0.0 dsp-1.ogury.io
 0.0.0.0 gxb.mmstat.com
 0.0.0.0 www.dhswj.com
+0.0.0.0 www.windowpro.beshowy.com
 0.0.0.0 ads.valuead.com
 0.0.0.0 kentseldonusumprojeleri.com
 0.0.0.0 www.bolverantax365.com
@@ -42339,7 +42338,6 @@
 0.0.0.0 kindworldwideventures.com
 0.0.0.0 momatyn.store
 0.0.0.0 vaniqa.1.p2l.info
-0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 www.championpolar.pl
 0.0.0.0 update.tas.yieldmo.com
 0.0.0.0 cash4popup.de
@@ -53337,7 +53335,6 @@
 0.0.0.0 aldi-uk.dahliagrocer.shop
 0.0.0.0 appopenspotify.help
 0.0.0.0 renee.it.com
-0.0.0.0 imserv001.adtech.fr
 0.0.0.0 www.goldcitybeauty.com
 0.0.0.0 lnysh.com
 0.0.0.0 rivyerashop.com
@@ -56833,7 +56830,6 @@
 0.0.0.0 ads.mediasmart.es
 0.0.0.0 www.bestofelektro.pl
 0.0.0.0 www.manuepa.shop
-0.0.0.0 rt.udmserve.net
 0.0.0.0 rfgov.pl
 0.0.0.0 poole-collector-prod.bnsqc3zmvt.us-east-1.elasticbeanstalk.com
 0.0.0.0 6379.eu-api.swrve.com
@@ -62337,7 +62333,6 @@
 0.0.0.0 sedxjax.winxbet.co
 0.0.0.0 yxena766y636o6pz7z7iu3mxhmnnvhyfp7zuwa6zqd4ewzmopvja.ado.0x0.io.vn
 0.0.0.0 vap4sfo1.lijit.com
-0.0.0.0 absorbingband.com
 0.0.0.0 robtem.com
 0.0.0.0 www.homladiscount.com
 0.0.0.0 www.veltrionex365.pro
@@ -67783,6 +67778,7 @@
 0.0.0.0 accident-video.com
 0.0.0.0 www.7metasearch.com
 0.0.0.0 www.websbring.fawesomeapp.com
+0.0.0.0 www.snugavento.com
 0.0.0.0 distrdulci.cyou
 0.0.0.0 www.cpagettistream6.com
 0.0.0.0 www.naturalgu.xyz
@@ -68392,7 +68388,6 @@
 0.0.0.0 baselinemag.us.intellitxt.com
 0.0.0.0 hardocp.us.intellitxt.com
 0.0.0.0 adserver.infotiger.com
-0.0.0.0 www.botanicalbundle.com
 0.0.0.0 rd.samsungadhub.com
 0.0.0.0 spotchannel02.com
 0.0.0.0 www.benhamlyn.plus.com
@@ -75023,6 +75018,7 @@
 0.0.0.0 www.bigplusgroup.com
 0.0.0.0 www.zabka.otrzymanienagrody.online
 0.0.0.0 congnb.analytics.saas-vn.network
+0.0.0.0 taotaolm.com
 0.0.0.0 ads24h.net
 0.0.0.0 mobiwin.pl
 0.0.0.0 www.lemoncascadexq.name
@@ -78077,7 +78073,6 @@
 0.0.0.0 www.blankworld.net
 0.0.0.0 3riends.com
 0.0.0.0 img.bypass.jp
-0.0.0.0 www.wojaspl23.click
 0.0.0.0 www.cliftons.plus.com
 0.0.0.0 braincdn.org
 0.0.0.0 www.thesearchagency.net
@@ -78406,7 +78401,6 @@
 0.0.0.0 conditionchange.com
 0.0.0.0 nr.mmcdn.com
 0.0.0.0 mellow-crossing.com
-0.0.0.0 www.zamowieniec1.com
 0.0.0.0 www.384758934h0341.lat
 0.0.0.0 www.zgesf.com
 0.0.0.0 au.res.keymedia.com
@@ -84517,7 +84511,6 @@
 0.0.0.0 mkancelaria.org
 0.0.0.0 ondesales.shop
 0.0.0.0 www.farkindaliksanati.com
-0.0.0.0 www.courtneywalker.plus.com
 0.0.0.0 ciscowebex.112.2o7.net
 0.0.0.0 e-pingcoin.com
 0.0.0.0 config.claspws.tv
@@ -86851,7 +86844,6 @@
 0.0.0.0 marketvibea.shop
 0.0.0.0 wojas.shop
 0.0.0.0 ociasb.adtiming.com
-0.0.0.0 dr.soso.com
 0.0.0.0 tpt.dotomi.com
 0.0.0.0 infolinks.com
 0.0.0.0 www.fucilaladf.cyou
@@ -90292,6 +90284,7 @@
 0.0.0.0 microsoftuk.122.2o7.net
 0.0.0.0 www.gianfrancogagliardi.com
 0.0.0.0 zortalli.eu
+0.0.0.0 searchwe.com
 0.0.0.0 polskaniesztampowa.xyz
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 hornytraffic.com
@@ -90880,6 +90873,7 @@
 0.0.0.0 www.brightqz.com
 0.0.0.0 www.playinnebularay.digital
 0.0.0.0 adserver.reklamstore.com
+0.0.0.0 www.sgtwilko.f9.co.uk
 0.0.0.0 cdn.intermarkets.net
 0.0.0.0 feature-publish.net
 0.0.0.0 fgp.philacct.com
@@ -92514,6 +92508,7 @@
 0.0.0.0 devindownham.com
 0.0.0.0 maxvr.112.2o7.net
 0.0.0.0 event.ksosoft.com
+0.0.0.0 timescorner.alphacreative.vn
 0.0.0.0 a9k5mr.xin
 0.0.0.0 samaclub.com
 0.0.0.0 www.nwejejadeietierkafert.site
@@ -95567,7 +95562,6 @@
 0.0.0.0 jerika.site
 0.0.0.0 forex-affiliate.net
 0.0.0.0 images.ads.supplyframe.com
-0.0.0.0 oascentral.wkrn.com
 0.0.0.0 texetexxsu.help
 0.0.0.0 artoccapta.cyou
 0.0.0.0 newfactcrew.cfd
