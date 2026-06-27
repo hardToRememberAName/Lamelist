@@ -1,4 +1,4 @@
-# Update time: 2026-06-27 09:56:01
+# Update time: 2026-06-27 21:03:32
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -1120,6 +1120,7 @@
 127.0.0.1 netmng.com
 127.0.0.1 calmcactus.com
 127.0.0.1 eadexchange.com
+127.0.0.1 tracking.cybertips.uk
 127.0.0.1 click.cision.com
 127.0.0.1 adverticum.com
 127.0.0.1 megacash.de
@@ -24662,7 +24663,6 @@
 0.0.0.0 kdkkr.com
 0.0.0.0 vlkvh.com
 0.0.0.0 www.kijuopooaoaidoadiok.site
-0.0.0.0 oascentral.citypages.com
 0.0.0.0 www.duralexfr.email
 0.0.0.0 click.cision.com
 0.0.0.0 deluxe.onetag.io.edgekey.net
@@ -43760,7 +43760,6 @@
 0.0.0.0 www.bitcoin-lexipro2-platform.com
 0.0.0.0 cnn.dyn.cnn.com
 0.0.0.0 okulary-wieloogniskowe-pl.com
-0.0.0.0 www.seannaesvoice.com
 0.0.0.0 impno.tradedoubler.com
 0.0.0.0 cyclobenzaprine.1.p2l.info
 0.0.0.0 zads.me.zing.vn
@@ -44118,7 +44117,6 @@
 0.0.0.0 wellbutrin.4.p2l.info
 0.0.0.0 cachebanners.toteme.com
 0.0.0.0 ecn.adflex.vn
-0.0.0.0 max-wangcai28.com
 0.0.0.0 999webdesign.com
 0.0.0.0 www.cinema3satu.com
 0.0.0.0 vote.sparklit.com
@@ -60028,7 +60026,6 @@
 0.0.0.0 www.nowinkowo.xyz
 0.0.0.0 donovanstark.com
 0.0.0.0 rfp.fout.jp
-0.0.0.0 arms.livedoor.net
 0.0.0.0 socialimpact-investments.com
 0.0.0.0 ad.cl.doubleclick.net
 0.0.0.0 ad29digital.checkm8.com
@@ -63964,7 +63961,6 @@
 0.0.0.0 f24.adventori.com
 0.0.0.0 smetrics.los40.com
 0.0.0.0 hometec.click
-0.0.0.0 chuguadventures.co.tz
 0.0.0.0 www.sortekumquat.shop
 0.0.0.0 hjfww.com
 0.0.0.0 www.cresthill-valtorapp.com
@@ -75606,7 +75602,6 @@
 0.0.0.0 tmscdn.coremetrics.com
 0.0.0.0 va.5.p2l.info
 0.0.0.0 www.extrorivet.cyou
-0.0.0.0 metric.allrecipes.com
 0.0.0.0 scotchsoda.top
 0.0.0.0 omega.best
 0.0.0.0 www.pineandfield.eu
@@ -76071,7 +76066,6 @@
 0.0.0.0 psa.carambo.la
 0.0.0.0 kibarmedya.com
 0.0.0.0 a3793.casalemedia.com
-0.0.0.0 loading321.com
 0.0.0.0 adcampo.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 www.almondnetworks.com
@@ -86154,7 +86148,6 @@
 0.0.0.0 assets.netizen.co
 0.0.0.0 thehdroom.us.intellitxt.com
 0.0.0.0 c0.anthill.vn
-0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 www.calmdockpb.name
 0.0.0.0 cdaflix.pl
 0.0.0.0 www.in-star.videoplaza.tv
@@ -87078,7 +87071,6 @@
 0.0.0.0 api-live.outgrow.co
 0.0.0.0 connect.decknetwork.net
 0.0.0.0 ads.lesbianpersonals.com
-0.0.0.0 www.anrdoezrs.net
 0.0.0.0 smarcdetes.cyou
 0.0.0.0 finance93-voluptas4.sbs
 0.0.0.0 strategicbookgroup.com
@@ -94234,7 +94226,6 @@
 0.0.0.0 ads-tr.bigmining.com
 0.0.0.0 www.teveluxon.click
 0.0.0.0 homeandmarker.eu
-0.0.0.0 dropbox-er.com
 0.0.0.0 casedosekaweodsem.site
 0.0.0.0 edwiinmoll.shop
 0.0.0.0 www.masterspace.biz
