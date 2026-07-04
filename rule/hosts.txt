@@ -1,4 +1,4 @@
-# Update time: 2026-07-04 09:30:37
+# Update time: 2026-07-04 20:54:37
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -23486,7 +23486,6 @@
 0.0.0.0 ads.jpost.com #[RealMedia]
 0.0.0.0 texewqzmxl.club
 0.0.0.0 eserlerledevletbahceli.com
-0.0.0.0 ad.my.doubleclick.net
 0.0.0.0 oxybe.com
 0.0.0.0 www.monolespor.cyou
 0.0.0.0 276bf6.r.axf8.net
@@ -26211,7 +26210,6 @@
 0.0.0.0 cabrerapelaez.com
 0.0.0.0 flexfoot.shop
 0.0.0.0 api6.agilone.com
-0.0.0.0 wantajecah.eu
 0.0.0.0 www.taublu.digital
 0.0.0.0 nanoadexchange.com
 0.0.0.0 special-alerts.com
@@ -27012,7 +27010,6 @@
 0.0.0.0 mkt.hoanghamobile.com
 0.0.0.0 convertingtraffic.com
 0.0.0.0 ads.cpxcenter.com
-0.0.0.0 iledefrance-mutualite.fr
 0.0.0.0 cdn.3lift.com
 0.0.0.0 ocx.umeng.com
 0.0.0.0 network.bazaarvoice.com
@@ -31434,7 +31431,6 @@
 0.0.0.0 js.ru.redtram.com
 0.0.0.0 partnerearning.com
 0.0.0.0 static.ifa.slutloadlive.com
-0.0.0.0 www.rwiudwiruwieudiwere.site
 0.0.0.0 h.spill.com
 0.0.0.0 qumsport.com
 0.0.0.0 www.possarella.com
@@ -37887,7 +37883,6 @@
 0.0.0.0 gxb.mmstat.com
 0.0.0.0 superpharm.ritualsdeal.shop
 0.0.0.0 novapressorix.com
-0.0.0.0 www.windowpro.beshowy.com
 0.0.0.0 ads.valuead.com
 0.0.0.0 kentseldonusumprojeleri.com
 0.0.0.0 www.wojasonline.com
@@ -39279,7 +39274,6 @@
 0.0.0.0 platform.jeoway.com
 0.0.0.0 users16.jabry.com
 0.0.0.0 ojrq.net
-0.0.0.0 lskzwapf.hiragazza.com
 0.0.0.0 www.mgid.com
 0.0.0.0 iau.adsiduous.com
 0.0.0.0 www.123kuma.com
@@ -43445,7 +43439,6 @@
 0.0.0.0 www.goturnuvasi.net
 0.0.0.0 cnn.dyn.cnn.com
 0.0.0.0 okulary-wieloogniskowe-pl.com
-0.0.0.0 www.seannaesvoice.com
 0.0.0.0 impno.tradedoubler.com
 0.0.0.0 cyclobenzaprine.1.p2l.info
 0.0.0.0 zads.me.zing.vn
@@ -48784,7 +48777,6 @@
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 dyn-beacon.akamaized.net
 0.0.0.0 events.webflowmetrics.com
-0.0.0.0 offer.sponsorpay.com
 0.0.0.0 www30a5.glam.com
 0.0.0.0 www.pl13.landurt.com
 0.0.0.0 www.gustmax.techy-bits.com
@@ -49367,7 +49359,6 @@
 0.0.0.0 dpdilocal-co.icu
 0.0.0.0 win-spy.com
 0.0.0.0 sec02flix.e2childcare.com
-0.0.0.0 www-stats.unipi.it
 0.0.0.0 update-skype.freehostia.com
 0.0.0.0 www.sexmoney.com
 0.0.0.0 axdget-sync.nuggad.net
@@ -49542,7 +49533,6 @@
 0.0.0.0 www.belentarim.com
 0.0.0.0 oascentral.adage.com
 0.0.0.0 lokalne-ogloszenie-1625374.click
-0.0.0.0 www.harpiatraining.com
 0.0.0.0 bennuhi.com
 0.0.0.0 www.clicktale.net
 0.0.0.0 quickchain.info
@@ -53847,7 +53837,6 @@
 0.0.0.0 syndication.optimizesrv.com
 0.0.0.0 www.reorzo.com
 0.0.0.0 www.walutniktrade.com
-0.0.0.0 yenilenmis.shop
 0.0.0.0 fileconvertpro.co
 0.0.0.0 a1223.casalemedia.com
 0.0.0.0 ade.googlesyndication.com
@@ -58782,7 +58771,6 @@
 0.0.0.0 www.butikyaya.pl
 0.0.0.0 www.underarmoursklep.com
 0.0.0.0 fitpatootie.com
-0.0.0.0 blushingbread.com
 0.0.0.0 trk.atomex.net
 0.0.0.0 www.kidsangel.com
 0.0.0.0 brightlantern.eu
@@ -61590,7 +61578,6 @@
 0.0.0.0 finteraakademi.com
 0.0.0.0 www.veridavaultsolution.com
 0.0.0.0 hamanit.com
-0.0.0.0 jeeyarworld.com
 0.0.0.0 student-pg.weebly.com
 0.0.0.0 easyhits4u.com
 0.0.0.0 cache.izearanks.com
@@ -73627,7 +73614,6 @@
 0.0.0.0 mail.target.cm
 0.0.0.0 media4021.videostrip.com
 0.0.0.0 www.3dpassport.com
-0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 buy-xanax-cheap-xanax-online.com
 0.0.0.0 texezmvxqp.icu
 0.0.0.0 ca-lapresse-main.collector.snplow.net
@@ -74904,7 +74890,6 @@
 0.0.0.0 tmscdn.coremetrics.com
 0.0.0.0 va.5.p2l.info
 0.0.0.0 www.extrorivet.cyou
-0.0.0.0 metric.allrecipes.com
 0.0.0.0 omega.best
 0.0.0.0 www.pineandfield.eu
 0.0.0.0 metrics.ambientdsp.com
@@ -75362,7 +75347,6 @@
 0.0.0.0 psa.carambo.la
 0.0.0.0 kibarmedya.com
 0.0.0.0 a3793.casalemedia.com
-0.0.0.0 loading321.com
 0.0.0.0 adcampo.com
 0.0.0.0 detect.rayjump.com
 0.0.0.0 www.almondnetworks.com
@@ -77095,7 +77079,6 @@
 0.0.0.0 zanox-affiliate.de
 0.0.0.0 www.pocketeers.store
 0.0.0.0 donkeytourscroatia.com
-0.0.0.0 ad2.firehousezone.com
 0.0.0.0 hit2.hotlog.ru
 0.0.0.0 www.babywantsbling.com
 0.0.0.0 www.nbdcj.com
@@ -85347,7 +85330,6 @@
 0.0.0.0 assets.netizen.co
 0.0.0.0 thehdroom.us.intellitxt.com
 0.0.0.0 c0.anthill.vn
-0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 www.calmdockpb.name
 0.0.0.0 cdaflix.pl
 0.0.0.0 www.in-star.videoplaza.tv
@@ -87117,7 +87099,6 @@
 0.0.0.0 ssp.adviad.com
 0.0.0.0 yetkiliservislistele.com
 0.0.0.0 www.ondisneyplus.co
-0.0.0.0 toknowall.com
 0.0.0.0 pdupdate.organiccrap.com
 0.0.0.0 www.precodegen.cyou
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -88682,7 +88663,6 @@
 0.0.0.0 www.playvod.pl
 0.0.0.0 stepstone.112.2o7.net
 0.0.0.0 shoreledger.eu
-0.0.0.0 youmoltbot.com
 0.0.0.0 metrics.thinkgeek.com
 0.0.0.0 www.otdyh-s-detmi.com
 0.0.0.0 www.olx.309238h75.shop
@@ -89666,7 +89646,6 @@
 0.0.0.0 pixel1370.everesttech.net #[WebBug]
 0.0.0.0 v2.api.adflex.vn
 0.0.0.0 teddyni.com
-0.0.0.0 static.inviziads.com
 0.0.0.0 ehg-redherring.hitbox.com
 0.0.0.0 codziennyszeptpol.xyz
 0.0.0.0 smetrics.gomastercard.com.au
@@ -92053,7 +92032,6 @@
 0.0.0.0 cseroakeopadskeowepr.site
 0.0.0.0 ads.i-am-bored.com
 0.0.0.0 viamichelin.cdn11.contentabc.com
-0.0.0.0 www.preenl.xyz
 0.0.0.0 ehg-hasbro.hitbox.com
 0.0.0.0 dmpsync.3lift.com
 0.0.0.0 airmaxheatpump.com
@@ -93386,7 +93364,6 @@
 0.0.0.0 homeandmarker.eu
 0.0.0.0 inpolst.al2k1s.cfd
 0.0.0.0 tevegqtrnt.click
-0.0.0.0 dropbox-er.com
 0.0.0.0 edwiinmoll.shop
 0.0.0.0 www.masterspace.biz
 0.0.0.0 www.szeptysasiadow.xyz
