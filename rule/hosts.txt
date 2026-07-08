@@ -1,4 +1,4 @@
-# Update time: 2026-07-07 22:01:18
+# Update time: 2026-07-08 09:21:27
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -20743,7 +20743,6 @@
 0.0.0.0 www.zelton.shop
 0.0.0.0 tejeebvrqnm.work
 0.0.0.0 guest.adultfriendfinder.com
-0.0.0.0 penndennest.com
 0.0.0.0 ytuy45fxs.appspot.com
 0.0.0.0 prewotixapp-soft-com.financecryptoworld.com
 0.0.0.0 www.adalyahotelsbliss.com
@@ -35406,7 +35405,6 @@
 0.0.0.0 tkmftc.aotter.net
 0.0.0.0 banner.appsflyer.com
 0.0.0.0 ultracharge.info
-0.0.0.0 www.rootwavebase.site
 0.0.0.0 s-logperf.vnexpress.net
 0.0.0.0 etonynew345zzz.z13.web.core.windows.net
 0.0.0.0 data.ad-score.com
@@ -42592,7 +42590,6 @@
 0.0.0.0 langtangnews.com
 0.0.0.0 www.realgaugehub.site
 0.0.0.0 licensing.bitmovin.com
-0.0.0.0 newandfresh.com
 0.0.0.0 data.appscomeon.com
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 www.katel.com.pl
@@ -46301,7 +46298,6 @@
 0.0.0.0 smyk.daily-sale.com
 0.0.0.0 www.eileenmuellerneill.com
 0.0.0.0 umowmy-sie-teraz.pl
-0.0.0.0 cedato.com
 0.0.0.0 orbydeck.site
 0.0.0.0 www.intersportsales.com
 0.0.0.0 www.vinted.oferta37654208.shop
@@ -48108,7 +48104,6 @@
 0.0.0.0 tube8vidsznx.ddns.name
 0.0.0.0 no.2.cqcounter.com
 0.0.0.0 gratijigma.cyou
-0.0.0.0 alzy.fr
 0.0.0.0 matomo.activate.cz
 0.0.0.0 mobila.pl
 0.0.0.0 nofreezingmac.space
@@ -49617,7 +49612,6 @@
 0.0.0.0 blekko.com
 0.0.0.0 t.signauxdeux.com # Another email opentracker from hubspot
 0.0.0.0 eu-outlet-store.shop
-0.0.0.0 web1b.netreflector.com
 0.0.0.0 thebighits.com
 0.0.0.0 www.sessiavoca.cyou
 0.0.0.0 www.photomagicapp.com
@@ -63762,7 +63756,6 @@
 0.0.0.0 www.duiramoelis.xyz
 0.0.0.0 gcirm.burlingtonfreepress.com
 0.0.0.0 umeng.co
-0.0.0.0 tejeavplxq.wiki
 0.0.0.0 ad2.nmm.de
 0.0.0.0 thongke.baotintuc.vn
 0.0.0.0 track.mailerlite.com
@@ -74061,6 +74054,7 @@
 0.0.0.0 www.eronexenerji.com
 0.0.0.0 www.texetlqmvj.icu
 0.0.0.0 match.adsrvr.org
+0.0.0.0 ad.ekonomikticaret.com
 0.0.0.0 www.assuredwebtest.info
 0.0.0.0 www.redemptionengine.com
 0.0.0.0 cdn-media.aibuy.io
@@ -80944,7 +80938,6 @@
 0.0.0.0 j5.jinghuaqitb.com
 0.0.0.0 www.clkoffers.com
 0.0.0.0 adtrack.appcpi.net
-0.0.0.0 wwc.hitbox.com
 0.0.0.0 ad.cosp.jp
 0.0.0.0 ujm.hansel.io
 0.0.0.0 viaaddictingclips.112.2o7.net
@@ -83034,7 +83027,6 @@
 0.0.0.0 ms-shopplus.su
 0.0.0.0 gebel-bitvalor-app.com
 0.0.0.0 www.zeszklanychdrzwi.xyz
-0.0.0.0 www.ironhelixx.info
 0.0.0.0 s7.addthis.com
 0.0.0.0 l.hrzn-nxt.com
 0.0.0.0 icoocash.com
@@ -85257,7 +85249,6 @@
 0.0.0.0 www.dimenjacat.cyou
 0.0.0.0 tagmans3.adsolutions.com
 0.0.0.0 unfaitrame.cyou
-0.0.0.0 mntzrlt.net
 0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 banner.finzoom.ro
 0.0.0.0 vazauilospoamamiados.site
@@ -85867,7 +85858,6 @@
 0.0.0.0 v7.viayonetici.com
 0.0.0.0 www.spizzdialo.cyou
 0.0.0.0 rabbitrifle.com
-0.0.0.0 filmeo.tv
 0.0.0.0 www.optimizezgate.privateequityreporting.com
 0.0.0.0 reclaemarg.cyou
 0.0.0.0 www.guideacco.digital
@@ -85897,7 +85887,6 @@
 0.0.0.0 ads.bulldogcpi.com
 0.0.0.0 willipolec.cyou
 0.0.0.0 pacyfka99.pl
-0.0.0.0 www.zeldasilver.com
 0.0.0.0 srvtrck.com
 0.0.0.0 stx3.sextracker.com
 0.0.0.0 trialpay.com
