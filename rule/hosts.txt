@@ -1,4 +1,4 @@
-# Update time: 2026-07-12 20:48:21
+# Update time: 2026-07-13 09:23:42
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -26717,6 +26717,7 @@
 0.0.0.0 virtualvincent.com
 0.0.0.0 www.breakthroughnewsnow.com
 0.0.0.0 fancyflat.shop
+0.0.0.0 app.datafastguru.info
 0.0.0.0 yemonisoni.com
 0.0.0.0 vinted.oferta885618712.click
 0.0.0.0 www.qudris.info
@@ -29301,6 +29302,7 @@
 0.0.0.0 www.30921574214845.shop
 0.0.0.0 ammalsuffi.cyou
 0.0.0.0 www.vulkanvegas105.com
+0.0.0.0 tomshardware.se.intellitxt.com
 0.0.0.0 propk.sa.com
 0.0.0.0 www.otceczanem.com
 0.0.0.0 wtrakcieprzechodzeniamiedzyblokamimn.xyz
@@ -36000,6 +36002,7 @@
 0.0.0.0 ads.zunia.vn
 0.0.0.0 lifetimenews-up.top
 0.0.0.0 www.daimconstruction.com
+0.0.0.0 intertakekuhy.info
 0.0.0.0 bit10bumex-engine.com
 0.0.0.0 www.notatkilokalne.info
 0.0.0.0 ads.creative-serving.com
@@ -46481,6 +46484,7 @@
 0.0.0.0 pk-cdn.effectivemeasure.net
 0.0.0.0 www.pol-dywan.pl
 0.0.0.0 umowmy-sie-teraz.pl
+0.0.0.0 cedato.com
 0.0.0.0 orbydeck.site
 0.0.0.0 www.intersportsales.com
 0.0.0.0 www.vinted.oferta37654208.shop
@@ -48311,6 +48315,7 @@
 0.0.0.0 tube8vidsznx.ddns.name
 0.0.0.0 no.2.cqcounter.com
 0.0.0.0 gratijigma.cyou
+0.0.0.0 alzy.fr
 0.0.0.0 matomo.activate.cz
 0.0.0.0 mobila.pl
 0.0.0.0 nofreezingmac.space
@@ -49800,6 +49805,7 @@
 0.0.0.0 blekko.com
 0.0.0.0 t.signauxdeux.com # Another email opentracker from hubspot
 0.0.0.0 eu-outlet-store.shop
+0.0.0.0 web1b.netreflector.com
 0.0.0.0 thebighits.com
 0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.indicdisc.lat
@@ -67929,6 +67935,7 @@
 0.0.0.0 static.klaviyo.com
 0.0.0.0 filter.onwardclick.com
 0.0.0.0 www.naglewkrakowie.top
+0.0.0.0 uarating.com
 0.0.0.0 zauriqpylonai-app.com
 0.0.0.0 configusa.veinteractive.com
 0.0.0.0 lokalna-oferta77598042.ink
@@ -69322,6 +69329,7 @@
 0.0.0.0 xcnn.com
 0.0.0.0 www.linkpulse.com
 0.0.0.0 ccc.sffaetethythhubo-be.sbs
+0.0.0.0 istigachro.cyou
 0.0.0.0 longlidseiw.com
 0.0.0.0 metric.superpages.com
 0.0.0.0 nl.ads.justpremium.com
@@ -74409,6 +74417,7 @@
 0.0.0.0 www.eronexenerji.com
 0.0.0.0 www.texetlqmvj.icu
 0.0.0.0 match.adsrvr.org
+0.0.0.0 ad.ekonomikticaret.com
 0.0.0.0 www.assuredwebtest.info
 0.0.0.0 www.redemptionengine.com
 0.0.0.0 cdn-media.aibuy.io
@@ -81271,6 +81280,7 @@
 0.0.0.0 j5.jinghuaqitb.com
 0.0.0.0 www.clkoffers.com
 0.0.0.0 adtrack.appcpi.net
+0.0.0.0 wwc.hitbox.com
 0.0.0.0 ad.cosp.jp
 0.0.0.0 ujm.hansel.io
 0.0.0.0 viaaddictingclips.112.2o7.net
