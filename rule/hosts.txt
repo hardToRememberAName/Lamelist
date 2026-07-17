@@ -1,4 +1,4 @@
-# Update time: 2026-07-16 21:12:21
+# Update time: 2026-07-17 09:22:45
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -20557,7 +20557,6 @@
 0.0.0.0 aldideals.risebay.shop
 0.0.0.0 bptoyun.com
 0.0.0.0 www.who-is-mike.com
-0.0.0.0 penndennest.com
 0.0.0.0 ytuy45fxs.appspot.com
 0.0.0.0 www.adalyahotelsbliss.com
 0.0.0.0 adsrv.ads.eniro.com
@@ -34737,7 +34736,6 @@
 0.0.0.0 tkmftc.aotter.net
 0.0.0.0 banner.appsflyer.com
 0.0.0.0 ultracharge.info
-0.0.0.0 www.rootwavebase.site
 0.0.0.0 s-logperf.vnexpress.net
 0.0.0.0 etonynew345zzz.z13.web.core.windows.net
 0.0.0.0 data.ad-score.com
@@ -47033,7 +47031,6 @@
 0.0.0.0 www.oi0t1lxp1-9y65.c5dvkc.sbs
 0.0.0.0 sync.adspruce.com
 0.0.0.0 yogamagazine.fr
-0.0.0.0 question2answer.com
 0.0.0.0 advancedmactools.com
 0.0.0.0 clickserve.uk.dartsearch.net
 0.0.0.0 adx.g.doubleclick.net
@@ -50716,7 +50713,6 @@
 0.0.0.0 remain.chartboosts.com
 0.0.0.0 f0kylc.isogransoutheurope.eu
 0.0.0.0 casting.openv.com
-0.0.0.0 ofertomat.shop
 0.0.0.0 ubiparking.com
 0.0.0.0 aboardlevel.com
 0.0.0.0 plsaway-quality.shop
@@ -77387,7 +77383,6 @@
 0.0.0.0 teenrevenue.com
 0.0.0.0 camsoda.com
 0.0.0.0 www.paczka.afgbnet.icu
-0.0.0.0 soarpower.com
 0.0.0.0 www.reytcc.com
 0.0.0.0 brand-display.com
 0.0.0.0 analytics.algoepico.net
@@ -78346,7 +78341,6 @@
 0.0.0.0 www.olx.prywatne32532865.xyz
 0.0.0.0 www.mytraffic.pl
 0.0.0.0 yev.moviesdirectpro.com
-0.0.0.0 knitstamp.com
 0.0.0.0 log.beecost.com
 0.0.0.0 qwas0.trackvoluum.com
 0.0.0.0 www.booking.stayinroma2026.net
@@ -83832,7 +83826,6 @@
 0.0.0.0 formumactif.fr
 0.0.0.0 v7.viayonetici.com
 0.0.0.0 rabbitrifle.com
-0.0.0.0 filmeo.tv
 0.0.0.0 www.optimizezgate.privateequityreporting.com
 0.0.0.0 reclaemarg.cyou
 0.0.0.0 computernetworksonline.com
