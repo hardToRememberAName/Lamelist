@@ -1,4 +1,4 @@
-# Update time: 2026-07-23 09:26:27
+# Update time: 2026-07-23 21:18:49
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -14290,7 +14290,6 @@
 0.0.0.0 aurinmovia-app.live
 0.0.0.0 www.8wdkekpqx583g6k5pyu3rzariznktzm21-hiu23.vercel.app
 0.0.0.0 www.ero-adverising.com.ero-advertising.com
-0.0.0.0 www.turboexelonark-platform.com
 0.0.0.0 ligocubetfandecs-ai.com
 0.0.0.0 acyclovir.1.p2l.info
 0.0.0.0 www.gerborsyva-de.live
@@ -14819,7 +14818,6 @@
 0.0.0.0 www.1gf2rt3.hair
 0.0.0.0 www.olx.9494183.sbs
 0.0.0.0 loady.de.intellitxt.com
-0.0.0.0 tanganrss.com
 0.0.0.0 fanatics.112.2o7.net
 0.0.0.0 www.froventald.shop
 0.0.0.0 kvision.tv
@@ -15825,6 +15823,7 @@
 0.0.0.0 hundejo.com
 0.0.0.0 equi-gaintor-ai.pro
 0.0.0.0 burederthidew.com
+0.0.0.0 ad.ghfusion.com
 0.0.0.0 www.avonexpro-es.live
 0.0.0.0 www.dpdpl.top
 0.0.0.0 sidebar.angelfire.com
@@ -22634,7 +22633,6 @@
 0.0.0.0 vinted.pl-ogkbc.sbs
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 hotelboard.org
-0.0.0.0 zennewinstholm.live
 0.0.0.0 optimized-by-1.rubiconproject.com
 0.0.0.0 analytics.vnncdn.net
 0.0.0.0 androidsdk.ads.mp.mydas.mobi
@@ -24527,6 +24525,7 @@
 0.0.0.0 www.vastafondoria.live
 0.0.0.0 sec3netfl1x.40-81-245-58.cpanel.site
 0.0.0.0 click.news.vans.com
+0.0.0.0 stats.visistat.com
 0.0.0.0 link.team.hyperoptic.com
 0.0.0.0 ads.bkitsoftware.com
 0.0.0.0 10209j8j8.shop
@@ -28416,6 +28415,7 @@
 0.0.0.0 convertingtraffic.com
 0.0.0.0 ads.cpxcenter.com
 0.0.0.0 www.codziennaharmoniadzialan.site
+0.0.0.0 iledefrance-mutualite.fr
 0.0.0.0 cdn.3lift.com
 0.0.0.0 ocx.umeng.com
 0.0.0.0 network.bazaarvoice.com
@@ -29208,6 +29208,7 @@
 0.0.0.0 eadsrv.com
 0.0.0.0 www.presentdaymusician.com
 0.0.0.0 pixel-user-1039.everesttech.net
+0.0.0.0 adserver.creative-asia.com
 0.0.0.0 inezmarkets.com
 0.0.0.0 jgen23.cjt1.net
 0.0.0.0 www.crystalharbornest.live
@@ -36334,6 +36335,7 @@
 0.0.0.0 www.kapitrna.live
 0.0.0.0 poolin.fr
 0.0.0.0 pura-monetivo.pro
+0.0.0.0 images.webads.co.uk
 0.0.0.0 www.hjgo4so3.cfd
 0.0.0.0 www.prop-erly.eu
 0.0.0.0 auth0.vernovls.com
@@ -38987,6 +38989,7 @@
 0.0.0.0 poloperwewrweodpwaz.site
 0.0.0.0 www.awan-ledgerix.digital
 0.0.0.0 panel.kaprila.com
+0.0.0.0 tracking.scientific-meets.com
 0.0.0.0 finance93-aut35.sbs
 0.0.0.0 zhokvarit-nl.live
 0.0.0.0 downloadtuesday.com
@@ -39248,6 +39251,7 @@
 0.0.0.0 bierto.shop
 0.0.0.0 protection.lapolice.com
 0.0.0.0 puracustodier-no.live
+0.0.0.0 ads.deltha.hu
 0.0.0.0 www.helderwinstode.click
 0.0.0.0 adjuggler.net
 0.0.0.0 www.kvr-systems.de
@@ -40203,6 +40207,7 @@
 0.0.0.0 julianhospacademy.cakedefi.com
 0.0.0.0 stalarentovanto-cz.com
 0.0.0.0 www.plateformedintelligenceartificiellepourletrading.shop
+0.0.0.0 openais.maricosnc.it
 0.0.0.0 donaraai-it.com
 0.0.0.0 dtantalya.com
 0.0.0.0 dramivorah.com
@@ -41803,7 +41808,6 @@
 0.0.0.0 aurilio-valtrion-solution.com
 0.0.0.0 terehikptg.ink
 0.0.0.0 porzadek-w-biurze.lovable.app
-0.0.0.0 rituals.outlecoa.com
 0.0.0.0 sensorcodrixneo.live
 0.0.0.0 sk.5.p2l.info
 0.0.0.0 adbmetrics.laverdad.es
@@ -52579,6 +52583,7 @@
 0.0.0.0 www.dpverify.dpdns.org
 0.0.0.0 mimeoterro.cyou
 0.0.0.0 www.vtieb.ellaureldelespino.com
+0.0.0.0 www-stats.unipi.it
 0.0.0.0 update-skype.freehostia.com
 0.0.0.0 www.sexmoney.com
 0.0.0.0 axdget-sync.nuggad.net
@@ -55124,6 +55129,7 @@
 0.0.0.0 cboos.innovainnova.com
 0.0.0.0 ruvexa.shop
 0.0.0.0 www.wpad.net.ru
+0.0.0.0 adserverxxl.de
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 www.apteka2000.pl
 0.0.0.0 iesnare.com # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
@@ -62186,6 +62192,7 @@
 0.0.0.0 www.valdoni.com
 0.0.0.0 fgoogle.com
 0.0.0.0 www.ciceklioglu.com
+0.0.0.0 cas.clickability.com
 0.0.0.0 adulatiowealth.com
 0.0.0.0 4389239hihi.bond
 0.0.0.0 tags.tagcade.com
@@ -62861,6 +62868,7 @@
 0.0.0.0 webcontentassessor.com
 0.0.0.0 www.butikyaya.pl
 0.0.0.0 www.underarmoursklep.com
+0.0.0.0 blushingbread.com
 0.0.0.0 kapitex-ai.live
 0.0.0.0 trk.atomex.net
 0.0.0.0 www.kidsangel.com
@@ -73126,7 +73134,6 @@
 0.0.0.0 ingedus.fr
 0.0.0.0 catechjournal.com
 0.0.0.0 bbjcb.com
-0.0.0.0 www.stalconars.club
 0.0.0.0 statsie.com
 0.0.0.0 singaformulus.digital
 0.0.0.0 ads2.mynet.com
@@ -82253,6 +82260,7 @@
 0.0.0.0 www.fudinaa.pro
 0.0.0.0 colddry.com
 0.0.0.0 microsoft-update.name
+0.0.0.0 publicsofa.com
 0.0.0.0 bitwavev5.com
 0.0.0.0 merchant.39281654.shop
 0.0.0.0 www.greattop-goods.press
@@ -89048,6 +89056,7 @@
 0.0.0.0 www.edificegainlux-fr.live
 0.0.0.0 spirees.uk
 0.0.0.0 www.broadstonejournal.info
+0.0.0.0 www.courtneywalker.plus.com
 0.0.0.0 ciscowebex.112.2o7.net
 0.0.0.0 config.claspws.tv
 0.0.0.0 u.ds.duapps.com
@@ -91453,6 +91462,7 @@
 0.0.0.0 ismailersoz.com
 0.0.0.0 ociasb.adtiming.com
 0.0.0.0 torven-rendmere.live
+0.0.0.0 dr.soso.com
 0.0.0.0 www.qyronx.info
 0.0.0.0 www.svoltretia.cyou
 0.0.0.0 tpt.dotomi.com
@@ -94951,7 +94961,6 @@
 0.0.0.0 cashbro.net
 0.0.0.0 figsprotein.com
 0.0.0.0 microsoftuk.122.2o7.net
-0.0.0.0 searchwe.com
 0.0.0.0 www.aldi.syvlyn.shop
 0.0.0.0 www.echostoneunion.info
 0.0.0.0 analytics.upworthy.com
@@ -96268,6 +96277,7 @@
 0.0.0.0 pixel1370.everesttech.net #[WebBug]
 0.0.0.0 v2.api.adflex.vn
 0.0.0.0 teddyni.com
+0.0.0.0 static.inviziads.com
 0.0.0.0 infoxtbai.xyz
 0.0.0.0 ehg-redherring.hitbox.com
 0.0.0.0 smetrics.gomastercard.com.au
@@ -97060,7 +97070,6 @@
 0.0.0.0 v7.viayonetici.com
 0.0.0.0 www.cronetriumsystemsoft.com
 0.0.0.0 rabbitrifle.com
-0.0.0.0 filmeo.tv
 0.0.0.0 reclaemarg.cyou
 0.0.0.0 computernetworksonline.com
 0.0.0.0 pl5.intensv.com
@@ -99754,7 +99763,6 @@
 0.0.0.0 a.one.impact-ad.jp
 0.0.0.0 www.tereacxmkv.wiki
 0.0.0.0 www.zenefgames.com
-0.0.0.0 www.oldmutualaiinvest.shop
 0.0.0.0 www.franowhears.live
 0.0.0.0 attractionmarketing.com
 0.0.0.0 wondehumor.cyou
@@ -100236,6 +100244,7 @@
 0.0.0.0 www.nextgenerationdigest.com
 0.0.0.0 zabijoe.pro
 0.0.0.0 www.ahmetcanturkoglu.com
+0.0.0.0 statdynamic.com
 0.0.0.0 dodajogloszenia.pl
 0.0.0.0 www.polokyujhbd.site
 0.0.0.0 sorvelutikai.live
@@ -100310,7 +100319,6 @@
 0.0.0.0 www.onclicktop.com
 0.0.0.0 www.angelinajoliepics.com
 0.0.0.0 aliclonepro.xyz
-0.0.0.0 www.hsuoxmsr.shop
 0.0.0.0 img.turn.com
 0.0.0.0 www.dziennik-24.com
 0.0.0.0 ds.cybereps.com
