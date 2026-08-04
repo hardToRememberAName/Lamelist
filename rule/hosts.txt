@@ -1,4 +1,4 @@
-# Update time: 2026-08-04 09:16:02
+# Update time: 2026-08-04 21:40:03
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -429,6 +429,7 @@
 127.0.0.1 shinystat.it
 127.0.0.1 vidora.com
 127.0.0.1 82o9v830.com
+127.0.0.1 amcnreil.pro
 127.0.0.1 srvmath.com
 127.0.0.1 euros4click.de
 127.0.0.1 f.pie.org
@@ -13743,7 +13744,6 @@
 0.0.0.0 www.quorixalva.com
 0.0.0.0 www.stakeappengine.com
 0.0.0.0 adsatt.abcnews.starwave.com
-0.0.0.0 myasiantv.gsspcln.jp
 0.0.0.0 fossentix.live
 0.0.0.0 cellphoneincentives.com
 0.0.0.0 the-jenyrafluxivegpt.com
@@ -17728,6 +17728,7 @@
 0.0.0.0 www.brooksbutydobiegania.com
 0.0.0.0 www.wspolnaperspektywajutra.site
 0.0.0.0 ads-admin.hubs.vn
+0.0.0.0 ad.domainfactory.de
 0.0.0.0 sdexiosospsoaodpo.site
 0.0.0.0 ukrashulya.ru
 0.0.0.0 craftsvapace.shop
@@ -22472,7 +22473,6 @@
 0.0.0.0 adultadworld.com
 0.0.0.0 14b.info
 0.0.0.0 www.tereqyjsmu.yoga
-0.0.0.0 www.sunbird-2nn.pages.dev
 0.0.0.0 www.e-litesemi.com
 0.0.0.0 player.mediafuse.com
 0.0.0.0 similnevro.cyou
@@ -29484,7 +29484,6 @@
 0.0.0.0 www.nuvolapatrimivo.net
 0.0.0.0 www.petrenko.biz
 0.0.0.0 www.link.uhlw2va.yunhonghuoyun.com
-0.0.0.0 www.outsourcedav.ltd
 0.0.0.0 pccleaner.com
 0.0.0.0 www.scottishbeddingplants.com
 0.0.0.0 www.zorzawartanis.shop
@@ -39948,7 +39947,6 @@
 0.0.0.0 citi.bridgetrack.com #[Tracking.Cookie]
 0.0.0.0 www.defreosdlsdlapdadlppl.site
 0.0.0.0 vulkanbet-pl.com
-0.0.0.0 sprongwinstent-app.com
 0.0.0.0 srebro-kapitark-ai.com
 0.0.0.0 ads.zynga.com
 0.0.0.0 pamadolexio.live
@@ -40435,7 +40433,6 @@
 0.0.0.0 the-finxorgptapp.net
 0.0.0.0 aurvenixt-es.live
 0.0.0.0 alptrustgpt.live
-0.0.0.0 www.recycall.app
 0.0.0.0 srothuynguyen.com
 0.0.0.0 freehealthpoints.com
 0.0.0.0 swagshoponline.pl
@@ -43795,7 +43792,6 @@
 0.0.0.0 www.pluvexo.shop
 0.0.0.0 www.advertise.com
 0.0.0.0 trreyshdjjaiduweraa.site
-0.0.0.0 www.bainrok.net
 0.0.0.0 www.sisusosgb.com
 0.0.0.0 www.dornatrixel-engine.com
 0.0.0.0 collagenforwellnessandbeauty.com
@@ -43892,6 +43888,7 @@
 0.0.0.0 ads.amdmb.com
 0.0.0.0 www.certivaro.cyou
 0.0.0.0 ads.profitsdeluxe.com
+0.0.0.0 ysiu.freenation.com
 0.0.0.0 potamsculp.cyou
 0.0.0.0 www.drofmadisci.cyou
 0.0.0.0 azovona.com
@@ -44888,6 +44885,7 @@
 0.0.0.0 www24.glam.com
 0.0.0.0 milde-okoberg.live
 0.0.0.0 www.keystonefinda.com
+0.0.0.0 globalbank.us
 0.0.0.0 www.treeloot.com
 0.0.0.0 squeiiteague.info
 0.0.0.0 seiranshuuekifuwa-ja.com
@@ -47085,6 +47083,7 @@
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 wolfaravmoreaas.online
 0.0.0.0 streamherplexnx.pro
+0.0.0.0 wlmarketing.com
 0.0.0.0 www.solvane-equitaux.live
 0.0.0.0 a.libertystmedia.com
 0.0.0.0 tracecontent.com
@@ -47223,6 +47222,7 @@
 0.0.0.0 microwinds.de
 0.0.0.0 ifa.xhamstercams.com
 0.0.0.0 myvlan.digital
+0.0.0.0 www.tronix-gpt.live
 0.0.0.0 www.easlypark.top
 0.0.0.0 www.share1techinfo.stech.site
 0.0.0.0 pl-79304912.click
@@ -52189,6 +52189,7 @@
 0.0.0.0 leandroceleste.live
 0.0.0.0 aio.lp.mydas.mobi
 0.0.0.0 www.evil69.com
+0.0.0.0 btn.clickability.com
 0.0.0.0 allstate.122.2o7.net
 0.0.0.0 altrixedge.site
 0.0.0.0 www.dashlasixhex-pt.com
@@ -52200,6 +52201,7 @@
 0.0.0.0 www.sterkkalvix-zh.live
 0.0.0.0 a.webwise.org
 0.0.0.0 www.ypfprogramadeinversion.shop
+0.0.0.0 images.bnmq.com
 0.0.0.0 www.cliffglobal.graphql-debugger.com
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 www.nccommunication.be
@@ -52868,7 +52870,6 @@
 0.0.0.0 mije.fr
 0.0.0.0 www.bitgpt.org
 0.0.0.0 www.registeredtmcommercial.com
-0.0.0.0 www.developme.digital
 0.0.0.0 www.wu4652.com.tw
 0.0.0.0 www.sensaciijapolnd.site
 0.0.0.0 stats.twistage.com
@@ -57226,7 +57227,6 @@
 0.0.0.0 noncoselci.cyou
 0.0.0.0 ads.tremorhub.com
 0.0.0.0 dmp.eclick.vn
-0.0.0.0 zenitdochodek.com
 0.0.0.0 pgttdinnovidna5267443539015.s.moatpixel.com
 0.0.0.0 www.letabli-ai.live
 0.0.0.0 advertise.com
@@ -60208,6 +60208,7 @@
 0.0.0.0 www.androidsecurityplus.com
 0.0.0.0 www.diversforsanctuaries.com
 0.0.0.0 evertherenous.info
+0.0.0.0 ads.toronto.com
 0.0.0.0 www.nabkayzu.shop
 0.0.0.0 xanax-store.shengen.ru
 0.0.0.0 monetpevnov.live
@@ -60400,7 +60401,6 @@
 0.0.0.0 ad.pickple.net
 0.0.0.0 www.weriaokidoapddaoldiak.com
 0.0.0.0 www.lopsolfopsfosdlosflsfoee.site
-0.0.0.0 statdynamic.com
 0.0.0.0 dodajogloszenia.pl
 0.0.0.0 www.czujny-wardownia-pl.com
 0.0.0.0 sorvelutikai.live
@@ -60691,6 +60691,7 @@
 0.0.0.0 www.izmireldokumahali.com
 0.0.0.0 www.mysavrynpulseai.net
 0.0.0.0 www.qzovarel-app.com
+0.0.0.0 oascentral.wkrn.com
 0.0.0.0 www.fintrionx.digital
 0.0.0.0 welkruvozan-it.live
 0.0.0.0 lithoscape.net
@@ -61054,6 +61055,7 @@
 0.0.0.0 www.stalco-pl.club
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 tags.mediaforge.com
+0.0.0.0 ehg.hitbox.com
 0.0.0.0 www.stasigarbe.cyou
 0.0.0.0 willapasym.pl
 0.0.0.0 www.littlebrightbook.com
@@ -65949,7 +65951,6 @@
 0.0.0.0 www.redinnovacionglobal.com
 0.0.0.0 adserv.net
 0.0.0.0 free.mymapsexpress.com
-0.0.0.0 scrouhanas.cyou
 0.0.0.0 www.femalesecurityagency.com
 0.0.0.0 www.fuelyx.com
 0.0.0.0 nsdldlese.112.2o7.net
@@ -74932,7 +74933,6 @@
 0.0.0.0 www.bilbob.com
 0.0.0.0 www.aiforlogodesign.com
 0.0.0.0 www.algondiner.cyou
-0.0.0.0 www9.servequake.com
 0.0.0.0 harrenmedia.com
 0.0.0.0 bikebazaarnepal.com
 0.0.0.0 gazette-news.xyz
@@ -76669,7 +76669,6 @@
 0.0.0.0 balvionextrade.net
 0.0.0.0 s3-ap-southeast-2-amazonaws.com
 0.0.0.0 www.plateformedintelligenceartificiellepourletrading.shop
-0.0.0.0 openais.maricosnc.it
 0.0.0.0 newsval.digital
 0.0.0.0 pixel.pointmediatracker.com
 0.0.0.0 sicherkapital20.net
@@ -76782,7 +76781,6 @@
 0.0.0.0 images-dl.taboola.com
 0.0.0.0 www.abetterinternet.com
 0.0.0.0 www.secure-verify-info.ddns.info
-0.0.0.0 www.youpinio.com
 0.0.0.0 www.fxcounters.com
 0.0.0.0 cdnmedia.xyz
 0.0.0.0 www.pulsarvexlinetrade.com
@@ -76963,7 +76961,6 @@
 0.0.0.0 jeffreylali.shop
 0.0.0.0 matomo.bantheme.xyz
 0.0.0.0 www.finlab8-itaque59.sbs
-0.0.0.0 www.dieticellu.cyou
 0.0.0.0 www.4k45ijk.skin
 0.0.0.0 db3.net-filter.com
 0.0.0.0 neurotradeai.click
@@ -78907,7 +78904,6 @@
 0.0.0.0 kassegewinnburg.live
 0.0.0.0 www.shentu750.com
 0.0.0.0 www.btcponsia.digital
-0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 cash4popup.de
 0.0.0.0 antoinettepoisson.fr
 0.0.0.0 www.nqslmtuswqdz.com
@@ -80904,7 +80900,6 @@
 0.0.0.0 api.vungle.com
 0.0.0.0 www.decovillaa.com
 0.0.0.0 growth-sherpa.com
-0.0.0.0 teads-match.dotomi.com
 0.0.0.0 www.astrtone.site
 0.0.0.0 rikunexa.com
 0.0.0.0 taegankelley.com
@@ -82551,7 +82546,6 @@
 0.0.0.0 pmetrics.getclicky.com
 0.0.0.0 jamesdanthony.com
 0.0.0.0 centroluxalis.pro
-0.0.0.0 www.rinnaredam.cyou
 0.0.0.0 brenton-vale.live
 0.0.0.0 monetisetrk3.co.uk
 0.0.0.0 toiletpaperprices.com
@@ -83192,7 +83186,6 @@
 0.0.0.0 vinted.id-order591335.help
 0.0.0.0 specidulse.cyou
 0.0.0.0 fondsdutch.net
-0.0.0.0 www.fakty33a.is-best.net
 0.0.0.0 a.kerg.net
 0.0.0.0 banners.yllix.com
 0.0.0.0 a.goember.com
@@ -87928,7 +87921,6 @@
 0.0.0.0 a1233.casalemedia.com
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 stupendoussnow.com
-0.0.0.0 kickoffo.site
 0.0.0.0 oneminuteplayfestival.org
 0.0.0.0 justsayit.online
 0.0.0.0 www.vyxelleqranto.pro
@@ -88438,7 +88430,6 @@
 0.0.0.0 topnews.us.intellitxt.com
 0.0.0.0 www.valoryzex.net
 0.0.0.0 dilavinvet.cyou
-0.0.0.0 www.vitalmercovia.shop
 0.0.0.0 www.imeds.ero-advertising.com
 0.0.0.0 static.scanscout.com #[Video.adpresentation]
 0.0.0.0 ouirion-fr.live
@@ -98044,7 +98035,6 @@
 0.0.0.0 www.poznajpolki24.pl
 0.0.0.0 www.selfpwn.org
 0.0.0.0 994119.r.axf8.net
-0.0.0.0 shopfink.shop
 0.0.0.0 www.bendjserious.lavoixdessages.com
 0.0.0.0 www.ukashcedarfield.com
 0.0.0.0 maven.blueconic.net
@@ -103085,7 +103075,6 @@
 0.0.0.0 thebeanandcheese.com
 0.0.0.0 chanhuigujian.com
 0.0.0.0 otwartydzienkalvero.site
-0.0.0.0 lp.empire.goodgamestudios.com
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 metrics.cleveland.com
 0.0.0.0 btc-protocol-z960.pro
@@ -104152,7 +104141,6 @@
 0.0.0.0 exit76.com
 0.0.0.0 service.innovid.com
 0.0.0.0 www.neuvefondvrac-it.live
-0.0.0.0 www.federalhappyjdi.site
 0.0.0.0 www.additcinggames.com
 0.0.0.0 dontwatch.us
 0.0.0.0 acutoborsettura-ai.com
@@ -104762,7 +104750,6 @@
 0.0.0.0 aporasal.net
 0.0.0.0 truonqthinhphat.biz
 0.0.0.0 inmobi.cn
-0.0.0.0 www.bagslap.com
 0.0.0.0 cdn.tynt.com
 0.0.0.0 media.carambo.la
 0.0.0.0 www.prostakzvnqdrogadonowychpomyslow.site
