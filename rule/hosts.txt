@@ -1,4 +1,4 @@
-# Update time: 2026-08-12 08:52:52
+# Update time: 2026-08-12 20:38:30
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -1446,6 +1446,7 @@
 127.0.0.1 minibilling.com
 127.0.0.1 adrecover.com
 127.0.0.1 tracking.wetter.at
+127.0.0.1 data.hailuo.ai
 127.0.0.1 et.nytimes.com
 127.0.0.1 g2.gumgum.com
 127.0.0.1 phoenix-adrunner.mycomputer.com
@@ -2606,6 +2607,7 @@
 127.0.0.1 easyhits4u.com
 127.0.0.1 q.azcentral.com
 127.0.0.1 mrskincash.com
+127.0.0.1 rum-openway.guance.com
 127.0.0.1 creatives.livejasmin.com
 127.0.0.1 wwwpromoter.com
 127.0.0.1 analytics-production.hapyak.com
@@ -20784,7 +20786,6 @@
 0.0.0.0 huiniyanotr.com
 0.0.0.0 www.rendiva-gpt.net
 0.0.0.0 finlab9-voluptatum74.sbs
-0.0.0.0 clk1005.com
 0.0.0.0 zippyfiles.topupload.ru
 0.0.0.0 dinovargpt.digital
 0.0.0.0 njfenpai.com
@@ -21494,7 +21495,6 @@
 0.0.0.0 marcofama.it
 0.0.0.0 skjorendalplatform.com
 0.0.0.0 jervix.shop
-0.0.0.0 www.cedrovy-vynostek.live
 0.0.0.0 veloratrade.live
 0.0.0.0 randkipremium.pl
 0.0.0.0 www.chainatarax-500.pro
@@ -21695,7 +21695,6 @@
 0.0.0.0 direct-promo.pro
 0.0.0.0 the-voxrenda.com
 0.0.0.0 addme.com
-0.0.0.0 www.compassyielova.net
 0.0.0.0 std.o.webmd.com #[Web Bug]
 0.0.0.0 ridgefundasteadai.live
 0.0.0.0 berneyarms.com
@@ -22906,7 +22905,6 @@
 0.0.0.0 www.xulmar.shop
 0.0.0.0 click.infoblox.com
 0.0.0.0 sortable.com
-0.0.0.0 eb.prout.be
 0.0.0.0 eu-commercialb.com
 0.0.0.0 fuckworld.com
 0.0.0.0 wilkiewicz.pl
@@ -23217,6 +23215,7 @@
 0.0.0.0 filter.ezmob.com
 0.0.0.0 www.unejasmori.cyou
 0.0.0.0 vst.c.appier.net
+0.0.0.0 secure.leadforensics.com
 0.0.0.0 doga.cm
 0.0.0.0 www.blackrosefinbitnextech.com
 0.0.0.0 www.booking.yuantai668.com
@@ -26306,7 +26305,6 @@
 0.0.0.0 epicoptiplextech.com
 0.0.0.0 solidariteitwelvaart.live
 0.0.0.0 www.gitnexzolotrade.com
-0.0.0.0 bank03.ads.dt.mydas.mobi
 0.0.0.0 track.tenjin.com
 0.0.0.0 havaninvestimentossa.live
 0.0.0.0 www.arditarentovia-it.com
@@ -35002,7 +35000,6 @@
 0.0.0.0 flanaholic.com
 0.0.0.0 solartia.com
 0.0.0.0 www.aitradecore.net
-0.0.0.0 www.grunnfundvia-tech.com
 0.0.0.0 www.3i8u2u.hair
 0.0.0.0 anclavanza-ai.live
 0.0.0.0 www.apply-for-sex.com
@@ -38931,7 +38928,6 @@
 0.0.0.0 finance-offer.com
 0.0.0.0 oclaserver.com
 0.0.0.0 doqpm.click
-0.0.0.0 www.exactocreditant-es.live
 0.0.0.0 www.spring-wallpaper.com
 0.0.0.0 paradnapozicka.net
 0.0.0.0 trailerservicescom.112.2o7.net
@@ -44560,7 +44556,6 @@
 0.0.0.0 users16.jabry.com
 0.0.0.0 luzonfundvex.net
 0.0.0.0 ojrq.net
-0.0.0.0 lskzwapf.hiragazza.com
 0.0.0.0 www.mgid.com
 0.0.0.0 crypterium21ai-app.live
 0.0.0.0 iau.adsiduous.com
@@ -51946,7 +51941,6 @@
 0.0.0.0 serotimpal.autos
 0.0.0.0 www.viralenzio.digital
 0.0.0.0 columvouch.cyou
-0.0.0.0 db2.net-filter.com
 0.0.0.0 www.mansmith.net
 0.0.0.0 www.fb.verifiblueaccesscentermetaai.site
 0.0.0.0 ads.ccgateway.net
@@ -53690,7 +53684,6 @@
 0.0.0.0 sincorrabtcv85.org
 0.0.0.0 a.netmng.com
 0.0.0.0 www.przelomowatechnologiiapl.site
-0.0.0.0 www.7500.com
 0.0.0.0 jjldmz.com
 0.0.0.0 www.leallucrivado.com
 0.0.0.0 www.finlab4-autem58.sbs
@@ -54142,7 +54135,6 @@
 0.0.0.0 luzfundoria-platform.com
 0.0.0.0 www.z4mn9qp.casa
 0.0.0.0 www2.addfreestats.com
-0.0.0.0 www.cor28uvi.site
 0.0.0.0 aldi-us.provisionaisle.shop
 0.0.0.0 www.negativesphere.com
 0.0.0.0 polarcdn-terrax.com
@@ -59203,7 +59195,6 @@
 0.0.0.0 www.pracownia-finansowa.pl
 0.0.0.0 lokalniprzewodnicy.com.pl
 0.0.0.0 img.linkstorm.net
-0.0.0.0 counter.yesky.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 luprixapptrade.com
 0.0.0.0 clickthru.net
@@ -61601,7 +61592,6 @@
 0.0.0.0 genddos.st
 0.0.0.0 luprixorgptapp.com
 0.0.0.0 qubitradeai.live
-0.0.0.0 www.hogfundrelix-app.com
 0.0.0.0 abbarretto.autos
 0.0.0.0 amisto-edge.net
 0.0.0.0 a.dynad.net
@@ -67039,7 +67029,6 @@
 0.0.0.0 www.cimarendavioai.live
 0.0.0.0 www.vistafinvora.live
 0.0.0.0 go.xlirdr.com
-0.0.0.0 www.finlab8-sint14.sbs
 0.0.0.0 www.depretraie.autos
 0.0.0.0 zalp423.eu.cc
 0.0.0.0 www.helvetinvest.live
@@ -69303,7 +69292,6 @@
 0.0.0.0 www.dunlop.force9.co.uk
 0.0.0.0 www.gevinakonapp.live
 0.0.0.0 tracking.dantri.com.vn
-0.0.0.0 www.loxavariumkapiloq.com
 0.0.0.0 www.naturalnymomentpkxiojutro.site
 0.0.0.0 unbanxarnaque.live
 0.0.0.0 azaskoaodpadoaspr.site
@@ -72818,7 +72806,6 @@
 127.0.0.1 local
 0.0.0.0 www.bitcoinnova-ai.live
 0.0.0.0 assets.customer.io
-0.0.0.0 www.wplicensing.com
 0.0.0.0 www.lotusrpg.net
 0.0.0.0 va-g2.gumgum.com
 0.0.0.0 pxf.io
@@ -72956,7 +72943,6 @@
 0.0.0.0 www.irony.world
 0.0.0.0 www.4lk4hei.hair
 0.0.0.0 www.velorafondsaiv2.live
-0.0.0.0 a.beliefnet.com
 0.0.0.0 biethyt.com
 0.0.0.0 wmail-schnellvpn.com
 0.0.0.0 www.biedrankosale.shop
@@ -73420,7 +73406,6 @@
 0.0.0.0 www.exchange-it.com
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 smetrics.costco.ca
-0.0.0.0 climate-actionpayment.com
 0.0.0.0 brightsport.com
 0.0.0.0 engine.cmmeglobal.com
 0.0.0.0 btcdeltion560.com
@@ -78808,7 +78793,6 @@
 0.0.0.0 lavionixtrade.com
 0.0.0.0 stat24.com
 0.0.0.0 videotroncom.112.2o7.net
-0.0.0.0 push.aarth.net
 0.0.0.0 copperrendivale.net
 0.0.0.0 ad31digital.checkm8.com
 0.0.0.0 rok.com.com
@@ -80796,7 +80780,6 @@
 0.0.0.0 tag-demo.mention-me.com
 0.0.0.0 www.wojs.mc2it.shop
 0.0.0.0 www123.glam.com
-0.0.0.0 free-counter.co.uk
 0.0.0.0 5i2.net
 0.0.0.0 tag.clrstm.com
 0.0.0.0 redivosrl.it
@@ -81249,7 +81232,6 @@
 0.0.0.0 zenitbique.shop
 0.0.0.0 protected.net
 0.0.0.0 resources.kiosked.com
-0.0.0.0 zoogaundwe.cyou
 0.0.0.0 netmera-web.com
 0.0.0.0 tube8vidstyp.ddns.name
 0.0.0.0 clairvexon.com
@@ -82972,7 +82954,6 @@
 0.0.0.0 cantena.com
 0.0.0.0 www.monstean.net
 0.0.0.0 software-updates.co
-0.0.0.0 www.sebcotrk.com
 0.0.0.0 filmygo.pl
 0.0.0.0 laptopmag.us.intellitxt.com
 0.0.0.0 foxidol.112.2o7.net
@@ -87464,6 +87445,7 @@
 0.0.0.0 cpcclick.novanet.vn
 0.0.0.0 finance95-dolorem94.space
 0.0.0.0 autotradenexus.net
+0.0.0.0 logiclisprox.click
 0.0.0.0 www.greymoorlegal.com
 0.0.0.0 www.lpbostprevki50.d9wpwj.sbs
 0.0.0.0 ar.voicefive.com
@@ -92070,7 +92052,6 @@
 0.0.0.0 palekestmark.live
 0.0.0.0 kernefinluxar-soft.com
 0.0.0.0 novaon.asia
-0.0.0.0 redmontcalvholm-ai.com
 0.0.0.0 icon.eu.mndsrv.com
 0.0.0.0 www.aitcapex.com
 0.0.0.0 nmnandomedia.112.2o7.net
