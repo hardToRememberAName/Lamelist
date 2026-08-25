@@ -1,4 +1,4 @@
-# Update time: 2026-08-24 20:20:59
+# Update time: 2026-08-25 08:30:45
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -11719,6 +11719,7 @@
 0.0.0.0 www.velgorinthmarnexa.net
 0.0.0.0 www.uhvauldrip.site
 0.0.0.0 viagraviagra.3xforum.ro
+0.0.0.0 www.tapart.live
 0.0.0.0 dargiq.shop
 0.0.0.0 www.henaaccoc.autos
 0.0.0.0 l7bl2.e9dodv.top
@@ -14927,6 +14928,7 @@
 0.0.0.0 www.hxtrack.com
 0.0.0.0 contrmalac.click
 0.0.0.0 www.quiglyai.net
+0.0.0.0 ads.epltalk.com
 0.0.0.0 glidflair.site
 0.0.0.0 www.vastechainoire.com
 0.0.0.0 foundationnational-ai.live
@@ -18044,7 +18046,6 @@
 0.0.0.0 tracksitetraffic1.com
 0.0.0.0 directoffers.go2cloud.org
 0.0.0.0 astat.bugly.qq.com
-0.0.0.0 clients.bluecava.com
 0.0.0.0 ab.advertiserurl.com
 0.0.0.0 git.younetmedia.com
 0.0.0.0 www.wd.podatkinf.com
@@ -18931,6 +18932,7 @@
 0.0.0.0 www.aldiusa.pspick.shop
 0.0.0.0 www.ezebrafr-eur.sbs
 0.0.0.0 kissmetrics.com
+0.0.0.0 ads.cdnow.com
 0.0.0.0 www.lebzentfeed.site
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 sanitardirektlokal.com
@@ -21641,6 +21643,7 @@
 0.0.0.0 guest.adultfriendfinder.com
 0.0.0.0 tradeeurax.org
 0.0.0.0 vantfleet.site
+0.0.0.0 www.arginrendova.com
 0.0.0.0 www.f1q7vh.lat
 0.0.0.0 finlab9-vero80.sbs
 0.0.0.0 ytuy45fxs.appspot.com
@@ -22401,6 +22404,7 @@
 0.0.0.0 www.starkertragstein.click
 0.0.0.0 wolverineworldwide.fr
 0.0.0.0 www.finabrighta.com
+0.0.0.0 c4.cembuyukhanli.com
 0.0.0.0 jentsense.site
 0.0.0.0 www.polska-capital-ai.com
 0.0.0.0 gads.pubmatic.com
@@ -29713,6 +29717,7 @@
 0.0.0.0 www.vramket.shop
 0.0.0.0 ricaprestovia.com
 0.0.0.0 epsalayer.site
+0.0.0.0 www.trafficnetworkads24.com
 0.0.0.0 ser.adledge.com
 0.0.0.0 gommoneusato.it
 0.0.0.0 office365-us-update.com
@@ -30698,6 +30703,7 @@
 0.0.0.0 skarvexa-ai.com
 0.0.0.0 www.vulkanvegas105.com
 0.0.0.0 www.btccentrixtrade.com
+0.0.0.0 tomshardware.se.intellitxt.com
 0.0.0.0 propk.sa.com
 0.0.0.0 www.aldideals.qalivo.shop
 0.0.0.0 finny7-quo94.sbs
@@ -31331,7 +31337,7 @@
 0.0.0.0 moodretrieval.com
 0.0.0.0 finansowa-dolina.online
 0.0.0.0 www.mateuszkaratysz.live
-0.0.0.0 www.mayaballetstudio.live
+0.0.0.0 adserver.filefront.com
 0.0.0.0 www.xenodrivegear.site
 0.0.0.0 www.informcje2.is-best.net
 0.0.0.0 t.blogreaderproject.com #[WebBug]
@@ -34973,7 +34979,6 @@
 0.0.0.0 izgarafinchley.live
 0.0.0.0 www.vintrexon.pl
 0.0.0.0 www.corezboard.site
-0.0.0.0 feelwarmth.com
 0.0.0.0 exchangenerate.com
 0.0.0.0 vider-image.com
 0.0.0.0 westyngainvale.com
@@ -36826,6 +36831,7 @@
 0.0.0.0 contentwidgets.net
 0.0.0.0 genetree.112.2o7.net
 0.0.0.0 www.obratura.net
+0.0.0.0 www.opoliumai.com
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 finlab9-rerum90.sbs
 0.0.0.0 elememory.com
@@ -40368,6 +40374,7 @@
 0.0.0.0 fairu-endpoint.xyz
 0.0.0.0 st.eclick.vn
 0.0.0.0 affiliate.baazee.com
+0.0.0.0 counter1.fc2.com
 0.0.0.0 vap4ewr1.lijit.com
 0.0.0.0 mdwsavannah.112.2o7.net
 0.0.0.0 www.bubnob.com
@@ -42662,7 +42669,6 @@
 0.0.0.0 ttoc8ok.com
 0.0.0.0 www.orlentinara.info
 0.0.0.0 reklamanet.net
-0.0.0.0 ploaz54.com
 0.0.0.0 www.baltzyskura.com
 0.0.0.0 mediaterre.fr
 0.0.0.0 adstogo.com
@@ -45187,6 +45193,7 @@
 0.0.0.0 www.diament-lokatren.com
 0.0.0.0 www.aldimart.jordalegrocer.shop
 0.0.0.0 teens24h.com
+0.0.0.0 selwickbrief.com
 0.0.0.0 popcapgames.122.2o7.net
 0.0.0.0 foto-zdjecia.24.eu
 0.0.0.0 ash.creativecdn.com
@@ -45876,6 +45883,7 @@
 0.0.0.0 iv24.pl
 0.0.0.0 www.ibrainer.net
 0.0.0.0 ad5.banners.ero-advertising.com
+0.0.0.0 adxxx.me
 0.0.0.0 multi.xnxx.com
 0.0.0.0 www.skarpawarszawska.live
 0.0.0.0 advertwizard.com
@@ -46428,6 +46436,7 @@
 0.0.0.0 www.59bkf.e5ulrp.cfd
 0.0.0.0 www.ryphormercadoappreviews.org
 0.0.0.0 www.v8p1xr.lat
+0.0.0.0 testdata.coremetrics.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 winfreetoday.com
 0.0.0.0 t.pswec.com
@@ -49642,6 +49651,7 @@
 0.0.0.0 www.podatki-za.podatsnet.com
 0.0.0.0 monotunez.live
 0.0.0.0 nytrwinterhaven.112.2o7.net
+0.0.0.0 www.paidtheme.com
 0.0.0.0 hpphhpph.com
 0.0.0.0 fisio0-soluta60.sbs
 0.0.0.0 t.mmtrkr.com
@@ -50762,6 +50772,7 @@
 0.0.0.0 www.mindrcast.site
 0.0.0.0 www.theinverzogptapps.net
 0.0.0.0 park.above.com
+0.0.0.0 adserver.van.net
 0.0.0.0 media.yesmessenger.com
 0.0.0.0 freeitsodisfooswed.site
 0.0.0.0 www.aivojump.site
@@ -51131,7 +51142,6 @@
 0.0.0.0 1000lashes.com
 0.0.0.0 twt.o8fgwc.top
 0.0.0.0 www.arthrpuntu.autos
-0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 yervion.shop
 0.0.0.0 cashreportz.com
 0.0.0.0 hb.nexage.com
@@ -56523,7 +56533,6 @@
 0.0.0.0 members.chello.nl
 0.0.0.0 euonlsp.shop
 0.0.0.0 www.ozvelum.shop
-0.0.0.0 www.qgl.n4uozw.cfd
 0.0.0.0 www.tecnomediahub.com
 0.0.0.0 swapatarax2u.net
 0.0.0.0 www.aerosxtrail.top
@@ -58460,6 +58469,7 @@
 0.0.0.0 cas.clickability.com
 0.0.0.0 tags.tagcade.com
 0.0.0.0 banner.thadaco.vn
+0.0.0.0 www.fisio2-vitae49.sbs
 0.0.0.0 ads.adtheorent.com
 0.0.0.0 www.savrynpulseai.net
 0.0.0.0 crypnovousaisoft.com
@@ -58560,6 +58570,7 @@
 0.0.0.0 www.impulsorenditura.com
 0.0.0.0 csp.fastclick.net
 0.0.0.0 b.logging.admicro.vn
+0.0.0.0 www.provod272.biz
 0.0.0.0 anticsoffi.cyou
 0.0.0.0 estabrisar.store
 0.0.0.0 metrics.boston.com
@@ -62926,6 +62937,7 @@
 0.0.0.0 a.triggit.com
 0.0.0.0 www.specializeds.com.pl
 0.0.0.0 adserver.spankaway.com
+0.0.0.0 www.allieglroolokanie.tinicewey.wiki
 0.0.0.0 link4link.com
 0.0.0.0 heroesofrpg.com
 0.0.0.0 pedalammac.autos
@@ -64087,7 +64099,6 @@
 0.0.0.0 aldieu.baltrionniceday.shop
 0.0.0.0 piast-kapitura.com
 0.0.0.0 fcanr.tracking.miui.com
-0.0.0.0 ad.nwt.cz
 0.0.0.0 vq918450.com
 0.0.0.0 www.wwwplaysite.com
 0.0.0.0 central1creditunion.112.2o7.net
@@ -67907,6 +67918,7 @@
 0.0.0.0 harusriabb.autos
 0.0.0.0 koliekaks.net
 0.0.0.0 martdance.live
+0.0.0.0 straightnest.com
 0.0.0.0 www.epaikopmhtiko24.today
 0.0.0.0 www.themytrixhalogpt.com
 0.0.0.0 vulkanvegaspl.com
@@ -90626,6 +90638,7 @@
 0.0.0.0 www.bitoranje.net
 0.0.0.0 www.clientsitehub.com
 0.0.0.0 adstub.net
+0.0.0.0 mobilesoft.fr
 0.0.0.0 www.vartomir.org
 0.0.0.0 exquisitgeessence.shop
 0.0.0.0 pub.lavanetwork.net
@@ -92700,6 +92713,7 @@
 0.0.0.0 www.falnaro.shop
 0.0.0.0 www.novaliratechki.net
 0.0.0.0 wat.ad.daum.net
+0.0.0.0 ads.examiner.net
 0.0.0.0 www.bitcoinup-pro.com
 0.0.0.0 e-randeczki.pl
 0.0.0.0 www.riverbed.pl
@@ -93724,6 +93738,7 @@
 0.0.0.0 bank06.ads.dt.mydas.mobi
 0.0.0.0 www.concept2.live
 0.0.0.0 www.helper-metechatsmes-2026.store
+0.0.0.0 ads.gld.dk
 0.0.0.0 sroomafp.allyes.com
 0.0.0.0 audience2media.com
 0.0.0.0 pewna-inwestotivpro.com
