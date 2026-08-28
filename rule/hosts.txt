@@ -1,4 +1,4 @@
-# Update time: 2026-08-28 05:22:13
+# Update time: 2026-08-28 15:18:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -14858,6 +14858,7 @@
 0.0.0.0 o2-verification.netlify.app
 0.0.0.0 www.hxtrack.com
 0.0.0.0 contrmalac.click
+0.0.0.0 ads.epltalk.com
 0.0.0.0 glidflair.site
 0.0.0.0 www.vastechainoire.com
 0.0.0.0 foundationnational-ai.live
@@ -17649,6 +17650,7 @@
 0.0.0.0 geovazap.site
 0.0.0.0 sofa01.webtrekk.net
 0.0.0.0 greatfireoflondon.org.uk
+0.0.0.0 js.e-generator.com
 0.0.0.0 wmail-cdn.com
 0.0.0.0 cdn.blisspointmedia.com
 0.0.0.0 tags.extole.com
@@ -17879,6 +17881,7 @@
 0.0.0.0 tracksitetraffic1.com
 0.0.0.0 directoffers.go2cloud.org
 0.0.0.0 astat.bugly.qq.com
+0.0.0.0 clients.bluecava.com
 0.0.0.0 ab.advertiserurl.com
 0.0.0.0 git.younetmedia.com
 0.0.0.0 www.wd.podatkinf.com
@@ -18739,6 +18742,7 @@
 0.0.0.0 www.aldiusa.pspick.shop
 0.0.0.0 www.ezebrafr-eur.sbs
 0.0.0.0 kissmetrics.com
+0.0.0.0 ads.cdnow.com
 0.0.0.0 www.lebzentfeed.site
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 sanitardirektlokal.com
@@ -22069,6 +22073,7 @@
 0.0.0.0 www.starkertragstein.click
 0.0.0.0 wolverineworldwide.fr
 0.0.0.0 www.finabrighta.com
+0.0.0.0 c4.cembuyukhanli.com
 0.0.0.0 jentsense.site
 0.0.0.0 www.polska-capital-ai.com
 0.0.0.0 gads.pubmatic.com
@@ -26633,6 +26638,7 @@
 0.0.0.0 www.investwavemax.app
 0.0.0.0 gpaper180.112.2o7.net
 0.0.0.0 blaser.vip
+0.0.0.0 gobusinessloan.com
 0.0.0.0 www.grotuxiv-nl.org
 0.0.0.0 snapxrembolex.com
 0.0.0.0 pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
@@ -26833,6 +26839,7 @@
 0.0.0.0 www.modelsailboat.net
 0.0.0.0 campbnaufr.autos
 0.0.0.0 www.meravokern.de
+0.0.0.0 static.adroute.focas.jp
 0.0.0.0 www.mts.pu1wpn.top
 0.0.0.0 www.stalsrubiarnia.pl
 0.0.0.0 www.larch-vaultmere.org
@@ -26888,6 +26895,7 @@
 0.0.0.0 smt.admaster.com.cn
 0.0.0.0 ae.gsecondscreen.com
 0.0.0.0 lorncreditvale.sbs
+0.0.0.0 ca-conv.jp
 0.0.0.0 olx.ofera98823882.shop
 0.0.0.0 1493361689.rsc.cdn77.org
 0.0.0.0 smetrics.crocs.com
@@ -29121,6 +29129,7 @@
 0.0.0.0 ricaprestovia.com
 0.0.0.0 www.clarimarkun.site
 0.0.0.0 epsalayer.site
+0.0.0.0 www.trafficnetworkads24.com
 0.0.0.0 ser.adledge.com
 0.0.0.0 gommoneusato.it
 0.0.0.0 office365-us-update.com
@@ -30079,6 +30088,7 @@
 0.0.0.0 skarvexa-ai.com
 0.0.0.0 www.vulkanvegas105.com
 0.0.0.0 www.btccentrixtrade.com
+0.0.0.0 tomshardware.se.intellitxt.com
 0.0.0.0 propk.sa.com
 0.0.0.0 www.aldideals.qalivo.shop
 0.0.0.0 finny7-quo94.sbs
@@ -30701,6 +30711,7 @@
 0.0.0.0 www.ohniskotradevo.shop
 0.0.0.0 moodretrieval.com
 0.0.0.0 www.mateuszkaratysz.live
+0.0.0.0 adserver.filefront.com
 0.0.0.0 www.mayaballetstudio.live
 0.0.0.0 www.xenodrivegear.site
 0.0.0.0 www.informcje2.is-best.net
@@ -35044,6 +35055,7 @@
 0.0.0.0 www.zoliadith.rest
 0.0.0.0 www.pl15.landofm.com
 0.0.0.0 www.finny6-iste45.sbs
+0.0.0.0 a1.goo.ne.jp
 0.0.0.0 scm.publishers.tremorhub.com
 0.0.0.0 www.trenqorforgetrade.com
 0.0.0.0 quickcash-system.com
@@ -35931,6 +35943,7 @@
 0.0.0.0 8604.engine.mobileapptracking.com
 0.0.0.0 voltifire.site
 0.0.0.0 zbiornik.com
+0.0.0.0 ads24.net
 0.0.0.0 redge-a.akamaihd.net
 0.0.0.0 www.celeify.site
 0.0.0.0 admicro1.vcmedia.vn
@@ -38128,6 +38141,7 @@
 0.0.0.0 powellsbooks.122.2o7.net
 0.0.0.0 finlab9-eveniet7.sbs
 0.0.0.0 profitego-fundbox-ai.com
+0.0.0.0 s-39.predictvideo.com
 0.0.0.0 ni-2fq.pages.dev
 0.0.0.0 gmtdmp.mookie1.com
 0.0.0.0 www.belnuki.shop
@@ -44744,6 +44758,7 @@
 0.0.0.0 iv24.pl
 0.0.0.0 www.ibrainer.net
 0.0.0.0 ad5.banners.ero-advertising.com
+0.0.0.0 adxxx.me
 0.0.0.0 www.crowbbisbo.store
 0.0.0.0 multi.xnxx.com
 0.0.0.0 www.skarpawarszawska.live
@@ -45264,6 +45279,7 @@
 0.0.0.0 www.59bkf.e5ulrp.cfd
 0.0.0.0 www.ryphormercadoappreviews.org
 0.0.0.0 www.v8p1xr.lat
+0.0.0.0 testdata.coremetrics.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 winfreetoday.com
 0.0.0.0 t.pswec.com
@@ -47392,7 +47408,6 @@
 0.0.0.0 www.gelditrumtrade.de
 0.0.0.0 taisrivog.cyou
 0.0.0.0 www.kyphosquea.autos
-0.0.0.0 bank13.ads.mp.mydas.mobi
 0.0.0.0 clicktshirtprinting.co.uk
 0.0.0.0 uwdsiosdierijsdfusdfios.site
 0.0.0.0 api.adfalcon.com
@@ -49809,6 +49824,7 @@
 0.0.0.0 twt.o8fgwc.top
 0.0.0.0 www.arthrpuntu.autos
 0.0.0.0 www.verificationlink.help
+0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 yervion.shop
 0.0.0.0 cashreportz.com
 0.0.0.0 hb.nexage.com
@@ -58107,6 +58123,7 @@
 0.0.0.0 www.vantaranalarloka.net
 0.0.0.0 kr0kambnoney.cfd
 0.0.0.0 www.havernox.com
+0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -63552,6 +63569,7 @@
 0.0.0.0 vi.ml314.com
 0.0.0.0 q4mn.adj.st
 0.0.0.0 service.kingoapp.com
+0.0.0.0 www.geoxip.net
 0.0.0.0 w3f6ty.lat
 0.0.0.0 www.polstartnow.com
 0.0.0.0 www.alamuk.com
@@ -64354,6 +64372,7 @@
 0.0.0.0 www.aethcogiium.site
 0.0.0.0 www.ppain-2348.eu.cc
 0.0.0.0 oascentral.clearchannel.com
+0.0.0.0 www.stringsbymail.mom
 0.0.0.0 global.proper.io
 0.0.0.0 feniksprybutova.net
 0.0.0.0 metrics.ktvb.com
@@ -66021,6 +66040,7 @@
 0.0.0.0 harusriabb.autos
 0.0.0.0 www.nezuntraxistrade.com
 0.0.0.0 martdance.live
+0.0.0.0 straightnest.com
 0.0.0.0 www.epaikopmhtiko24.today
 0.0.0.0 vulkanvegaspl.com
 0.0.0.0 cntmc.com
@@ -67803,6 +67823,7 @@
 0.0.0.0 www.zwglasif.shop
 0.0.0.0 www.avoltcorre.cyou
 0.0.0.0 edits.mywebsearch.com
+0.0.0.0 dealiveroo.fr
 0.0.0.0 kursvermberg.de
 0.0.0.0 support-xlp.eu.cc
 0.0.0.0 safalindustries.com
@@ -82828,6 +82849,7 @@
 0.0.0.0 www.henvuq.shop
 0.0.0.0 coenzeudes.click
 0.0.0.0 analytics.pnc.com
+0.0.0.0 www.buglife.com
 0.0.0.0 appstore.cfrapp084963.help
 0.0.0.0 u6905.71.spylog.com
 0.0.0.0 fisio6-velit4.sbs
@@ -86737,6 +86759,7 @@
 0.0.0.0 zedrtap.site
 0.0.0.0 ocs.websponsors.com
 0.0.0.0 wpn.codon.vn
+0.0.0.0 2.maaqkj.com
 0.0.0.0 fortissio.com
 0.0.0.0 www.xonanarise.site
 0.0.0.0 torenix.shop
@@ -89969,6 +89992,7 @@
 0.0.0.0 www.falnaro.shop
 0.0.0.0 www.novaliratechki.net
 0.0.0.0 wat.ad.daum.net
+0.0.0.0 ads.examiner.net
 0.0.0.0 www.bitcoinup-pro.com
 0.0.0.0 e-randeczki.pl
 0.0.0.0 www.riverbed.pl
@@ -90952,6 +90976,7 @@
 0.0.0.0 bank06.ads.dt.mydas.mobi
 0.0.0.0 www.concept2.live
 0.0.0.0 www.helper-metechatsmes-2026.store
+0.0.0.0 ads.gld.dk
 0.0.0.0 sroomafp.allyes.com
 0.0.0.0 audience2media.com
 0.0.0.0 pewna-inwestotivpro.com
