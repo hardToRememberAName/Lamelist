@@ -1,4 +1,4 @@
-# Update time: 2026-09-01 10:16:47
+# Update time: 2026-09-01 23:38:58
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -17854,6 +17854,7 @@
 0.0.0.0 www.knizka.mom
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 www.randkamarzen.pl
+0.0.0.0 start.badults.se
 0.0.0.0 alertsreafforesttting.info
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 www.gtradeapp1mixpro.com
@@ -23171,6 +23172,7 @@
 0.0.0.0 www.soczystemilfy.com
 0.0.0.0 counter.advancewebhosting.com
 0.0.0.0 kiaby.fr
+0.0.0.0 ads.injersey.com
 0.0.0.0 dmp.adblade.com
 0.0.0.0 www.pionexonline.com
 0.0.0.0 media.adnetwork.vn
@@ -28649,6 +28651,7 @@
 0.0.0.0 www.fisio7-commodi37.sbs
 0.0.0.0 www.allpdfmags.net
 0.0.0.0 www.europejskaedukacja.pl
+0.0.0.0 c.nl.msn.com
 0.0.0.0 www.bestnfast.pl
 0.0.0.0 ktupewsam.lovable.app
 0.0.0.0 www.mienoskarb.sbs
@@ -33078,6 +33081,7 @@
 0.0.0.0 impr.taboola.com
 0.0.0.0 www.lheritageprivetrade.com
 0.0.0.0 track.untd.com
+0.0.0.0 shinystat.com
 0.0.0.0 spotmaxaltnxplatform.com
 0.0.0.0 www.onyxcapvale.net
 0.0.0.0 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -34048,6 +34052,7 @@
 0.0.0.0 motorl.oewabox.at
 0.0.0.0 www.spywarespy.com
 0.0.0.0 banner.easyspace.com
+0.0.0.0 banners.img.uol.com.br
 0.0.0.0 a3791.casalemedia.com
 0.0.0.0 counter33.bravenet.com
 0.0.0.0 sync-apsg.tidaltv.com.akadns.net
@@ -35019,7 +35024,6 @@
 0.0.0.0 www.bullrsbizz.store
 0.0.0.0 www.dziennik-polski.x9.eu
 0.0.0.0 www.moviesearchcenter.com
-0.0.0.0 www.ruvkel.shop
 0.0.0.0 brwshop-pl.shop
 0.0.0.0 www.gracecore.com
 0.0.0.0 grabraeuber.de
@@ -36042,6 +36046,7 @@
 0.0.0.0 8uc1.jave.xyz
 0.0.0.0 effexor-xr.1.p2l.info
 0.0.0.0 www.arttune.pl
+0.0.0.0 portredirect.net
 0.0.0.0 hunshop.natureflower.com
 0.0.0.0 fisio7-numquam4.sbs
 0.0.0.0 campaigns.f2.com.au
@@ -36830,7 +36835,6 @@
 0.0.0.0 echospacebu.site
 0.0.0.0 www.aldieu.fenalucart.shop
 0.0.0.0 www.ballet-poland.com
-0.0.0.0 www.page.bobpitera.com
 0.0.0.0 torrenty-org.pl
 0.0.0.0 woaiiwo.com
 0.0.0.0 aid-golf-golfdust-training.tabrays.com
@@ -37666,6 +37670,7 @@
 0.0.0.0 2000greetings.com
 0.0.0.0 mobilnarecepta.pl
 0.0.0.0 cadigitalbrief.com
+0.0.0.0 www.filmichies.online
 0.0.0.0 www.audmax.pl
 0.0.0.0 a.imonomy.com
 0.0.0.0 tracking.tinxe.vn
@@ -42003,6 +42008,7 @@
 0.0.0.0 www.smarketmastersworld.com
 0.0.0.0 www.qatebixun.live
 0.0.0.0 cdn-media-m.ambient-platform.com
+0.0.0.0 kiabo.fr
 0.0.0.0 d.liadm.com
 0.0.0.0 srv.sayyac.net
 0.0.0.0 sj.ijinshan.com
@@ -42507,6 +42513,7 @@
 0.0.0.0 www.siacastomp.online
 0.0.0.0 spnet33.i-mobile.co.jp
 0.0.0.0 ads.digitalalchemy.tv
+0.0.0.0 my2.hizliizlefilm.net
 0.0.0.0 www.dorvanek.com
 0.0.0.0 www.apteline-pl.sbs
 0.0.0.0 adserver.directcorp.de
@@ -43691,6 +43698,7 @@
 0.0.0.0 www.diament-lokatren.com
 0.0.0.0 teens24h.com
 0.0.0.0 voxepulse.online
+0.0.0.0 selwickbrief.com
 0.0.0.0 popcapgames.122.2o7.net
 0.0.0.0 foto-zdjecia.24.eu
 0.0.0.0 ash.creativecdn.com
@@ -45692,6 +45700,7 @@
 0.0.0.0 ldglob02.adtech.fr
 0.0.0.0 oferta6622738485522.xyz
 0.0.0.0 nimbthethome.site
+0.0.0.0 metrics.parents.com
 0.0.0.0 fresclatir.online
 0.0.0.0 zsh.poladtkacc.com
 0.0.0.0 r6m2zk.lat
@@ -45727,6 +45736,7 @@
 0.0.0.0 miercuri.gq
 0.0.0.0 www.filmy4u.pl
 0.0.0.0 req.tidaltv.com
+0.0.0.0 tetra.hitbox.com
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0 altrenixordretrade.com
 0.0.0.0 omniture.chip.de
@@ -48577,6 +48587,7 @@
 0.0.0.0 www.nexodom.shop
 0.0.0.0 kalinia.pl
 0.0.0.0 banner.newyorkcasino.com
+0.0.0.0 ad.thetyee.ca
 0.0.0.0 www.finlab6-similique77.sbs
 0.0.0.0 bank15.ads.dt.mydas.mobi #[Mobile.Advertising]
 0.0.0.0 c.pub.network
@@ -48981,6 +48992,7 @@
 0.0.0.0 tervum.shop
 0.0.0.0 www.mindrcast.site
 0.0.0.0 park.above.com
+0.0.0.0 adserver.van.net
 0.0.0.0 media.yesmessenger.com
 0.0.0.0 www.aivojump.site
 0.0.0.0 chapsgastropub.mom
@@ -52597,6 +52609,7 @@
 0.0.0.0 ww2.tongji123.com
 0.0.0.0 30hardcore.galleryprogram.com
 0.0.0.0 autozagorski.live
+0.0.0.0 www.flaxpentopaper.live
 0.0.0.0 www.solemnixxzes.info
 0.0.0.0 cashcownetworks.com
 0.0.0.0 mediat-brevante7p.digital
@@ -55562,6 +55575,7 @@
 0.0.0.0 jsn.marketgid.com
 0.0.0.0 www.k3zb7q.hair
 0.0.0.0 www.zelvarionqorthalextrade.com
+0.0.0.0 deepintent.com
 0.0.0.0 www.n4mq2b.cfd
 0.0.0.0 www.h3z4.h7fohw.casa
 0.0.0.0 d4.zedo.com
@@ -56342,6 +56356,7 @@
 0.0.0.0 tags.tagcade.com
 0.0.0.0 www.royal888trade.com
 0.0.0.0 banner.thadaco.vn
+0.0.0.0 www.fisio2-vitae49.sbs
 0.0.0.0 ads.adtheorent.com
 0.0.0.0 www.emofocrank.rest
 0.0.0.0 widget.am5.vip.prod.criteo.com
@@ -63933,7 +63948,6 @@
 0.0.0.0 niuni.de
 0.0.0.0 telexcsund.help
 0.0.0.0 www.finlab3-qui16.sbs
-0.0.0.0 www.finbitvexprestizai.com
 0.0.0.0 www.naterwitcon.lovable.app
 0.0.0.0 www.coredeltlytics.site
 0.0.0.0 dimegridf.site
@@ -76682,6 +76696,7 @@
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 adlog.ifood.tv
 0.0.0.0 backpaininstantrelief.com
+0.0.0.0 a.shopserve.jp
 0.0.0.0 a.cdp.asia
 0.0.0.0 www.bastionvaultex.net
 0.0.0.0 ads.mail3x.com
@@ -78097,6 +78112,7 @@
 0.0.0.0 protection.hnpolice.com
 0.0.0.0 www.oziosraze.rest
 0.0.0.0 im.52441.com
+0.0.0.0 ter-jrnl-oc.vidaahub.com
 0.0.0.0 www.corppsaleapl.shop
 0.0.0.0 www.opinionlab.com
 0.0.0.0 www.tweretrend.site
@@ -80445,6 +80461,7 @@
 0.0.0.0 www.thegagnorgptsystem.org
 0.0.0.0 bitqtpl.com
 0.0.0.0 www.finhub1-doloribus54.sbs
+0.0.0.0 xanax.t-amo.net
 0.0.0.0 linceinvestorio.net
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 asybudowy.pl
@@ -84945,6 +84962,7 @@
 0.0.0.0 expedia.ca.112.2o7.net
 0.0.0.0 www.seehits.com
 0.0.0.0 www.studioprzyparku.mom
+0.0.0.0 adserver.livejournal.com
 0.0.0.0 netads.hotwired.com
 0.0.0.0 scyxj.comfortykive.xyz
 0.0.0.0 ads.northjersey.com
@@ -87837,6 +87855,7 @@
 0.0.0.0 www.plimsoleunintelligibxxlenesses.info
 0.0.0.0 mbox12.offermatica.com
 0.0.0.0 altara.co.id
+0.0.0.0 adipex.shengen.ru
 0.0.0.0 o1.qnsr.com
 0.0.0.0 wakeup247.klick.vn
 0.0.0.0 9d060c.r.axf8.net
