@@ -1,4 +1,4 @@
-# Update time: 2026-09-01 23:38:58
+# Update time: 2026-09-02 09:39:04
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -23172,7 +23172,6 @@
 0.0.0.0 www.soczystemilfy.com
 0.0.0.0 counter.advancewebhosting.com
 0.0.0.0 kiaby.fr
-0.0.0.0 ads.injersey.com
 0.0.0.0 dmp.adblade.com
 0.0.0.0 www.pionexonline.com
 0.0.0.0 media.adnetwork.vn
@@ -28651,7 +28650,6 @@
 0.0.0.0 www.fisio7-commodi37.sbs
 0.0.0.0 www.allpdfmags.net
 0.0.0.0 www.europejskaedukacja.pl
-0.0.0.0 c.nl.msn.com
 0.0.0.0 www.bestnfast.pl
 0.0.0.0 ktupewsam.lovable.app
 0.0.0.0 www.mienoskarb.sbs
@@ -33081,7 +33079,6 @@
 0.0.0.0 impr.taboola.com
 0.0.0.0 www.lheritageprivetrade.com
 0.0.0.0 track.untd.com
-0.0.0.0 shinystat.com
 0.0.0.0 spotmaxaltnxplatform.com
 0.0.0.0 www.onyxcapvale.net
 0.0.0.0 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -33847,7 +33844,6 @@
 0.0.0.0 oc.umeng.co
 0.0.0.0 poolin.fr
 0.0.0.0 mojallekaren-skcoo.sbs
-0.0.0.0 images.webads.co.uk
 0.0.0.0 www.prop-erly.eu
 0.0.0.0 auth0.vernovls.com
 0.0.0.0 systadin.fr
@@ -36046,7 +36042,6 @@
 0.0.0.0 8uc1.jave.xyz
 0.0.0.0 effexor-xr.1.p2l.info
 0.0.0.0 www.arttune.pl
-0.0.0.0 portredirect.net
 0.0.0.0 hunshop.natureflower.com
 0.0.0.0 fisio7-numquam4.sbs
 0.0.0.0 campaigns.f2.com.au
@@ -37670,7 +37665,6 @@
 0.0.0.0 2000greetings.com
 0.0.0.0 mobilnarecepta.pl
 0.0.0.0 cadigitalbrief.com
-0.0.0.0 www.filmichies.online
 0.0.0.0 www.audmax.pl
 0.0.0.0 a.imonomy.com
 0.0.0.0 tracking.tinxe.vn
@@ -45700,7 +45694,6 @@
 0.0.0.0 ldglob02.adtech.fr
 0.0.0.0 oferta6622738485522.xyz
 0.0.0.0 nimbthethome.site
-0.0.0.0 metrics.parents.com
 0.0.0.0 fresclatir.online
 0.0.0.0 zsh.poladtkacc.com
 0.0.0.0 r6m2zk.lat
@@ -45736,7 +45729,6 @@
 0.0.0.0 miercuri.gq
 0.0.0.0 www.filmy4u.pl
 0.0.0.0 req.tidaltv.com
-0.0.0.0 tetra.hitbox.com
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0 altrenixordretrade.com
 0.0.0.0 omniture.chip.de
@@ -47517,7 +47509,6 @@
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 dyn-beacon.akamaized.net
 0.0.0.0 events.webflowmetrics.com
-0.0.0.0 offer.sponsorpay.com
 0.0.0.0 www30a5.glam.com
 0.0.0.0 www.oblitrix.site
 0.0.0.0 www.pl13.landurt.com
@@ -48587,7 +48578,6 @@
 0.0.0.0 www.nexodom.shop
 0.0.0.0 kalinia.pl
 0.0.0.0 banner.newyorkcasino.com
-0.0.0.0 ad.thetyee.ca
 0.0.0.0 www.finlab6-similique77.sbs
 0.0.0.0 bank15.ads.dt.mydas.mobi #[Mobile.Advertising]
 0.0.0.0 c.pub.network
@@ -48992,7 +48982,6 @@
 0.0.0.0 tervum.shop
 0.0.0.0 www.mindrcast.site
 0.0.0.0 park.above.com
-0.0.0.0 adserver.van.net
 0.0.0.0 media.yesmessenger.com
 0.0.0.0 www.aivojump.site
 0.0.0.0 chapsgastropub.mom
@@ -63948,6 +63937,7 @@
 0.0.0.0 niuni.de
 0.0.0.0 telexcsund.help
 0.0.0.0 www.finlab3-qui16.sbs
+0.0.0.0 www.finbitvexprestizai.com
 0.0.0.0 www.naterwitcon.lovable.app
 0.0.0.0 www.coredeltlytics.site
 0.0.0.0 dimegridf.site
@@ -76696,7 +76686,6 @@
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 adlog.ifood.tv
 0.0.0.0 backpaininstantrelief.com
-0.0.0.0 a.shopserve.jp
 0.0.0.0 a.cdp.asia
 0.0.0.0 www.bastionvaultex.net
 0.0.0.0 ads.mail3x.com
@@ -78112,7 +78101,6 @@
 0.0.0.0 protection.hnpolice.com
 0.0.0.0 www.oziosraze.rest
 0.0.0.0 im.52441.com
-0.0.0.0 ter-jrnl-oc.vidaahub.com
 0.0.0.0 www.corppsaleapl.shop
 0.0.0.0 www.opinionlab.com
 0.0.0.0 www.tweretrend.site
@@ -80461,7 +80449,6 @@
 0.0.0.0 www.thegagnorgptsystem.org
 0.0.0.0 bitqtpl.com
 0.0.0.0 www.finhub1-doloribus54.sbs
-0.0.0.0 xanax.t-amo.net
 0.0.0.0 linceinvestorio.net
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 asybudowy.pl
@@ -84962,7 +84949,6 @@
 0.0.0.0 expedia.ca.112.2o7.net
 0.0.0.0 www.seehits.com
 0.0.0.0 www.studioprzyparku.mom
-0.0.0.0 adserver.livejournal.com
 0.0.0.0 netads.hotwired.com
 0.0.0.0 scyxj.comfortykive.xyz
 0.0.0.0 ads.northjersey.com
@@ -87855,7 +87841,6 @@
 0.0.0.0 www.plimsoleunintelligibxxlenesses.info
 0.0.0.0 mbox12.offermatica.com
 0.0.0.0 altara.co.id
-0.0.0.0 adipex.shengen.ru
 0.0.0.0 o1.qnsr.com
 0.0.0.0 wakeup247.klick.vn
 0.0.0.0 9d060c.r.axf8.net
