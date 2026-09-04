@@ -1,4 +1,4 @@
-# Update time: 2026-09-03 23:20:42
+# Update time: 2026-09-04 09:37:35
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -15578,7 +15578,6 @@
 0.0.0.0 imp-m.ambient-platform.com
 0.0.0.0 fisio6-est73.sbs
 0.0.0.0 promo.lonelywifehookup.com
-0.0.0.0 ninemsn.imrworldwide.com
 0.0.0.0 www.protoappur.click
 0.0.0.0 vianickde.112.2o7.net
 0.0.0.0 www.instantprofitx5trade.com
@@ -17857,7 +17856,6 @@
 0.0.0.0 www.knizka.mom
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 www.randkamarzen.pl
-0.0.0.0 start.badults.se
 0.0.0.0 alertsreafforesttting.info
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 www.gtradeapp1mixpro.com
@@ -18691,7 +18689,6 @@
 0.0.0.0 steamkarta.pl
 0.0.0.0 www.nature-mama.co.uk
 0.0.0.0 kissmetrics.com
-0.0.0.0 ads.cdnow.com
 0.0.0.0 www.lebzentfeed.site
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 www.olx.lokalna-oferta7849301.lol
@@ -21066,7 +21063,6 @@
 0.0.0.0 www.ralplauran.com
 0.0.0.0 dimaria.alphonso.tv
 0.0.0.0 fmsads.com
-0.0.0.0 trioadvisor.fr
 0.0.0.0 offeruprun.shop
 0.0.0.0 ms.yandex.ru
 0.0.0.0 www.larvendigitholm.online
@@ -21982,7 +21978,6 @@
 0.0.0.0 www.starkertragstein.click
 0.0.0.0 wolverineworldwide.fr
 0.0.0.0 www.finabrighta.com
-0.0.0.0 c4.cembuyukhanli.com
 0.0.0.0 sudrani.shop
 0.0.0.0 jentsense.site
 0.0.0.0 gads.pubmatic.com
@@ -24437,7 +24432,6 @@
 0.0.0.0 eusta.de
 0.0.0.0 www.3ke8uj4.skin
 0.0.0.0 www.puramercadea.com
-0.0.0.0 oascentral.citypages.com
 0.0.0.0 click.cision.com
 0.0.0.0 deluxe.onetag.io.edgekey.net
 0.0.0.0 ele-many.bimivi.info
@@ -26463,6 +26457,7 @@
 0.0.0.0 siads.sv.publicus.com
 0.0.0.0 gpaper180.112.2o7.net
 0.0.0.0 blaser.vip
+0.0.0.0 gobusinessloan.com
 0.0.0.0 www.grotuxiv-nl.org
 0.0.0.0 snapxrembolex.com
 0.0.0.0 pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
@@ -28652,7 +28647,6 @@
 0.0.0.0 www.fisio7-commodi37.sbs
 0.0.0.0 www.allpdfmags.net
 0.0.0.0 www.europejskaedukacja.pl
-0.0.0.0 c.nl.msn.com
 0.0.0.0 www.bestnfast.pl
 0.0.0.0 ktupewsam.lovable.app
 0.0.0.0 www.mienoskarb.sbs
@@ -33082,7 +33076,6 @@
 0.0.0.0 impr.taboola.com
 0.0.0.0 www.lheritageprivetrade.com
 0.0.0.0 track.untd.com
-0.0.0.0 shinystat.com
 0.0.0.0 spotmaxaltnxplatform.com
 0.0.0.0 www.onyxcapvale.net
 0.0.0.0 e-2dj6wfk4gkcpiep.stats.esomniture.com
@@ -33848,7 +33841,6 @@
 0.0.0.0 oc.umeng.co
 0.0.0.0 poolin.fr
 0.0.0.0 mojallekaren-skcoo.sbs
-0.0.0.0 images.webads.co.uk
 0.0.0.0 www.prop-erly.eu
 0.0.0.0 auth0.vernovls.com
 0.0.0.0 systadin.fr
@@ -36043,7 +36035,6 @@
 0.0.0.0 8uc1.jave.xyz
 0.0.0.0 effexor-xr.1.p2l.info
 0.0.0.0 www.arttune.pl
-0.0.0.0 portredirect.net
 0.0.0.0 hunshop.natureflower.com
 0.0.0.0 fisio7-numquam4.sbs
 0.0.0.0 campaigns.f2.com.au
@@ -40726,7 +40717,6 @@
 0.0.0.0 jefibiosy.autos
 0.0.0.0 www.olx.oferta5522738483322.cfd
 0.0.0.0 us.criteo.net
-0.0.0.0 www.freespinwinner.win
 0.0.0.0 argentifundex.net
 0.0.0.0 convertro.com
 0.0.0.0 www.podatki-hgx.podatnet.com
@@ -45691,7 +45681,6 @@
 0.0.0.0 ldglob02.adtech.fr
 0.0.0.0 oferta6622738485522.xyz
 0.0.0.0 nimbthethome.site
-0.0.0.0 metrics.parents.com
 0.0.0.0 fresclatir.online
 0.0.0.0 zsh.poladtkacc.com
 0.0.0.0 r6m2zk.lat
@@ -46954,7 +46943,6 @@
 0.0.0.0 www.gelditrumtrade.de
 0.0.0.0 taisrivog.cyou
 0.0.0.0 www.kyphosquea.autos
-0.0.0.0 bank13.ads.mp.mydas.mobi
 0.0.0.0 clicktshirtprinting.co.uk
 0.0.0.0 api.adfalcon.com
 0.0.0.0 bgrfd34qnk-hwcps82zlk-9i4g2g-mt492d.pages.dev
@@ -47486,7 +47474,6 @@
 0.0.0.0 te.astrology.com
 0.0.0.0 www.p-ost06466516.0016846261.com
 0.0.0.0 iaflstore.jp
-0.0.0.0 thtp2.volamngayxua.net
 0.0.0.0 adjar.gotrackier.com
 0.0.0.0 www.drelvak.shop
 0.0.0.0 sgp.smartadserver.com
@@ -47507,7 +47494,6 @@
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 dyn-beacon.akamaized.net
 0.0.0.0 events.webflowmetrics.com
-0.0.0.0 offer.sponsorpay.com
 0.0.0.0 www30a5.glam.com
 0.0.0.0 www.oblitrix.site
 0.0.0.0 www.pl13.landurt.com
@@ -49327,7 +49313,6 @@
 0.0.0.0 twt.o8fgwc.top
 0.0.0.0 www.arthrpuntu.autos
 0.0.0.0 www.verificationlink.help
-0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 yervion.shop
 0.0.0.0 cashreportz.com
 0.0.0.0 hb.nexage.com
@@ -51371,7 +51356,6 @@
 0.0.0.0 joinhoney.com
 0.0.0.0 mcleanvahomes.com
 0.0.0.0 www.centrolinguisticorobert.com
-0.0.0.0 unbecominglamp.com
 0.0.0.0 cbmsn.112.2o7.net
 0.0.0.0 et.kissmetrics.com
 0.0.0.0 m-99.co.uk
@@ -60586,6 +60570,7 @@
 0.0.0.0 a.triggit.com
 0.0.0.0 www.specializeds.com.pl
 0.0.0.0 adserver.spankaway.com
+0.0.0.0 www.allieglroolokanie.tinicewey.wiki
 0.0.0.0 link4link.com
 0.0.0.0 heroesofrpg.com
 0.0.0.0 pedalammac.autos
@@ -62868,7 +62853,6 @@
 0.0.0.0 vi.ml314.com
 0.0.0.0 q4mn.adj.st
 0.0.0.0 service.kingoapp.com
-0.0.0.0 www.geoxip.net
 0.0.0.0 w3f6ty.lat
 0.0.0.0 www.polstartnow.com
 0.0.0.0 www.alamuk.com
@@ -63124,7 +63108,6 @@
 0.0.0.0 www.pernico.shop
 0.0.0.0 www.wo9mtb.qpon
 0.0.0.0 www.onmarketer.net
-0.0.0.0 cdnondemand.org
 0.0.0.0 www.vynotedapt.site
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 www.olx.lokalna-4930237.sbs
@@ -66929,7 +66912,6 @@
 0.0.0.0 www.barberpet.pro
 0.0.0.0 kasa-dochodnosc.com
 0.0.0.0 platform.iteratehq.com
-0.0.0.0 ts1.hitbox.com
 0.0.0.0 netvisualizer.com
 0.0.0.0 jetrun.jp
 0.0.0.0 www.paczkanr7254.shop
@@ -67086,7 +67068,6 @@
 0.0.0.0 lpdk.net
 0.0.0.0 www.zwglasif.shop
 0.0.0.0 edits.mywebsearch.com
-0.0.0.0 dealiveroo.fr
 0.0.0.0 support-xlp.eu.cc
 0.0.0.0 safalindustries.com
 0.0.0.0 auranwood.shop
@@ -76764,7 +76745,6 @@
 0.0.0.0 roomcheck-reservation.com
 0.0.0.0 cl-data-sg.ads.heytapmobi.com
 0.0.0.0 ifa.pornhublive.com
-0.0.0.0 advpic.yicha.jp
 0.0.0.0 podatki-mj.epdtk.com
 0.0.0.0 w9m5qc.lat
 0.0.0.0 images.conduit-banners.com
@@ -80442,7 +80422,6 @@
 0.0.0.0 www.thegagnorgptsystem.org
 0.0.0.0 bitqtpl.com
 0.0.0.0 www.finhub1-doloribus54.sbs
-0.0.0.0 xanax.t-amo.net
 0.0.0.0 linceinvestorio.net
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 asybudowy.pl
@@ -84176,7 +84155,6 @@
 0.0.0.0 trkn.us
 0.0.0.0 fomendisar.cyou
 0.0.0.0 www.pl-0793248149.0016846261.com
-0.0.0.0 js.impact.ne.jp
 0.0.0.0 aolwbwowinsd.122.2o7.net
 0.0.0.0 geo.adobe.com
 0.0.0.0 www.goldflame.com
@@ -88814,6 +88792,7 @@
 0.0.0.0 delivery.vtc.vn
 0.0.0.0 www.customersupporthelp.com
 0.0.0.0 www.icygrovejn.com
+0.0.0.0 neurodibot.site
 0.0.0.0 suites.npyiheng.com
 0.0.0.0 csxmhkahpy9y6cwwr.ay.delivery
 0.0.0.0 survymonkey.xyz
@@ -89253,7 +89232,6 @@
 0.0.0.0 www.segurofundezano.online
 0.0.0.0 cargroup-service.mom
 0.0.0.0 www.vifcapitoire.digital
-0.0.0.0 femidignity.org
 0.0.0.0 bonus-4you.com
 0.0.0.0 uy054eprsdoz.appspot.com
 0.0.0.0 ads.adsinimages.com
