@@ -1,4 +1,4 @@
-# Update time: 2026-09-05 22:05:01
+# Update time: 2026-09-06 09:32:56
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -17144,6 +17144,7 @@
 0.0.0.0 pulsxlytics.site
 0.0.0.0 www.rempartcapitange.net
 0.0.0.0 adnico.genieesspv.jp
+0.0.0.0 rinsespeda.rest
 0.0.0.0 brickbaybeachcondos.com
 0.0.0.0 www.clochee.mom
 0.0.0.0 track.msadcenter.mur.com
@@ -18982,7 +18983,6 @@
 0.0.0.0 donotwatch.org
 0.0.0.0 www.marela-butik.com
 0.0.0.0 finlab5-eius44.sbs
-0.0.0.0 click.e.zoom.us
 0.0.0.0 e-2dj6wjmyehd5mfo.stats.esomniture.com
 0.0.0.0 admailtiser.com
 0.0.0.0 page.ads.zalo.me
@@ -19320,7 +19320,6 @@
 0.0.0.0 aldieu.homvalyx.shop
 0.0.0.0 lagunanrendstead.com
 0.0.0.0 finlab9-voluptatum74.sbs
-0.0.0.0 clk1005.com
 0.0.0.0 zippyfiles.topupload.ru
 0.0.0.0 aqmirek.shop
 0.0.0.0 mylike.co.uk # Facebook trojan
@@ -20754,6 +20753,7 @@
 0.0.0.0 www.ultrvibe.site
 0.0.0.0 vast-pop-pao.mathtag.com
 0.0.0.0 www.dobrykredyt.co.pl
+0.0.0.0 wizzshop.trade
 0.0.0.0 centersession.com
 0.0.0.0 viaspike.112.2o7.net
 0.0.0.0 angvac.112.2o7.net
@@ -23560,7 +23560,6 @@
 0.0.0.0 primeukplace.shop
 0.0.0.0 ads.jpost.com #[RealMedia]
 0.0.0.0 strilabs.site
-0.0.0.0 ad.my.doubleclick.net
 0.0.0.0 mokuhouse.shop
 0.0.0.0 oxybe.com
 0.0.0.0 www.plpefuighretiho.com
@@ -40406,7 +40405,6 @@
 0.0.0.0 www.vapulsfirm.site
 0.0.0.0 www.cortbloxterm.site
 0.0.0.0 kos.interseek.si
-0.0.0.0 thedirecthor.com
 0.0.0.0 medycznapolska.pl
 0.0.0.0 finlab7-voluptatem46.sbs
 0.0.0.0 wojciechkranski.mom
@@ -42688,6 +42686,7 @@
 0.0.0.0 www.jocrenata.top
 0.0.0.0 zakupy-biedronko.shop
 0.0.0.0 aldimart.orxomart.shop
+0.0.0.0 com.com
 0.0.0.0 314.hittail.com
 0.0.0.0 smetrics.bbb.org
 0.0.0.0 aoldlama.122.2o7.net
@@ -42818,6 +42817,7 @@
 0.0.0.0 st.smartredirect.de
 0.0.0.0 kelmoraxvynteroq.org
 0.0.0.0 www.bisdank.cyou
+0.0.0.0 www.viponx.com
 0.0.0.0 btcsinceritn920.net
 0.0.0.0 voltimeter.site
 0.0.0.0 www.accordion-cowork-poznan.lovable.app
@@ -45559,7 +45559,6 @@
 0.0.0.0 dilzen.shop
 0.0.0.0 mediamgr.ugo.com
 0.0.0.0 www.jetmint.site
-0.0.0.0 www.serwisrolniczy.com
 0.0.0.0 omgshoppro.com
 0.0.0.0 infrblade.site
 0.0.0.0 www.action.ro-mediagalaxysale.shop
@@ -47750,6 +47749,7 @@
 0.0.0.0 www.voxedex.site
 0.0.0.0 au.umeng.com
 0.0.0.0 www.ppleood.com
+0.0.0.0 georgewbush.112.2o7.net
 0.0.0.0 zennoa.com
 0.0.0.0 hawaicuri.store
 0.0.0.0 adoric-om.com
@@ -48584,6 +48584,7 @@
 0.0.0.0 mw-encyclopediabritannica.adsbynimbus.com
 0.0.0.0 fisio3-accusantium33.sbs
 0.0.0.0 www.spodnice.shop
+0.0.0.0 gmx.oewabox.at
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 datt.ero-advertising.com
 0.0.0.0 backofficellc.com
@@ -49576,7 +49577,6 @@
 0.0.0.0 sensahome.fr
 0.0.0.0 tube8vidsznx.ddns.name
 0.0.0.0 no.2.cqcounter.com
-0.0.0.0 alzy.fr
 0.0.0.0 matomo.activate.cz
 0.0.0.0 www.k3ic7b.hair
 0.0.0.0 mobila.pl
@@ -54881,7 +54881,6 @@
 0.0.0.0 worker1.advertnative.com
 0.0.0.0 oferta-312743.cfd
 0.0.0.0 www.xyvorelintusai.com
-0.0.0.0 xtradergrok350plixi-official.com
 0.0.0.0 www.talvornik.net
 0.0.0.0 www.finhub9-aut48.sbs
 0.0.0.0 as-ttd.jivox.com
@@ -60872,6 +60871,7 @@
 0.0.0.0 www.conglmorfo.autos
 0.0.0.0 linkbox.topupload.ru
 0.0.0.0 euro420buds.com
+0.0.0.0 scrroeder.com
 0.0.0.0 adserverc.cliipa.com
 0.0.0.0 www.maresalangella.live
 0.0.0.0 vulkanvegas23.com
@@ -63211,6 +63211,7 @@
 0.0.0.0 s01.nowvisitors.com
 0.0.0.0 facebookloginsignin.com
 0.0.0.0 api.purpleads.io
+0.0.0.0 www.leranmerasdampl.shop
 0.0.0.0 www.podlahyxxl.live
 0.0.0.0 indemind.site
 0.0.0.0 fawn-ankle-boots.shop
@@ -67284,6 +67285,7 @@
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 alenai.cyou
 0.0.0.0 www.zafeirikerdaos.com
+0.0.0.0 sjgoodandcompany.com
 0.0.0.0 www.e22uab72m2qbbp93zy6x.s3.us-east-1.amazonaws.com
 0.0.0.0 logi125.xiti.com
 0.0.0.0 www.profit720dvezon.net
@@ -78725,6 +78727,7 @@
 0.0.0.0 www.civicscience.com
 0.0.0.0 rifec.co
 0.0.0.0 adapex.io
+0.0.0.0 www.ipbqha.icu
 0.0.0.0 seb.d1.sc.omtrdc.net
 0.0.0.0 unamadista.rest
 0.0.0.0 www.automoneygenerator.com
@@ -79182,7 +79185,6 @@
 0.0.0.0 pl.soldius.com
 0.0.0.0 www.corekeypolskapro.com
 0.0.0.0 a.ligatus.com
-0.0.0.0 adw.addlv.smt.docomo.ne.jp
 0.0.0.0 www.onyiho.com
 0.0.0.0 www.brachunint.rest
 0.0.0.0 ebdr3.com
@@ -82833,6 +82835,7 @@
 0.0.0.0 psiodripar.site
 0.0.0.0 www.loraretik.top
 0.0.0.0 freedownloadmanager.uk.intellitxt.com
+0.0.0.0 www.nursse.com
 0.0.0.0 mazcys.live
 0.0.0.0 s.seedtag.com
 0.0.0.0 rts.ssl2.duapps.com
@@ -87880,6 +87883,7 @@
 0.0.0.0 media01.eu
 0.0.0.0 changduk26.com # Facebook trojan
 0.0.0.0 viglink.com
+0.0.0.0 zennithwise.net
 0.0.0.0 www.ihk.mom
 0.0.0.0 yukoparis.live
 0.0.0.0 junowrap.site
