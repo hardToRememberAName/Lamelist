@@ -1,4 +1,4 @@
-# Update time: 2026-09-06 22:29:47
+# Update time: 2026-09-07 09:31:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -14933,6 +14933,7 @@
 0.0.0.0 www.hxtrack.com
 0.0.0.0 contrmalac.click
 0.0.0.0 www.inverizes.com
+0.0.0.0 ads.epltalk.com
 0.0.0.0 glidflair.site
 0.0.0.0 www.vastechainoire.com
 0.0.0.0 cocomore.live
@@ -15152,6 +15153,7 @@
 0.0.0.0 www.dt1blog.com
 0.0.0.0 komodia.com
 0.0.0.0 zeppepseud.click
+0.0.0.0 statistics.theonion.com
 0.0.0.0 www.flatdee.ero-advertising.com
 0.0.0.0 maravilla.live
 0.0.0.0 arcadefree.com
@@ -17712,6 +17714,7 @@
 0.0.0.0 sofa01.webtrekk.net
 0.0.0.0 greatfireoflondon.org.uk
 0.0.0.0 cranirumor.store
+0.0.0.0 js.e-generator.com
 0.0.0.0 wmail-cdn.com
 0.0.0.0 cdn.blisspointmedia.com
 0.0.0.0 tags.extole.com
@@ -18806,6 +18809,7 @@
 0.0.0.0 steamkarta.pl
 0.0.0.0 www.nature-mama.co.uk
 0.0.0.0 kissmetrics.com
+0.0.0.0 ads.cdnow.com
 0.0.0.0 watusu-diruka.info
 0.0.0.0 www.lebzentfeed.site
 0.0.0.0 clicks.hurriyet.com.tr
@@ -26966,6 +26970,7 @@
 0.0.0.0 smt.admaster.com.cn
 0.0.0.0 ae.gsecondscreen.com
 0.0.0.0 lorncreditvale.sbs
+0.0.0.0 ca-conv.jp
 0.0.0.0 1493361689.rsc.cdn77.org
 0.0.0.0 smetrics.crocs.com
 0.0.0.0 cn2.adserver.yahoo.com
@@ -30189,6 +30194,7 @@
 0.0.0.0 skarvexa-ai.com
 0.0.0.0 www.vulkanvegas105.com
 0.0.0.0 www.btccentrixtrade.com
+0.0.0.0 tomshardware.se.intellitxt.com
 0.0.0.0 propk.sa.com
 0.0.0.0 www.aldideals.qalivo.shop
 0.0.0.0 finny7-quo94.sbs
@@ -36078,6 +36084,7 @@
 0.0.0.0 8604.engine.mobileapptracking.com
 0.0.0.0 voltifire.site
 0.0.0.0 zbiornik.com
+0.0.0.0 ads24.net
 0.0.0.0 redge-a.akamaihd.net
 0.0.0.0 www.celeify.site
 0.0.0.0 admicro1.vcmedia.vn
@@ -36171,6 +36178,7 @@
 0.0.0.0 carinus.iad-03.braze.com
 0.0.0.0 contentwidgets.net
 0.0.0.0 genetree.112.2o7.net
+0.0.0.0 www.opoliumai.com
 0.0.0.0 counter.ntdvn.com
 0.0.0.0 www.olx.75428.lol
 0.0.0.0 finlab9-rerum90.sbs
@@ -38403,6 +38411,7 @@
 0.0.0.0 www.883zy.com
 0.0.0.0 fisio3-incidunt46.sbs
 0.0.0.0 www.life.yiffany.com
+0.0.0.0 static.freeskreen.com
 0.0.0.0 wcc.admicro.vn
 0.0.0.0 romansownia.pl
 0.0.0.0 cdn.hot-mob.com
@@ -40472,6 +40481,7 @@
 0.0.0.0 jp.f.gm.mob.com
 0.0.0.0 www.skupjajek.pl
 0.0.0.0 www.nahuarisap.live
+0.0.0.0 ph-ad12.focalink.com
 0.0.0.0 rtb.appintop.com
 0.0.0.0 juliyea.sbs
 0.0.0.0 static.oroll.com
@@ -41245,6 +41255,7 @@
 0.0.0.0 jefibiosy.autos
 0.0.0.0 www.olx.oferta5522738483322.cfd
 0.0.0.0 us.criteo.net
+0.0.0.0 www.freespinwinner.win
 0.0.0.0 argentifundex.net
 0.0.0.0 convertro.com
 0.0.0.0 www.podatki-hgx.podatnet.com
@@ -44225,6 +44236,7 @@
 0.0.0.0 www.fisios3-eaque26.sbs
 0.0.0.0 teens24h.com
 0.0.0.0 voxepulse.online
+0.0.0.0 selwickbrief.com
 0.0.0.0 popcapgames.122.2o7.net
 0.0.0.0 foto-zdjecia.24.eu
 0.0.0.0 ash.creativecdn.com
@@ -44872,6 +44884,7 @@
 0.0.0.0 iv24.pl
 0.0.0.0 www.ibrainer.net
 0.0.0.0 ad5.banners.ero-advertising.com
+0.0.0.0 adxxx.me
 0.0.0.0 www.crowbbisbo.store
 0.0.0.0 multi.xnxx.com
 0.0.0.0 www.skarpawarszawska.live
@@ -45403,6 +45416,7 @@
 0.0.0.0 www.59bkf.e5ulrp.cfd
 0.0.0.0 www.aldideals.dorvistore.shop
 0.0.0.0 www.v8p1xr.lat
+0.0.0.0 testdata.coremetrics.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 winfreetoday.com
 0.0.0.0 t.pswec.com
@@ -49990,6 +50004,7 @@
 0.0.0.0 twt.o8fgwc.top
 0.0.0.0 www.arthrpuntu.autos
 0.0.0.0 www.verificationlink.help
+0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 yervion.shop
 0.0.0.0 cashreportz.com
 0.0.0.0 hb.nexage.com
@@ -54660,6 +54675,7 @@
 0.0.0.0 uconnect.tealiumiq.com
 0.0.0.0 73091.hittail.com
 0.0.0.0 ads250.console.adtarget.com.tr
+0.0.0.0 clausing-advies.nl
 0.0.0.0 bxxeefeaters.info
 0.0.0.0 www.go.tribefit.co
 0.0.0.0 www.lokalna-oferta57641.lol
@@ -57136,6 +57152,7 @@
 0.0.0.0 tags.tagcade.com
 0.0.0.0 www.royal888trade.com
 0.0.0.0 banner.thadaco.vn
+0.0.0.0 www.fisio2-vitae49.sbs
 0.0.0.0 ads.adtheorent.com
 0.0.0.0 www.emofocrank.rest
 0.0.0.0 widget.am5.vip.prod.criteo.com
@@ -58318,6 +58335,7 @@
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 www.vantaranalarloka.net
 0.0.0.0 kr0kambnoney.cfd
+0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -59288,6 +59306,7 @@
 0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 vivorendanca.com
 0.0.0.0 www.rassoscodi.autos
+0.0.0.0 media.ventivmedia.com
 0.0.0.0 adwebone.com
 0.0.0.0 r.reklama.biz
 0.0.0.0 www.nordiqotrade.net
@@ -60735,6 +60754,7 @@
 0.0.0.0 www.gemmafin.com
 0.0.0.0 www.btcgridlyv970.com
 0.0.0.0 www.quantorainvest.net
+0.0.0.0 www.5kjr8ue.hair
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 ort.stsdk.vivo.com.cn
 0.0.0.0 www.vitajuice.com.pl
@@ -63984,6 +64004,7 @@
 0.0.0.0 www.pernico.shop
 0.0.0.0 www.wo9mtb.qpon
 0.0.0.0 www.onmarketer.net
+0.0.0.0 cdnondemand.org
 0.0.0.0 www.vynotedapt.site
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 www.olx.lokalna-4930237.sbs
@@ -66199,6 +66220,7 @@
 0.0.0.0 harusriabb.autos
 0.0.0.0 www.nezuntraxistrade.com
 0.0.0.0 martdance.live
+0.0.0.0 straightnest.com
 0.0.0.0 www.epaikopmhtiko24.today
 0.0.0.0 vulkanvegaspl.com
 0.0.0.0 www.istikrarcapital.org
@@ -68007,6 +68029,7 @@
 0.0.0.0 lpdk.net
 0.0.0.0 www.zwglasif.shop
 0.0.0.0 edits.mywebsearch.com
+0.0.0.0 dealiveroo.fr
 0.0.0.0 support-xlp.eu.cc
 0.0.0.0 safalindustries.com
 0.0.0.0 www.valoriumdexeris.org
@@ -73842,6 +73865,7 @@
 0.0.0.0 js.adspro.it
 0.0.0.0 mug.criteo.com
 0.0.0.0 iosalpha.onfluencer.net
+0.0.0.0 adserver.twitpic.com
 0.0.0.0 www.falkenquant.com
 0.0.0.0 fundetix.live
 0.0.0.0 www.omogecalam.autos
@@ -77335,6 +77359,7 @@
 0.0.0.0 delphix.fr
 0.0.0.0 adtegrity.net
 0.0.0.0 www.akundu.com
+0.0.0.0 www.purotattoostudio.mom
 0.0.0.0 abclauncher.com
 0.0.0.0 kroll-id324923.eu.cc
 0.0.0.0 www.valgrut.shop
@@ -77840,6 +77865,7 @@
 0.0.0.0 roomcheck-reservation.com
 0.0.0.0 cl-data-sg.ads.heytapmobi.com
 0.0.0.0 ifa.pornhublive.com
+0.0.0.0 advpic.yicha.jp
 0.0.0.0 podatki-mj.epdtk.com
 0.0.0.0 w9m5qc.lat
 0.0.0.0 images.conduit-banners.com
@@ -83051,6 +83077,7 @@
 0.0.0.0 www.henvuq.shop
 0.0.0.0 coenzeudes.click
 0.0.0.0 analytics.pnc.com
+0.0.0.0 www.buglife.com
 0.0.0.0 appstore.cfrapp084963.help
 0.0.0.0 u6905.71.spylog.com
 0.0.0.0 fisio6-velit4.sbs
@@ -84496,6 +84523,7 @@
 0.0.0.0 www.swagster.pl
 0.0.0.0 fisio0-et67.sbs
 0.0.0.0 www.soffoneoma.autos
+0.0.0.0 www.asianread.com
 0.0.0.0 netimeteru.site
 0.0.0.0 psozyhotho.pro
 0.0.0.0 www.carny.quest
@@ -85403,6 +85431,7 @@
 0.0.0.0 code.superstats.com
 0.0.0.0 trkn.us
 0.0.0.0 www.pl-0793248149.0016846261.com
+0.0.0.0 js.impact.ne.jp
 0.0.0.0 aolwbwowinsd.122.2o7.net
 0.0.0.0 geo.adobe.com
 0.0.0.0 www.goldflame.com
@@ -90141,6 +90170,7 @@
 0.0.0.0 t7p2xn.lat
 0.0.0.0 www.redirect.ero-advertising.com
 0.0.0.0 r.looksmart.com
+0.0.0.0 www.lokalna-0498215.sbs
 0.0.0.0 www.sbbanner.com
 0.0.0.0 content.linkoffers.net
 0.0.0.0 rot0.a8.net
@@ -90284,6 +90314,7 @@
 0.0.0.0 www.kelmorio.com
 0.0.0.0 www.novaliratechki.net
 0.0.0.0 wat.ad.daum.net
+0.0.0.0 ads.examiner.net
 0.0.0.0 www.bitcoinup-pro.com
 0.0.0.0 e-randeczki.pl
 0.0.0.0 www.riverbed.pl
@@ -90603,6 +90634,7 @@
 0.0.0.0 www.symantex.com
 0.0.0.0 www.segurofundezano.online
 0.0.0.0 cargroup-service.mom
+0.0.0.0 femidignity.org
 0.0.0.0 uy054eprsdoz.appspot.com
 0.0.0.0 ads.adsinimages.com
 0.0.0.0 americanexpress.122.2o7.net
