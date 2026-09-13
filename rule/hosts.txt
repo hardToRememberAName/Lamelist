@@ -1,4 +1,4 @@
-# Update time: 2026-09-13 09:39:44
+# Update time: 2026-09-13 23:10:15
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -11865,6 +11865,7 @@
 0.0.0.0 pir.investnovex.com
 0.0.0.0 www.uhvauldrip.site
 0.0.0.0 viagraviagra.3xforum.ro
+0.0.0.0 www.tapart.live
 0.0.0.0 bil.plvsellrwerfy.shop
 0.0.0.0 instirosene.autos
 0.0.0.0 banners.gayfriendfinder.com
@@ -16079,7 +16080,6 @@
 0.0.0.0 h250p-y3urn.ads.tremorhub.com
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 onovaeon.site
-0.0.0.0 www.vomitgirl.org
 0.0.0.0 xenogovia.site
 0.0.0.0 www.zinsorenki.com
 0.0.0.0 media.lovercash.com
@@ -17199,7 +17199,6 @@
 0.0.0.0 foxnews.demdex.net
 0.0.0.0 pulsxlytics.site
 0.0.0.0 adnico.genieesspv.jp
-0.0.0.0 rinsespeda.rest
 0.0.0.0 track.msadcenter.mur.com
 0.0.0.0 www.jittegregn.rest
 0.0.0.0 www.lapiden.com
@@ -19392,6 +19391,7 @@
 0.0.0.0 preththeol.store
 0.0.0.0 prod.adjoe.zone
 0.0.0.0 collector-1054.tvsquared.com
+0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 app.storage.yunvm.com
 0.0.0.0 b.ads1.msn.com
@@ -19925,7 +19925,6 @@
 0.0.0.0 hydra.alibaba.com
 0.0.0.0 smetrics.pearlevision.ca
 0.0.0.0 www.cosebellestudio.live
-0.0.0.0 printables.eu.cc
 0.0.0.0 e111.yt.srs.doubleverify.com
 0.0.0.0 www.askme4date.com
 0.0.0.0 ufz.doesxyz.com
@@ -29281,6 +29280,7 @@
 0.0.0.0 www.lunaredisto.com
 0.0.0.0 www.clarimarkun.site
 0.0.0.0 epsalayer.site
+0.0.0.0 www.trafficnetworkads24.com
 0.0.0.0 ser.adledge.com
 0.0.0.0 gommoneusato.it
 0.0.0.0 office365-us-update.com
@@ -30216,7 +30216,6 @@
 0.0.0.0 imnotobsessed.us.intellitxt.com
 0.0.0.0 www.vulkanvegas105.com
 0.0.0.0 www.btccentrixtrade.com
-0.0.0.0 tomshardware.se.intellitxt.com
 0.0.0.0 propk.sa.com
 0.0.0.0 www.aldideals.qalivo.shop
 0.0.0.0 finny7-quo94.sbs
@@ -34211,7 +34210,6 @@
 0.0.0.0 engage12348wrdvs.deltadna.net
 0.0.0.0 treviko.shop
 0.0.0.0 communicate.gimbal.com
-0.0.0.0 www.artistikstudyo.live
 0.0.0.0 2iju3nw2.skin
 0.0.0.0 impit.tradedouble.com
 0.0.0.0 www.faelmoro.com
@@ -46424,6 +46422,7 @@
 0.0.0.0 fedex-rescheduel-date.com
 0.0.0.0 track.privacyatclearbit.com
 0.0.0.0 www.meravrinso.online
+0.0.0.0 api.eu.amplitude.com
 0.0.0.0 phanelain.rest
 0.0.0.0 www.nexoryplatform.com
 0.0.0.0 fnatfee.ero-advertising.com
@@ -62489,7 +62488,6 @@
 0.0.0.0 ad23.checkm8.com
 0.0.0.0 share.mob.com
 0.0.0.0 benaughty.com
-0.0.0.0 www.pl41.landofm.com
 0.0.0.0 www.hodrjumpe.site
 0.0.0.0 vodafoneit.solution.weborama.fr
 0.0.0.0 connect.scroll.com
@@ -68297,6 +68295,7 @@
 0.0.0.0 wszystkiefilmy.pl
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 www.globaltrustbank-official.com
+0.0.0.0 profitboosterapp.com
 0.0.0.0 onlineaxbd.shop
 0.0.0.0 ambientplatform.vn
 0.0.0.0 www.studioself.live
@@ -70031,7 +70030,6 @@
 0.0.0.0 cdn.tutoads.tv
 0.0.0.0 www.zentarioai.com
 0.0.0.0 ad.wretch.cc
-0.0.0.0 track.adbooth.net
 0.0.0.0 www.lokalna-849641.sbs
 0.0.0.0 albergonyers.live
 0.0.0.0 www.theuseful.net
@@ -86988,7 +86986,6 @@
 0.0.0.0 ocs.websponsors.com
 0.0.0.0 temasekbitfundexprime.digital
 0.0.0.0 wpn.codon.vn
-0.0.0.0 2.maaqkj.com
 0.0.0.0 fortissio.com
 0.0.0.0 www.xonanarise.site
 0.0.0.0 torenix.shop
@@ -90160,6 +90157,7 @@
 0.0.0.0 www.customersupporthelp.com
 0.0.0.0 www.icygrovejn.com
 0.0.0.0 fisios3-quae71.sbs
+0.0.0.0 neurodibot.site
 0.0.0.0 csxmhkahpy9y6cwwr.ay.delivery
 0.0.0.0 survymonkey.xyz
 0.0.0.0 collector-2398.tvsquared.com
