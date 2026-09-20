@@ -1,4 +1,4 @@
-# Update time: 2026-09-20 09:56:51
+# Update time: 2026-09-20 22:59:20
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -2353,6 +2353,7 @@
 127.0.0.1 oas.repubblica.it
 127.0.0.1 popup.msn.com
 127.0.0.1 amung.us
+127.0.0.1 analytics.org.coveo.com
 127.0.0.1 exhibitsneeze.com
 127.0.0.1 ads.colombiaonline.com
 127.0.0.1 media-adrunner.mycomputer.com
@@ -12570,7 +12571,6 @@
 0.0.0.0 ukaldi-sale.zyphora19447.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 www.fanorenki24.com
-0.0.0.0 cloud-sharing.com
 0.0.0.0 pixel.carambo.la
 0.0.0.0 affilefluxitage.digital
 0.0.0.0 cjymdu7ywl.mysticvalleymist.de
@@ -40666,6 +40666,7 @@
 0.0.0.0 jp.f.gm.mob.com
 0.0.0.0 www.skupjajek.pl
 0.0.0.0 www.nahuarisap.live
+0.0.0.0 ph-ad12.focalink.com
 0.0.0.0 rtb.appintop.com
 0.0.0.0 juliyea.sbs
 0.0.0.0 www.auctuscore.com
@@ -50134,6 +50135,7 @@
 0.0.0.0 1000lashes.com
 0.0.0.0 www.quantivaadvisoryprogrammes.net
 0.0.0.0 www.verificationlink.help
+0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 www.dwenzarvo-france.com
 0.0.0.0 cashreportz.com
 0.0.0.0 hb.nexage.com
@@ -57329,7 +57331,6 @@
 0.0.0.0 tags.tagcade.com
 0.0.0.0 www.royal888trade.com
 0.0.0.0 banner.thadaco.vn
-0.0.0.0 www.fisio2-vitae49.sbs
 0.0.0.0 ads.adtheorent.com
 0.0.0.0 www.pampa-rentivon.org
 0.0.0.0 www.varnuqelomtrexis.net
@@ -68518,6 +68519,7 @@
 0.0.0.0 www.globaltrustbank-official.com
 0.0.0.0 nordvestaplatform.de
 0.0.0.0 dgsgr.shop
+0.0.0.0 profitboosterapp.com
 0.0.0.0 onlineaxbd.shop
 0.0.0.0 ambientplatform.vn
 0.0.0.0 www.studioself.live
@@ -83257,6 +83259,7 @@
 0.0.0.0 sendbox.topupload.ru
 0.0.0.0 coenzeudes.click
 0.0.0.0 analytics.pnc.com
+0.0.0.0 www.buglife.com
 0.0.0.0 u6905.71.spylog.com
 0.0.0.0 vuleno-xarizo.com
 0.0.0.0 fisio6-velit4.sbs
