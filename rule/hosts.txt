@@ -1,4 +1,4 @@
-# Update time: 2026-09-29 02:50:17
+# Update time: 2026-09-29 10:57:52
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -17593,6 +17593,7 @@
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 www.randkamarzen.pl
 0.0.0.0 www.starcrestzynortrade.com
+0.0.0.0 start.badults.se
 0.0.0.0 alertsreafforesttting.info
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 counter48.bravenet.com
@@ -23782,7 +23783,6 @@
 0.0.0.0 ip.nuggad.net
 0.0.0.0 img.directtrack.com
 0.0.0.0 105915624.com
-0.0.0.0 ck.storematch.jp
 0.0.0.0 fairu-blog.com
 0.0.0.0 serwis-log.netlify.app
 0.0.0.0 www.mercerholm.net
@@ -32909,6 +32909,7 @@
 0.0.0.0 motorl.oewabox.at
 0.0.0.0 www.spywarespy.com
 0.0.0.0 banner.easyspace.com
+0.0.0.0 banners.img.uol.com.br
 0.0.0.0 a3791.casalemedia.com
 0.0.0.0 hubirtoker.com
 0.0.0.0 counter33.bravenet.com
@@ -36664,7 +36665,6 @@
 0.0.0.0 gpaper162.112.2o7.net
 0.0.0.0 www.883zy.com
 0.0.0.0 www.life.yiffany.com
-0.0.0.0 static.freeskreen.com
 0.0.0.0 www.vinted.8653464.lat
 0.0.0.0 aldimart.orchidquaygrocer.shop
 0.0.0.0 fc.wipocozostore.top
@@ -44726,7 +44726,6 @@
 0.0.0.0 aldi.dunsmeremart.shop
 0.0.0.0 c0nforama.fr
 0.0.0.0 ad11.focalink.com
-0.0.0.0 www.app.fellgdentistic.com
 0.0.0.0 www.militaria-sprzedanie.sbs
 0.0.0.0 click.advertnative.com
 0.0.0.0 transferkeep.com
@@ -56836,7 +56835,6 @@
 0.0.0.0 vinted.pl-nd0produkty0177468158.lol
 0.0.0.0 wohnlumo.shop
 0.0.0.0 hitwebcounter.com
-0.0.0.0 www.adjmps.com
 0.0.0.0 cnt-jrs.com
 0.0.0.0 trafficmoose.com
 0.0.0.0 skidrowcrack.com
@@ -59161,7 +59159,6 @@
 0.0.0.0 www.loudeteflo.store
 0.0.0.0 www.impulseledgiumai.net
 0.0.0.0 fcanr.tracking.miui.com
-0.0.0.0 ad.nwt.cz
 0.0.0.0 vq918450.com
 0.0.0.0 www.wwwplaysite.com
 0.0.0.0 weryfi-17262.surf
@@ -65828,6 +65825,7 @@
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 jz.j9ylbz.qpon
 0.0.0.0 www.truvantamarnoxisglobal.pro
+0.0.0.0 greenf.alexion.rs
 0.0.0.0 aldideals.briarharborbasket.shop
 0.0.0.0 grandsquare.info
 0.0.0.0 app-ab10.marketo.com
@@ -73446,6 +73444,7 @@
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 adlog.ifood.tv
 0.0.0.0 backpaininstantrelief.com
+0.0.0.0 a.shopserve.jp
 0.0.0.0 a.cdp.asia
 0.0.0.0 aldius.umviro.shop
 0.0.0.0 ventofinance-click.pages.dev
@@ -77089,6 +77088,7 @@
 0.0.0.0 creativedlock.com
 0.0.0.0 olx.9654326.cyou
 0.0.0.0 www.bezpiec-204819.eu.cc
+0.0.0.0 xanax.t-amo.net
 0.0.0.0 linceinvestorio.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
@@ -78434,6 +78434,7 @@
 0.0.0.0 sendbox.topupload.ru
 0.0.0.0 reeffundcrest.online
 0.0.0.0 analytics.pnc.com
+0.0.0.0 www.buglife.com
 0.0.0.0 www.public-resource-1760460430713987700.s3-website-us-east-1.amazonaws.com
 0.0.0.0 u6905.71.spylog.com
 0.0.0.0 teleroxvib.help
