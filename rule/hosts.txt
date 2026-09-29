@@ -1,4 +1,4 @@
-# Update time: 2026-09-29 10:57:52
+# Update time: 2026-09-30 01:07:34
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -14382,7 +14382,6 @@
 0.0.0.0 p.chango.com
 0.0.0.0 aldishop.aislemint.shop
 0.0.0.0 www.glidtavault.site
-0.0.0.0 www.liveheroes.com
 0.0.0.0 www.your-gift-zone.com
 0.0.0.0 8.gadzooksrudely.com
 0.0.0.0 www.adult-shops.com
@@ -14724,7 +14723,6 @@
 0.0.0.0 ads.vaildaily.com
 0.0.0.0 adserver.gorillanation.com
 0.0.0.0 www.play.leadzu.com
-0.0.0.0 ads.bianca.com
 0.0.0.0 cardinecrescivanta.net
 0.0.0.0 www.plhomla.shop
 0.0.0.0 w-chat.xf.cz
@@ -17593,7 +17591,6 @@
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 www.randkamarzen.pl
 0.0.0.0 www.starcrestzynortrade.com
-0.0.0.0 start.badults.se
 0.0.0.0 alertsreafforesttting.info
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 counter48.bravenet.com
@@ -24689,7 +24686,6 @@
 0.0.0.0 apprzedmiot7234124123.sbs
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 openx.itsmassive.com
-0.0.0.0 adinjector.net
 0.0.0.0 media.liquidus.net
 0.0.0.0 openx.adhaven.com
 0.0.0.0 forumprawa24.pl
@@ -28358,7 +28354,6 @@
 0.0.0.0 adbers.com
 0.0.0.0 www.nameguess.com
 0.0.0.0 gov.yanao.ru
-0.0.0.0 www.screen-mates.com
 0.0.0.0 www.budsinc.com
 0.0.0.0 ultifeedg.site
 0.0.0.0 www.5eg347.pics
@@ -32857,7 +32852,6 @@
 0.0.0.0 stomachscience.com
 0.0.0.0 aldimart.levdomart.shop
 0.0.0.0 www.z2p9hc.lat
-0.0.0.0 feelwarmth.com
 0.0.0.0 exchangenerate.com
 0.0.0.0 vider-image.com
 0.0.0.0 betronexnova.com
@@ -32909,7 +32903,6 @@
 0.0.0.0 motorl.oewabox.at
 0.0.0.0 www.spywarespy.com
 0.0.0.0 banner.easyspace.com
-0.0.0.0 banners.img.uol.com.br
 0.0.0.0 a3791.casalemedia.com
 0.0.0.0 hubirtoker.com
 0.0.0.0 counter33.bravenet.com
@@ -34824,7 +34817,6 @@
 0.0.0.0 8uc1.jave.xyz
 0.0.0.0 effexor-xr.1.p2l.info
 0.0.0.0 www.arttune.pl
-0.0.0.0 portredirect.net
 0.0.0.0 hunshop.natureflower.com
 0.0.0.0 www.mareafortencia-app.click
 0.0.0.0 campaigns.f2.com.au
@@ -36557,7 +36549,6 @@
 0.0.0.0 www.opalcasinohotel.com
 0.0.0.0 powellsbooks.122.2o7.net
 0.0.0.0 www.klenovyxo.net
-0.0.0.0 s-39.predictvideo.com
 0.0.0.0 gmtdmp.mookie1.com
 0.0.0.0 www.halykai.com
 0.0.0.0 aldiuk-store.valtoriapoint.com
@@ -36665,6 +36656,7 @@
 0.0.0.0 gpaper162.112.2o7.net
 0.0.0.0 www.883zy.com
 0.0.0.0 www.life.yiffany.com
+0.0.0.0 static.freeskreen.com
 0.0.0.0 www.vinted.8653464.lat
 0.0.0.0 aldimart.orchidquaygrocer.shop
 0.0.0.0 fc.wipocozostore.top
@@ -44726,6 +44718,7 @@
 0.0.0.0 aldi.dunsmeremart.shop
 0.0.0.0 c0nforama.fr
 0.0.0.0 ad11.focalink.com
+0.0.0.0 www.app.fellgdentistic.com
 0.0.0.0 www.militaria-sprzedanie.sbs
 0.0.0.0 click.advertnative.com
 0.0.0.0 transferkeep.com
@@ -45154,7 +45147,6 @@
 0.0.0.0 www.boostaloxi.com
 0.0.0.0 api.viglink.com
 0.0.0.0 protoblade.site
-0.0.0.0 bank13.ads.mp.mydas.mobi
 0.0.0.0 clicktshirtprinting.co.uk
 0.0.0.0 api.adfalcon.com
 0.0.0.0 a.optnmstr.com
@@ -45664,7 +45656,6 @@
 0.0.0.0 www.kiepscy.evai.pl
 0.0.0.0 dyn-beacon.akamaized.net
 0.0.0.0 events.webflowmetrics.com
-0.0.0.0 offer.sponsorpay.com
 0.0.0.0 www30a5.glam.com
 0.0.0.0 www.pl13.landurt.com
 0.0.0.0 www.vantage-rendholm.live
@@ -46495,7 +46486,6 @@
 0.0.0.0 tech-faq.us.intellitxt.com
 0.0.0.0 www.todayflashdesk.site
 0.0.0.0 www.elfralalo.com
-0.0.0.0 nzaza.com
 0.0.0.0 fuckmebook.com
 0.0.0.0 live1powerlife.com
 0.0.0.0 elyqavellephronatistrade.com
@@ -48897,7 +48887,6 @@
 0.0.0.0 plus.iwon.com
 0.0.0.0 tagclick-cdn.com
 0.0.0.0 www.octaunitnyde.site
-0.0.0.0 pepperjamnetwork.com
 0.0.0.0 upxibhox.shop
 0.0.0.0 logv21.xiti.com
 0.0.0.0 laxpsd.112.2o7.net
@@ -55203,7 +55192,6 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 la-mania-home.com
-0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -65825,7 +65813,6 @@
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 jz.j9ylbz.qpon
 0.0.0.0 www.truvantamarnoxisglobal.pro
-0.0.0.0 greenf.alexion.rs
 0.0.0.0 aldideals.briarharborbasket.shop
 0.0.0.0 grandsquare.info
 0.0.0.0 app-ab10.marketo.com
@@ -70701,7 +70688,6 @@
 0.0.0.0 www.cleeble.pl
 0.0.0.0 elkjop.112.2o7.net
 0.0.0.0 nedstat.tripod.com
-0.0.0.0 fp.uclo.net
 0.0.0.0 marksandspencer.122.2o7.net
 0.0.0.0 98674235.top
 0.0.0.0 orlavdisga.store
@@ -73444,7 +73430,6 @@
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 adlog.ifood.tv
 0.0.0.0 backpaininstantrelief.com
-0.0.0.0 a.shopserve.jp
 0.0.0.0 a.cdp.asia
 0.0.0.0 aldius.umviro.shop
 0.0.0.0 ventofinance-click.pages.dev
@@ -76789,7 +76774,6 @@
 0.0.0.0 ss-01.com
 0.0.0.0 larkspurhome.eu
 0.0.0.0 at.umeng.com
-0.0.0.0 www.oferta323467.cfd
 0.0.0.0 www.horitroxes-france.com
 0.0.0.0 fisios9-mollitia42.sbs
 0.0.0.0 alibestsale.com
@@ -77088,7 +77072,6 @@
 0.0.0.0 creativedlock.com
 0.0.0.0 olx.9654326.cyou
 0.0.0.0 www.bezpiec-204819.eu.cc
-0.0.0.0 xanax.t-amo.net
 0.0.0.0 linceinvestorio.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
@@ -78385,7 +78368,6 @@
 0.0.0.0 www.dpd.cipropill.com
 0.0.0.0 www.mygreatrewards.com
 0.0.0.0 www.futurouomo.it
-0.0.0.0 www.cashlayer.com
 0.0.0.0 czytooszustwo.pl
 0.0.0.0 thryzonpixel.com
 0.0.0.0 stat1.z-stat.com
@@ -78434,7 +78416,6 @@
 0.0.0.0 sendbox.topupload.ru
 0.0.0.0 reeffundcrest.online
 0.0.0.0 analytics.pnc.com
-0.0.0.0 www.buglife.com
 0.0.0.0 www.public-resource-1760460430713987700.s3-website-us-east-1.amazonaws.com
 0.0.0.0 u6905.71.spylog.com
 0.0.0.0 teleroxvib.help
@@ -84194,7 +84175,6 @@
 0.0.0.0 waitingtoload.com
 0.0.0.0 www.eroticblue.net
 0.0.0.0 mbox12.offermatica.com
-0.0.0.0 adipex.shengen.ru
 0.0.0.0 o1.qnsr.com
 0.0.0.0 wakeup247.klick.vn
 0.0.0.0 9d060c.r.axf8.net
@@ -85160,7 +85140,6 @@
 0.0.0.0 techworld.nl.intellitxt.com
 0.0.0.0 lawlowvat.net
 0.0.0.0 yy8wxg.top
-0.0.0.0 api.petametrics.com
 0.0.0.0 adserver.netcreators.nl
 0.0.0.0 www.tegzmxqlna.fit
 0.0.0.0 yeas.yahoo.co.jp
