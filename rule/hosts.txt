@@ -1,4 +1,4 @@
-# Update time: 2026-10-04 11:05:13
+# Update time: 2026-10-05 00:03:09
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -12105,7 +12105,6 @@
 0.0.0.0 handyarchive.com
 0.0.0.0 www.dissericon.store
 0.0.0.0 smetrics.bankofamerica.com
-0.0.0.0 tsa.webex.com
 0.0.0.0 crownex-gpt.click
 0.0.0.0 www.vinted.pl53918fdshhujhujhuj.lol
 0.0.0.0 www.clearshieldredirect.com
@@ -22219,7 +22218,6 @@
 0.0.0.0 www.soczystemilfy.com
 0.0.0.0 counter.advancewebhosting.com
 0.0.0.0 kiaby.fr
-0.0.0.0 ads.injersey.com
 0.0.0.0 dmp.adblade.com
 0.0.0.0 archipelagoescompreheffnsibleness.info
 0.0.0.0 www.8862768766-prawnicy.storage.googleapis.com
@@ -24248,7 +24246,6 @@
 0.0.0.0 apprzedmiot7234124123.sbs
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 openx.itsmassive.com
-0.0.0.0 adinjector.net
 0.0.0.0 media.liquidus.net
 0.0.0.0 openx.adhaven.com
 0.0.0.0 forumprawa24.pl
@@ -24871,7 +24868,6 @@
 0.0.0.0 rightstats.com
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 pl-19062013.cfd
-0.0.0.0 om.elvenar.com
 0.0.0.0 www.attirra.com
 0.0.0.0 data2.ero-advertising.com
 0.0.0.0 grandmods.com
@@ -32175,7 +32171,6 @@
 0.0.0.0 www.spywarespy.com
 0.0.0.0 olx.0ferta08921.sbs
 0.0.0.0 banner.easyspace.com
-0.0.0.0 banners.img.uol.com.br
 0.0.0.0 a3791.casalemedia.com
 0.0.0.0 counter33.bravenet.com
 0.0.0.0 sync-apsg.tidaltv.com.akadns.net
@@ -41469,7 +41464,6 @@
 0.0.0.0 www.h2n8c4v6b0.site
 0.0.0.0 www.diphyaffor.store
 0.0.0.0 www.oletipmegroup.com
-0.0.0.0 media.bonnint.net
 0.0.0.0 carnataldez.ml
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 adsrevenue.net
@@ -47522,7 +47516,6 @@
 0.0.0.0 ads.cheabit.com
 0.0.0.0 a3457.casalemedia.com
 0.0.0.0 partners.content.ad
-0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 freestats.com
 0.0.0.0 linkcounter.pornosite.com
 0.0.0.0 www.livetickettv.com
@@ -47598,7 +47591,6 @@
 0.0.0.0 click.trafikkfondet.no
 0.0.0.0 plus.iwon.com
 0.0.0.0 tagclick-cdn.com
-0.0.0.0 pepperjamnetwork.com
 0.0.0.0 upxibhox.shop
 0.0.0.0 logv21.xiti.com
 0.0.0.0 laxpsd.112.2o7.net
@@ -53689,7 +53681,6 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 la-mania-home.com
-0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -58889,7 +58880,6 @@
 0.0.0.0 parallars.com
 0.0.0.0 managwebajkas8gy328isdg.dfgj35tygsdgdfhjsd.com
 0.0.0.0 www.onmarketer.net
-0.0.0.0 cdnondemand.org
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 5273052211-doradztwo.storage.googleapis.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
@@ -60855,6 +60845,7 @@
 0.0.0.0 eremogaudio.it
 0.0.0.0 takemallelectric.com
 0.0.0.0 www.tusprawdz-2731.lat
+0.0.0.0 smokersopinionpoll.com
 0.0.0.0 c41.statcounter.com
 0.0.0.0 appboycdn.com
 0.0.0.0 cmgfeeds.cmgdigital.com
@@ -64011,7 +64002,6 @@
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 jz.j9ylbz.qpon
 0.0.0.0 www.truvantamarnoxisglobal.pro
-0.0.0.0 greenf.alexion.rs
 0.0.0.0 aldideals.briarharborbasket.shop
 0.0.0.0 grandsquare.info
 0.0.0.0 app-ab10.marketo.com
@@ -64269,7 +64259,6 @@
 0.0.0.0 www.rhtmybdv.shop
 0.0.0.0 www.solidnybudowa.com
 0.0.0.0 www.id-weryf9494.top
-0.0.0.0 pushagim.com
 0.0.0.0 katia-paliotti.com
 0.0.0.0 aldieu.babetabuild.shop
 0.0.0.0 clk.solocpm.com
@@ -67912,7 +67901,6 @@
 0.0.0.0 www.nowbriefdaily.xyz
 0.0.0.0 www.sterkfundalis.net
 0.0.0.0 primarystrike.net
-0.0.0.0 advertising.amazon.de
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 live.monitus.net
 0.0.0.0 zaladowano24pl.eu.cc
@@ -68710,7 +68698,6 @@
 0.0.0.0 elkjop.112.2o7.net
 0.0.0.0 www.olx.oferta-358616.top
 0.0.0.0 nedstat.tripod.com
-0.0.0.0 fp.uclo.net
 0.0.0.0 marksandspencer.122.2o7.net
 0.0.0.0 98674235.top
 0.0.0.0 www.schialampe.store
@@ -71375,7 +71362,6 @@
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 adlog.ifood.tv
 0.0.0.0 backpaininstantrelief.com
-0.0.0.0 a.shopserve.jp
 0.0.0.0 a.cdp.asia
 0.0.0.0 aldius.umviro.shop
 0.0.0.0 ventofinance-click.pages.dev
@@ -76849,6 +76835,7 @@
 0.0.0.0 www.massagetherapybyjuli.com
 0.0.0.0 metrics.chacha.com
 0.0.0.0 px.tvadsync.com
+0.0.0.0 www.argentumtrade.com
 0.0.0.0 delivery1.lavanetwork.net
 0.0.0.0 www.olx.0freta89071.sbs
 0.0.0.0 www.konto-millennium-360.online
@@ -80493,7 +80480,6 @@
 0.0.0.0 zp8kh.v8fxlo.casa
 0.0.0.0 adywind.com
 0.0.0.0 www.kulinarnebabuni.asckat.com
-0.0.0.0 ads.digital-digest.com
 0.0.0.0 vinted.9785720.lat
 0.0.0.0 a.trkme.net
 0.0.0.0 bodrofinekssolution-pro.pages.dev
