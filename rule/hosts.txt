@@ -1,4 +1,4 @@
-# Update time: 2026-10-07 01:29:39
+# Update time: 2026-10-07 10:56:54
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -12106,6 +12106,7 @@
 0.0.0.0 handyarchive.com
 0.0.0.0 www.dissericon.store
 0.0.0.0 smetrics.bankofamerica.com
+0.0.0.0 tsa.webex.com
 0.0.0.0 crownex-gpt.click
 0.0.0.0 www.vinted.pl53918fdshhujhujhuj.lol
 0.0.0.0 www.clearshieldredirect.com
@@ -13309,6 +13310,7 @@
 0.0.0.0 aws-oregon-ohio-virginia.s.innovid.com.akadns.net
 0.0.0.0 www.slaviclabs.net
 0.0.0.0 www.fuckworld.com
+0.0.0.0 dmp.vihub.ru
 0.0.0.0 www.billcarthy.f9.co.uk
 0.0.0.0 carpathiancapital-shop.pages.dev
 0.0.0.0 counter.letssingit.com
@@ -17384,6 +17386,7 @@
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 www.randkamarzen.pl
 0.0.0.0 www.starcrestzynortrade.com
+0.0.0.0 start.badults.se
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 counter48.bravenet.com
 0.0.0.0 oasc02023.247realmedia.com
@@ -21050,6 +21053,7 @@
 0.0.0.0 9down.us.intellitxt.com
 0.0.0.0 www.deta.ero-advertising.com
 0.0.0.0 www.structures-made-easy.co.uk
+0.0.0.0 hocgeese.com
 0.0.0.0 www.sintoconve.store
 0.0.0.0 www.filmofon.pl
 0.0.0.0 zentrixaiengine.com
@@ -22218,6 +22222,7 @@
 0.0.0.0 www.soczystemilfy.com
 0.0.0.0 counter.advancewebhosting.com
 0.0.0.0 kiaby.fr
+0.0.0.0 ads.injersey.com
 0.0.0.0 dmp.adblade.com
 0.0.0.0 archipelagoescompreheffnsibleness.info
 0.0.0.0 www.8862768766-prawnicy.storage.googleapis.com
@@ -23367,6 +23372,7 @@
 0.0.0.0 ecbrn.com
 0.0.0.0 eusta.de
 0.0.0.0 ln2podt-kp83pol.sa6mzr.top
+0.0.0.0 oascentral.citypages.com
 0.0.0.0 www.6812103650-prawnicy.storage.googleapis.com
 0.0.0.0 www.texeulxsek.club
 0.0.0.0 www.quadoption.net
@@ -23376,6 +23382,7 @@
 0.0.0.0 img.directtrack.com
 0.0.0.0 www.pi-oferta984564.lol
 0.0.0.0 105915624.com
+0.0.0.0 ck.storematch.jp
 0.0.0.0 fairu-blog.com
 0.0.0.0 serwis-log.netlify.app
 0.0.0.0 www.mercerholm.net
@@ -24245,6 +24252,7 @@
 0.0.0.0 apprzedmiot7234124123.sbs
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 openx.itsmassive.com
+0.0.0.0 adinjector.net
 0.0.0.0 media.liquidus.net
 0.0.0.0 openx.adhaven.com
 0.0.0.0 forumprawa24.pl
@@ -24867,6 +24875,7 @@
 0.0.0.0 rightstats.com
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 pl-19062013.cfd
+0.0.0.0 om.elvenar.com
 0.0.0.0 www.attirra.com
 0.0.0.0 data2.ero-advertising.com
 0.0.0.0 grandmods.com
@@ -25148,6 +25157,7 @@
 0.0.0.0 www.17672a94.vcstrading.com
 0.0.0.0 www.nightoctoa.store
 0.0.0.0 www.teletremep.click
+0.0.0.0 www.infozz.shop
 0.0.0.0 www.ellesalonhb.com
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 s.console.adtarget.com.tr
@@ -25656,6 +25666,7 @@
 0.0.0.0 update.sdk.batmobi.net
 0.0.0.0 popcornflix.pl
 0.0.0.0 adtrace.org
+0.0.0.0 www.prontomercavitatrade.com
 0.0.0.0 adserver.trader.ca
 0.0.0.0 hitweb.chosun.com
 0.0.0.0 www.precisbitdex.shop
@@ -32169,6 +32180,7 @@
 0.0.0.0 www.spywarespy.com
 0.0.0.0 olx.0ferta08921.sbs
 0.0.0.0 banner.easyspace.com
+0.0.0.0 banners.img.uol.com.br
 0.0.0.0 a3791.casalemedia.com
 0.0.0.0 counter33.bravenet.com
 0.0.0.0 sync-apsg.tidaltv.com.akadns.net
@@ -35070,6 +35082,7 @@
 0.0.0.0 pb.tynt.com
 0.0.0.0 www.teledarkwt.cyou
 0.0.0.0 v2.yieldlove-ad-serving.net
+0.0.0.0 lowest-prices.eu
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 vinted.ogloszenie2108578947.cyou
 0.0.0.0 lazy.rayjump.com
@@ -35741,6 +35754,7 @@
 0.0.0.0 www.883zy.com
 0.0.0.0 www.html-preview-31f12d.previewship.net
 0.0.0.0 www.life.yiffany.com
+0.0.0.0 static.freeskreen.com
 0.0.0.0 www.vinted.8653464.lat
 0.0.0.0 aldimart.orchidquaygrocer.shop
 0.0.0.0 fc.wipocozostore.top
@@ -41460,6 +41474,7 @@
 0.0.0.0 www.h2n8c4v6b0.site
 0.0.0.0 www.diphyaffor.store
 0.0.0.0 www.oletipmegroup.com
+0.0.0.0 media.bonnint.net
 0.0.0.0 carnataldez.ml
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 adsrevenue.net
@@ -42812,6 +42827,7 @@
 0.0.0.0 miercuri.gq
 0.0.0.0 www.filmy4u.pl
 0.0.0.0 req.tidaltv.com
+0.0.0.0 tetra.hitbox.com
 0.0.0.0 selleraxis.site
 0.0.0.0 dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0 www.fisios8-omnis67.sbs
@@ -43553,6 +43569,7 @@
 0.0.0.0 common.duapps.com
 0.0.0.0 c0nforama.fr
 0.0.0.0 ad11.focalink.com
+0.0.0.0 www.app.fellgdentistic.com
 0.0.0.0 www.militaria-sprzedanie.sbs
 0.0.0.0 click.advertnative.com
 0.0.0.0 transferkeep.com
@@ -45263,6 +45280,7 @@
 0.0.0.0 tech-faq.us.intellitxt.com
 0.0.0.0 www.todayflashdesk.site
 0.0.0.0 www.elfralalo.com
+0.0.0.0 nzaza.com
 0.0.0.0 6842441133-biura.storage.googleapis.com
 0.0.0.0 www.8621597056-firmy.storage.googleapis.com
 0.0.0.0 fuckmebook.com
@@ -46814,6 +46832,7 @@
 0.0.0.0 untetqueri.store
 0.0.0.0 pobierzteraz.mobi
 0.0.0.0 www.tycauoo.lol
+0.0.0.0 telebasese.club
 0.0.0.0 img.parked.ru #[Parking Service]
 0.0.0.0 static.audienceinsights.net
 0.0.0.0 121media.com
@@ -47511,6 +47530,7 @@
 0.0.0.0 ads.cheabit.com
 0.0.0.0 a3457.casalemedia.com
 0.0.0.0 partners.content.ad
+0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 freestats.com
 0.0.0.0 linkcounter.pornosite.com
 0.0.0.0 www.livetickettv.com
@@ -47586,6 +47606,7 @@
 0.0.0.0 click.trafikkfondet.no
 0.0.0.0 plus.iwon.com
 0.0.0.0 tagclick-cdn.com
+0.0.0.0 pepperjamnetwork.com
 0.0.0.0 upxibhox.shop
 0.0.0.0 logv21.xiti.com
 0.0.0.0 laxpsd.112.2o7.net
@@ -51480,6 +51501,7 @@
 0.0.0.0 freeadult.games
 0.0.0.0 www.9a882c1a.vcsservice.eu
 0.0.0.0 www.leanplum.com
+0.0.0.0 www.spolszczenia4you.net
 0.0.0.0 www.kelvorio.com
 0.0.0.0 www.qubitradeai.shop
 0.0.0.0 metrics.babycentre.co.uk
@@ -54622,6 +54644,7 @@
 0.0.0.0 xenvor-pulse-shop.pages.dev
 0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 avinpoat.skin
+0.0.0.0 media.ventivmedia.com
 0.0.0.0 adwebone.com
 0.0.0.0 r.reklama.biz
 0.0.0.0 report.adviad.com
@@ -55273,6 +55296,7 @@
 0.0.0.0 www.6772514073-prawnicy.storage.googleapis.com
 0.0.0.0 wohnlumo.shop
 0.0.0.0 hitwebcounter.com
+0.0.0.0 www.adjmps.com
 0.0.0.0 cnt-jrs.com
 0.0.0.0 trafficmoose.com
 0.0.0.0 skidrowcrack.com
@@ -57552,6 +57576,7 @@
 0.0.0.0 amp.permutive.com
 0.0.0.0 www.impulseledgiumai.net
 0.0.0.0 fcanr.tracking.miui.com
+0.0.0.0 ad.nwt.cz
 0.0.0.0 vq918450.com
 0.0.0.0 www.wwwplaysite.com
 0.0.0.0 weryfi-17262.surf
@@ -57981,6 +58006,7 @@
 0.0.0.0 pdw-usr.userreport.com
 0.0.0.0 jrcom.112.2o7.net
 0.0.0.0 ads-colruytgroup.adhese.com
+0.0.0.0 www.rookwertode.net
 0.0.0.0 ads05.focalink.com
 0.0.0.0 banner.europacasino.com
 0.0.0.0 ca.iadsdk.apple.com
@@ -58874,6 +58900,7 @@
 0.0.0.0 parallars.com
 0.0.0.0 managwebajkas8gy328isdg.dfgj35tygsdgdfhjsd.com
 0.0.0.0 www.onmarketer.net
+0.0.0.0 cdnondemand.org
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 5273052211-doradztwo.storage.googleapis.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
@@ -63996,6 +64023,7 @@
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 jz.j9ylbz.qpon
 0.0.0.0 www.truvantamarnoxisglobal.pro
+0.0.0.0 greenf.alexion.rs
 0.0.0.0 aldideals.briarharborbasket.shop
 0.0.0.0 grandsquare.info
 0.0.0.0 app-ab10.marketo.com
@@ -64216,6 +64244,7 @@
 0.0.0.0 mercadonacapital.com
 0.0.0.0 katu.adbureau.net
 0.0.0.0 morehitserver.com
+0.0.0.0 web-bars.com
 0.0.0.0 189zx.com
 0.0.0.0 msn.directadvert.ru
 0.0.0.0 www.6842441133-firmy.storage.googleapis.com
@@ -64253,6 +64282,7 @@
 0.0.0.0 www.rhtmybdv.shop
 0.0.0.0 www.solidnybudowa.com
 0.0.0.0 www.id-weryf9494.top
+0.0.0.0 pushagim.com
 0.0.0.0 katia-paliotti.com
 0.0.0.0 aldieu.babetabuild.shop
 0.0.0.0 clk.solocpm.com
@@ -65824,6 +65854,7 @@
 0.0.0.0 x-diesel.org
 0.0.0.0 helvi-quant.net
 0.0.0.0 webmaster.privatamateure.com
+0.0.0.0 www.pl03.blog
 0.0.0.0 inskinmedia689754970364.s.moatpixel.com
 0.0.0.0 8272171760-prawnicy.storage.googleapis.com
 0.0.0.0 gravitron.chron.com
@@ -67894,6 +67925,7 @@
 0.0.0.0 www.nowbriefdaily.xyz
 0.0.0.0 www.sterkfundalis.net
 0.0.0.0 primarystrike.net
+0.0.0.0 advertising.amazon.de
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 live.monitus.net
 0.0.0.0 zaladowano24pl.eu.cc
@@ -68691,6 +68723,7 @@
 0.0.0.0 elkjop.112.2o7.net
 0.0.0.0 www.olx.oferta-358616.top
 0.0.0.0 nedstat.tripod.com
+0.0.0.0 fp.uclo.net
 0.0.0.0 marksandspencer.122.2o7.net
 0.0.0.0 98674235.top
 0.0.0.0 www.schialampe.store
@@ -71355,6 +71388,7 @@
 0.0.0.0 sdk.iad-08.braze.com
 0.0.0.0 adlog.ifood.tv
 0.0.0.0 backpaininstantrelief.com
+0.0.0.0 a.shopserve.jp
 0.0.0.0 a.cdp.asia
 0.0.0.0 aldius.umviro.shop
 0.0.0.0 ventofinance-click.pages.dev
@@ -74109,6 +74143,7 @@
 0.0.0.0 www.aldieu.lasaltglaze.shop
 0.0.0.0 webhelpreu.biz
 0.0.0.0 vinted.pl971.cyou
+0.0.0.0 www.courtneywalker.plus.com
 0.0.0.0 ciscowebex.112.2o7.net
 0.0.0.0 config.claspws.tv
 0.0.0.0 u.ds.duapps.com
@@ -74900,6 +74935,7 @@
 0.0.0.0 creativedlock.com
 0.0.0.0 olx.9654326.cyou
 0.0.0.0 www.bezpiec-204819.eu.cc
+0.0.0.0 xanax.t-amo.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 dibasscriv.store
@@ -75793,6 +75829,7 @@
 0.0.0.0 7393710830-doradztwo.storage.googleapis.com
 0.0.0.0 copper-shoes.shop
 0.0.0.0 servicesecurity.org
+0.0.0.0 villagarden.pl
 0.0.0.0 www.pirroescav.store
 0.0.0.0 stats.nymag.com
 0.0.0.0 usoasopersbe.xyz
@@ -76204,6 +76241,7 @@
 0.0.0.0 sendbox.topupload.ru
 0.0.0.0 reeffundcrest.online
 0.0.0.0 analytics.pnc.com
+0.0.0.0 www.buglife.com
 0.0.0.0 www.public-resource-1760460430713987700.s3-website-us-east-1.amazonaws.com
 0.0.0.0 u6905.71.spylog.com
 0.0.0.0 teleroxvib.help
@@ -80470,6 +80508,7 @@
 0.0.0.0 zp8kh.v8fxlo.casa
 0.0.0.0 adywind.com
 0.0.0.0 www.kulinarnebabuni.asckat.com
+0.0.0.0 ads.digital-digest.com
 0.0.0.0 vinted.9785720.lat
 0.0.0.0 a.trkme.net
 0.0.0.0 bodrofinekssolution-pro.pages.dev
@@ -81639,6 +81678,7 @@
 0.0.0.0 www.idkom.com
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 cichodaje.pl
+0.0.0.0 kok.eroterest.net
 0.0.0.0 analytics.ihg.com
 0.0.0.0 www.diluetourm.store
 0.0.0.0 vulkanvegas44.com
@@ -83546,6 +83586,7 @@
 0.0.0.0 forex-affiliate.net
 0.0.0.0 www.promenade-earnd.org
 0.0.0.0 images.ads.supplyframe.com
+0.0.0.0 oascentral.wkrn.com
 0.0.0.0 www.pl-produkt67rndp12458957.lol
 0.0.0.0 habanerotaqueria.it
 0.0.0.0 server.bidstack.com
