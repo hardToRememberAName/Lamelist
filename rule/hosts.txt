@@ -1,4 +1,4 @@
-# Update time: 2026-10-08 11:13:49
+# Update time: 2026-10-09 02:03:53
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -12139,6 +12139,7 @@
 0.0.0.0 www.dissericon.store
 0.0.0.0 smetrics.bankofamerica.com
 0.0.0.0 www.travector.net
+0.0.0.0 tsa.webex.com
 0.0.0.0 crownex-gpt.click
 0.0.0.0 www.vinted.pl53918fdshhujhujhuj.lol
 0.0.0.0 www.clearshieldredirect.com
@@ -14270,6 +14271,7 @@
 0.0.0.0 www.balticpipe-pro.pages.dev
 0.0.0.0 awin.com
 0.0.0.0 www.peacesell.com
+0.0.0.0 gcirm.greatfallstribune.com
 0.0.0.0 aivontrixentrade.com
 0.0.0.0 www.fisios8-voluptas22.sbs
 0.0.0.0 appswitch.adups.cn
@@ -17413,6 +17415,7 @@
 0.0.0.0 www.randkamarzen.pl
 0.0.0.0 www.1rqffde.pics
 0.0.0.0 www.starcrestzynortrade.com
+0.0.0.0 start.badults.se
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 counter48.bravenet.com
 0.0.0.0 oasc02023.247realmedia.com
@@ -23473,6 +23476,7 @@
 0.0.0.0 www.btcorendiav342trade.com
 0.0.0.0 eusta.de
 0.0.0.0 ln2podt-kp83pol.sa6mzr.top
+0.0.0.0 oascentral.citypages.com
 0.0.0.0 smart-96852.cfd
 0.0.0.0 www.6812103650-prawnicy.storage.googleapis.com
 0.0.0.0 www.texeulxsek.club
@@ -24968,6 +24972,7 @@
 0.0.0.0 rightstats.com
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 pl-19062013.cfd
+0.0.0.0 om.elvenar.com
 0.0.0.0 www.attirra.com
 0.0.0.0 data2.ero-advertising.com
 0.0.0.0 grandmods.com
@@ -32733,6 +32738,7 @@
 0.0.0.0 tlacoveran-netherlands.com
 0.0.0.0 fisios2-corporis78.sbs
 0.0.0.0 tksyssr.top
+0.0.0.0 chairscrack.com
 0.0.0.0 forge-capmoor.cyou
 0.0.0.0 www.stakelotemax-pro.pages.dev
 0.0.0.0 clkads.com
@@ -35871,6 +35877,7 @@
 0.0.0.0 www.883zy.com
 0.0.0.0 www.html-preview-31f12d.previewship.net
 0.0.0.0 www.life.yiffany.com
+0.0.0.0 static.freeskreen.com
 0.0.0.0 www.vinted.8653464.lat
 0.0.0.0 aldimart.orchidquaygrocer.shop
 0.0.0.0 fc.wipocozostore.top
@@ -41657,6 +41664,7 @@
 0.0.0.0 www.diphyaffor.store
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 thekaiserhandelai.net
+0.0.0.0 media.bonnint.net
 0.0.0.0 carnataldez.ml
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 adsrevenue.net
@@ -43752,6 +43760,7 @@
 0.0.0.0 common.duapps.com
 0.0.0.0 c0nforama.fr
 0.0.0.0 ad11.focalink.com
+0.0.0.0 www.app.fellgdentistic.com
 0.0.0.0 www.militaria-sprzedanie.sbs
 0.0.0.0 click.advertnative.com
 0.0.0.0 transferkeep.com
@@ -47713,6 +47722,7 @@
 0.0.0.0 a3457.casalemedia.com
 0.0.0.0 wp.fujeigroup.com
 0.0.0.0 partners.content.ad
+0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 freestats.com
 0.0.0.0 linkcounter.pornosite.com
 0.0.0.0 www.livetickettv.com
@@ -53887,6 +53897,7 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 la-mania-home.com
+0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -58414,6 +58425,7 @@
 0.0.0.0 www.lightningfasttraffic.com
 0.0.0.0 hao.360.cn
 0.0.0.0 zacafu.world
+0.0.0.0 kitaramedia.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 www.lokalna-8943209.lol
 0.0.0.0 s01.nowvisitors.com
@@ -59079,6 +59091,7 @@
 0.0.0.0 immediatecortexapp.com
 0.0.0.0 managwebajkas8gy328isdg.dfgj35tygsdgdfhjsd.com
 0.0.0.0 www.onmarketer.net
+0.0.0.0 cdnondemand.org
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 5273052211-doradztwo.storage.googleapis.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
@@ -62606,6 +62619,7 @@
 0.0.0.0 www.phenoceeopies.info
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 www.cartmovo.com
+0.0.0.0 ts1.hitbox.com
 0.0.0.0 netvisualizer.com
 0.0.0.0 jetrun.jp
 0.0.0.0 dun-coat.shop
@@ -64272,6 +64286,7 @@
 0.0.0.0 aldieu.auneri.shop
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 www.truvantamarnoxisglobal.pro
+0.0.0.0 greenf.alexion.rs
 0.0.0.0 aldideals.briarharborbasket.shop
 0.0.0.0 grandsquare.info
 0.0.0.0 www.nyhedskanalendanmark.com
@@ -64535,6 +64550,7 @@
 0.0.0.0 www.rhtmybdv.shop
 0.0.0.0 www.solidnybudowa.com
 0.0.0.0 www.id-weryf9494.top
+0.0.0.0 pushagim.com
 0.0.0.0 katia-paliotti.com
 0.0.0.0 aldieu.babetabuild.shop
 0.0.0.0 clk.solocpm.com
@@ -71267,6 +71283,7 @@
 0.0.0.0 www.saway-idealstyle.shop
 0.0.0.0 prarinnexric.com
 0.0.0.0 cooksrecipes.us.intellitxt.com
+0.0.0.0 w.zhzy999.net
 0.0.0.0 pixel.watch
 0.0.0.0 www.5213174985-doradztwo.storage.googleapis.com
 0.0.0.0 lamasale.top
@@ -75193,6 +75210,7 @@
 0.0.0.0 bptxr.shop
 0.0.0.0 olx.9654326.cyou
 0.0.0.0 www.bezpiec-204819.eu.cc
+0.0.0.0 xanax.t-amo.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 dibasscriv.store
@@ -77157,6 +77175,7 @@
 0.0.0.0 www.massagetherapybyjuli.com
 0.0.0.0 metrics.chacha.com
 0.0.0.0 px.tvadsync.com
+0.0.0.0 www.argentumtrade.com
 0.0.0.0 delivery1.lavanetwork.net
 0.0.0.0 www.olx.0freta89071.sbs
 0.0.0.0 www.konto-millennium-360.online
@@ -82989,6 +83008,7 @@
 0.0.0.0 yy8wxg.top
 0.0.0.0 www.1231517347-doradztwo.storage.googleapis.com
 0.0.0.0 www.fqashdwy.shop
+0.0.0.0 api.petametrics.com
 0.0.0.0 adserver.netcreators.nl
 0.0.0.0 www.aldieu.ygcornoil.shop
 0.0.0.0 yeas.yahoo.co.jp
