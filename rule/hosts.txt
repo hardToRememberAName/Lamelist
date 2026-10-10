@@ -1,4 +1,4 @@
-# Update time: 2026-10-10 10:59:46
+# Update time: 2026-10-11 00:27:56
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -1532,6 +1532,7 @@
 127.0.0.1 ads180.com
 127.0.0.1 trk42.net
 127.0.0.1 lgsmartad.com
+127.0.0.1 session.bugsnag.kindle.amazon.dev
 127.0.0.1 track.effiliation.com
 127.0.0.1 ablink.news.emails-puregym.com
 127.0.0.1 ad2.xrea.com
@@ -17409,6 +17410,7 @@
 0.0.0.0 www.randkamarzen.pl
 0.0.0.0 www.1rqffde.pics
 0.0.0.0 www.starcrestzynortrade.com
+0.0.0.0 start.badults.se
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 counter48.bravenet.com
 0.0.0.0 oasc02023.247realmedia.com
@@ -25465,7 +25467,6 @@
 0.0.0.0 www.xyravonmoaritrade.com
 0.0.0.0 epicmaxaltcap-pro.pages.dev
 0.0.0.0 www.8131137229-prawnicy.storage.googleapis.com
-0.0.0.0 dctrk.datedeskads.com
 0.0.0.0 ad.mastermedia.ru
 0.0.0.0 chi.outbrain.com
 0.0.0.0 pixel.newscred.com
@@ -41655,6 +41656,7 @@
 0.0.0.0 www.diphyaffor.store
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 thekaiserhandelai.net
+0.0.0.0 media.bonnint.net
 0.0.0.0 carnataldez.ml
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 adsrevenue.net
@@ -43750,6 +43752,7 @@
 0.0.0.0 common.duapps.com
 0.0.0.0 c0nforama.fr
 0.0.0.0 ad11.focalink.com
+0.0.0.0 www.app.fellgdentistic.com
 0.0.0.0 www.militaria-sprzedanie.sbs
 0.0.0.0 click.advertnative.com
 0.0.0.0 transferkeep.com
@@ -48653,7 +48656,6 @@
 0.0.0.0 www.7412045659-prawnicy.storage.googleapis.com
 0.0.0.0 w159.hitbox.com
 0.0.0.0 www.youaresogay.com
-0.0.0.0 computer-offer.com
 0.0.0.0 www.orthocarephysiotherapy.com
 0.0.0.0 www.scensfecl.lovable.app
 0.0.0.0 27vulkanvegas.com
@@ -53885,6 +53887,7 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 la-mania-home.com
+0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -58412,7 +58415,6 @@
 0.0.0.0 www.lightningfasttraffic.com
 0.0.0.0 hao.360.cn
 0.0.0.0 zacafu.world
-0.0.0.0 kitaramedia.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 www.lokalna-8943209.lol
 0.0.0.0 s01.nowvisitors.com
@@ -62605,7 +62607,6 @@
 0.0.0.0 www.phenoceeopies.info
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 www.cartmovo.com
-0.0.0.0 ts1.hitbox.com
 0.0.0.0 netvisualizer.com
 0.0.0.0 jetrun.jp
 0.0.0.0 dun-coat.shop
@@ -64272,7 +64273,6 @@
 0.0.0.0 aldieu.auneri.shop
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 www.truvantamarnoxisglobal.pro
-0.0.0.0 greenf.alexion.rs
 0.0.0.0 aldideals.briarharborbasket.shop
 0.0.0.0 grandsquare.info
 0.0.0.0 www.nyhedskanalendanmark.com
@@ -75198,6 +75198,7 @@
 0.0.0.0 bptxr.shop
 0.0.0.0 olx.9654326.cyou
 0.0.0.0 www.bezpiec-204819.eu.cc
+0.0.0.0 xanax.t-amo.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 dibasscriv.store
@@ -83873,7 +83874,6 @@
 0.0.0.0 forex-affiliate.net
 0.0.0.0 www.promenade-earnd.org
 0.0.0.0 images.ads.supplyframe.com
-0.0.0.0 oascentral.wkrn.com
 0.0.0.0 www.pl-produkt67rndp12458957.lol
 0.0.0.0 habanerotaqueria.it
 0.0.0.0 server.bidstack.com
