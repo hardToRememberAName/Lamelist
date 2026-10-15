@@ -1,4 +1,4 @@
-# Update time: 2026-10-15 10:03:46
+# Update time: 2026-10-15 23:51:45
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -16413,6 +16413,7 @@
 0.0.0.0 www.fovraki.shop
 0.0.0.0 viaaddictinggames.112.2o7.net
 0.0.0.0 veloriaedit.com
+0.0.0.0 ads.mysimon.com
 0.0.0.0 adnet.ru
 0.0.0.0 slimxxxtuberjj.ddns.name
 0.0.0.0 purchase.hut1.ru
@@ -17089,6 +17090,7 @@
 0.0.0.0 selvafondestio.net
 0.0.0.0 kymaeindhovenrestaurant.com
 0.0.0.0 preanscres.store
+0.0.0.0 www.wg7gos.sbs
 0.0.0.0 immediatefastxtrade.net
 0.0.0.0 blue-hall-85bfgr0215338.kyw829.workers.dev
 0.0.0.0 www.polarcapridge.live
@@ -18879,7 +18881,6 @@
 0.0.0.0 spi.domainsponsor.com
 0.0.0.0 appdev.addthis.com
 0.0.0.0 www.8971696511-prawnicy.storage.googleapis.com
-0.0.0.0 rhtag.com
 0.0.0.0 hervali.shop
 0.0.0.0 31123.content.swrve.com
 0.0.0.0 advertisingbanners.com
@@ -27122,6 +27123,7 @@
 0.0.0.0 jbtyl.com
 0.0.0.0 www.softmania.pl
 0.0.0.0 oas-c18.adnxs.com
+0.0.0.0 www.klnlmmr.shop
 0.0.0.0 www.pynorrovek.com
 0.0.0.0 www.torch-avkasten.click
 0.0.0.0 milosc.co
@@ -28062,6 +28064,7 @@
 0.0.0.0 adbers.com
 0.0.0.0 www.nameguess.com
 0.0.0.0 gov.yanao.ru
+0.0.0.0 www.screen-mates.com
 0.0.0.0 www.olx.pi-dostawa1973.cfd
 0.0.0.0 www.budsinc.com
 0.0.0.0 www.skeelsmarkets.com
@@ -49202,6 +49205,7 @@
 0.0.0.0 www.insulantsscueelptress.info
 0.0.0.0 w159.hitbox.com
 0.0.0.0 www.youaresogay.com
+0.0.0.0 computer-offer.com
 0.0.0.0 www.orthocarephysiotherapy.com
 0.0.0.0 www.scensfecl.lovable.app
 0.0.0.0 27vulkanvegas.com
@@ -52333,6 +52337,7 @@
 0.0.0.0 freeadult.games
 0.0.0.0 www.9a882c1a.vcsservice.eu
 0.0.0.0 www.leanplum.com
+0.0.0.0 www.spolszczenia4you.net
 0.0.0.0 www.qubitradeai.shop
 0.0.0.0 metrics.babycentre.co.uk
 0.0.0.0 oimg.nbcuni.com
@@ -61763,6 +61768,7 @@
 0.0.0.0 www.boostkapidex.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 www.freedomart.cz
+0.0.0.0 sdvgqzvd.shop
 0.0.0.0 oferta2435114.sbs
 0.0.0.0 qnftmqmf.shop
 0.0.0.0 primecargo.site
@@ -70080,6 +70086,7 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 e-hosting.hut1.ru
 0.0.0.0 www.lamaniastore-pl.top
+0.0.0.0 media10.popmarker.com
 0.0.0.0 db7.net-filter.com
 0.0.0.0 rubiks.ca
 0.0.0.0 modagotycka.com
@@ -75946,6 +75953,7 @@
 0.0.0.0 ss-01.com
 0.0.0.0 larkspurhome.eu
 0.0.0.0 at.umeng.com
+0.0.0.0 www.oferta323467.cfd
 0.0.0.0 www.horitroxes-france.com
 0.0.0.0 alibestsale.com
 0.0.0.0 nabazarze.pl
@@ -77519,7 +77527,6 @@
 0.0.0.0 chokertraffic.com
 0.0.0.0 www.mygreatrewards.com
 0.0.0.0 www.futurouomo.it
-0.0.0.0 www.cashlayer.com
 0.0.0.0 czytooszustwo.pl
 0.0.0.0 stat1.z-stat.com
 0.0.0.0 www.amontaravexapp-com.pages.dev
