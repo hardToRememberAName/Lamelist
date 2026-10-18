@@ -1,4 +1,4 @@
-# Update time: 2026-10-17 22:31:33
+# Update time: 2026-10-18 09:46:37
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -12180,6 +12180,7 @@
 0.0.0.0 www.dissericon.store
 0.0.0.0 smetrics.bankofamerica.com
 0.0.0.0 www.travector.net
+0.0.0.0 tsa.webex.com
 0.0.0.0 crownex-gpt.click
 0.0.0.0 www.vinted.pl53918fdshhujhujhuj.lol
 0.0.0.0 www.clearshieldredirect.com
@@ -23681,7 +23682,6 @@
 0.0.0.0 www.pi-oferta984564.lol
 0.0.0.0 www.finzy9-adipisci72.sbs
 0.0.0.0 105915624.com
-0.0.0.0 ck.storematch.jp
 0.0.0.0 fairu-blog.com
 0.0.0.0 www.mercerholm.net
 0.0.0.0 ads145.console.adtarget.com.tr
@@ -25194,6 +25194,7 @@
 0.0.0.0 rightstats.com
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 pl-19062013.cfd
+0.0.0.0 om.elvenar.com
 0.0.0.0 www.attirra.com
 0.0.0.0 data2.ero-advertising.com
 0.0.0.0 grandmods.com
@@ -25680,7 +25681,6 @@
 0.0.0.0 www.barclaysghana.org
 0.0.0.0 www.xyravonmoaritrade.com
 0.0.0.0 www.8131137229-prawnicy.storage.googleapis.com
-0.0.0.0 dctrk.datedeskads.com
 0.0.0.0 ad.mastermedia.ru
 0.0.0.0 c4v7tn.lat
 0.0.0.0 www.utuydnmq.top
@@ -48271,6 +48271,7 @@
 0.0.0.0 ads.cheabit.com
 0.0.0.0 a3457.casalemedia.com
 0.0.0.0 partners.content.ad
+0.0.0.0 analytics.kwebsoft.com
 0.0.0.0 freestats.com
 0.0.0.0 linkcounter.pornosite.com
 0.0.0.0 www.livetickettv.com
@@ -49169,7 +49170,6 @@
 0.0.0.0 vinted.pi-ofeta0286.sbs
 0.0.0.0 vinted.oferta91762562x.cfd
 0.0.0.0 ws025.coin-hive.com
-0.0.0.0 w141.hitbox.com
 0.0.0.0 ldsfch.112.2o7.net
 0.0.0.0 hd.logging.admicro.vn
 0.0.0.0 quik-serv.com
@@ -54624,7 +54624,6 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 la-mania-home.com
-0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -59864,6 +59863,7 @@
 0.0.0.0 managwebajkas8gy328isdg.dfgj35tygsdgdfhjsd.com
 0.0.0.0 www.wiwuwuy.lovable.app
 0.0.0.0 www.onmarketer.net
+0.0.0.0 cdnondemand.org
 0.0.0.0 log.hemera.com.vn
 0.0.0.0 5273052211-doradztwo.storage.googleapis.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
@@ -60136,6 +60136,7 @@
 0.0.0.0 config.hiido.com
 0.0.0.0 kinja-com.videoplayerhub.com
 0.0.0.0 www.eatandeasy.pl
+0.0.0.0 www.1girl1pitcher.org
 0.0.0.0 classifiedventures1.112.2o7.net
 0.0.0.0 www.renvorentaai.shop
 0.0.0.0 www.teledproxs.help
@@ -61798,7 +61799,6 @@
 0.0.0.0 www.boostkapidex.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 www.freedomart.cz
-0.0.0.0 sdvgqzvd.shop
 0.0.0.0 oferta2435114.sbs
 0.0.0.0 qnftmqmf.shop
 0.0.0.0 primecargo.site
@@ -65384,6 +65384,7 @@
 0.0.0.0 www.rhtmybdv.shop
 0.0.0.0 www.solidnybudowa.com
 0.0.0.0 www.id-weryf9494.top
+0.0.0.0 pushagim.com
 0.0.0.0 katia-paliotti.com
 0.0.0.0 clk.solocpm.com
 0.0.0.0 teletoambe.club
@@ -81138,6 +81139,7 @@
 0.0.0.0 www.bowlgirl.com
 0.0.0.0 polska-sprzedaje-24-7.click
 0.0.0.0 vanscheers.com
+0.0.0.0 adg.d2c.ne.jp
 0.0.0.0 adlc-exchange.toast.com
 0.0.0.0 hits.webstat.com #[Tracking.Cookie]
 0.0.0.0 loneeaglerecords.com
@@ -85030,7 +85032,6 @@
 0.0.0.0 www.promenade-earnd.org
 0.0.0.0 images.ads.supplyframe.com
 0.0.0.0 www.fexotuvanex-soft-com.pages.dev
-0.0.0.0 oascentral.wkrn.com
 0.0.0.0 www.pl-produkt67rndp12458957.lol
 0.0.0.0 habanerotaqueria.it
 0.0.0.0 server.bidstack.com
