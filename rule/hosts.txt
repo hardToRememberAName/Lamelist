@@ -1,4 +1,4 @@
-# Update time: 2026-10-22 00:11:53
+# Update time: 2026-10-22 10:08:11
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -12534,7 +12534,6 @@
 0.0.0.0 www.olx.poland-payhub.buzz
 0.0.0.0 bestbuy.7tiv.net
 0.0.0.0 private-cloud-wallet-security.s3-website.eu-north-1.amazonaws.com
-0.0.0.0 oferta-7845147.cfd
 0.0.0.0 www.ydbhf.5egy6e.pics
 0.0.0.0 www.8899804.com
 0.0.0.0 luminexclient.com
@@ -16784,7 +16783,6 @@
 0.0.0.0 aff.summercart.com
 0.0.0.0 healthguides.cnn.com
 0.0.0.0 www.wwwservicemerchandise.com
-0.0.0.0 w131.hitbox.com
 0.0.0.0 livsfs.today
 0.0.0.0 rtag.fr
 0.0.0.0 zabezpiecz.click
@@ -16912,6 +16910,7 @@
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 www.ab-ah1q.vercel.app
 0.0.0.0 kymaeindhovenrestaurant.com
+0.0.0.0 www.wg7gos.sbs
 0.0.0.0 blue-hall-85bfgr0215338.kyw829.workers.dev
 0.0.0.0 www.scompscarr.store
 0.0.0.0 wac.2ddcc.alphacdn.net
@@ -27638,6 +27637,7 @@
 0.0.0.0 adbers.com
 0.0.0.0 www.nameguess.com
 0.0.0.0 gov.yanao.ru
+0.0.0.0 www.screen-mates.com
 0.0.0.0 www.olx.pi-dostawa1973.cfd
 0.0.0.0 www.budsinc.com
 0.0.0.0 www.skeelsmarkets.com
@@ -41307,7 +41307,6 @@
 0.0.0.0 ads.aws.fwmrm.net
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 thekaiserhandelai.net
-0.0.0.0 media.bonnint.net
 0.0.0.0 carnataldez.ml
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 adsrevenue.net
@@ -57856,7 +57855,6 @@
 0.0.0.0 www.cda-vod.pl
 0.0.0.0 www.lightningfasttraffic.com
 0.0.0.0 hao.360.cn
-0.0.0.0 kitaramedia.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 s01.nowvisitors.com
 0.0.0.0 facebookloginsignin.com
@@ -60371,7 +60369,6 @@
 0.0.0.0 videogum.tags.crwdcntrl.net
 0.0.0.0 log.outbrain.com
 0.0.0.0 www.freedomart.cz
-0.0.0.0 sdvgqzvd.shop
 0.0.0.0 oferta2435114.sbs
 0.0.0.0 primecargo.site
 0.0.0.0 ads.forbes.net
@@ -74096,6 +74093,7 @@
 0.0.0.0 konflow.com # Facebook trojan
 0.0.0.0 ss-01.com
 0.0.0.0 at.umeng.com
+0.0.0.0 www.oferta323467.cfd
 0.0.0.0 alibestsale.com
 0.0.0.0 nabazarze.pl
 0.0.0.0 www.sprawdzzdjecia.24.eu
@@ -74381,7 +74379,6 @@
 0.0.0.0 zlog.zingmp3.vn
 0.0.0.0 creativedlock.com
 0.0.0.0 bptxr.shop
-0.0.0.0 xanax.t-amo.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 www.raknelsen.net
