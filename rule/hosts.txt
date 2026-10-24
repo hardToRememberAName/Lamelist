@@ -1,4 +1,4 @@
-# Update time: 2026-10-24 10:12:10
+# Update time: 2026-10-24 22:57:48
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -23297,6 +23297,7 @@
 0.0.0.0 19563671.my.id
 0.0.0.0 colemanmarkets.com
 0.0.0.0 eusta.de
+0.0.0.0 oascentral.citypages.com
 0.0.0.0 smart-96852.cfd
 0.0.0.0 www.6812103650-prawnicy.storage.googleapis.com
 0.0.0.0 www.texeulxsek.club
@@ -23307,6 +23308,7 @@
 0.0.0.0 www.pi-oferta984564.lol
 0.0.0.0 www.finzy9-adipisci72.sbs
 0.0.0.0 105915624.com
+0.0.0.0 ck.storematch.jp
 0.0.0.0 fairu-blog.com
 0.0.0.0 ads145.console.adtarget.com.tr
 0.0.0.0 gossibouil.store
@@ -24793,6 +24795,7 @@
 0.0.0.0 finzy5-saepe8.sbs
 0.0.0.0 images-aud.slashdot.org
 0.0.0.0 pl-19062013.cfd
+0.0.0.0 om.elvenar.com
 0.0.0.0 www.attirra.com
 0.0.0.0 data2.ero-advertising.com
 0.0.0.0 grandmods.com
@@ -25275,6 +25278,7 @@
 0.0.0.0 www.barclaysghana.org
 0.0.0.0 vh20123.vh.net.pl
 0.0.0.0 www.8131137229-prawnicy.storage.googleapis.com
+0.0.0.0 dctrk.datedeskads.com
 0.0.0.0 ad.mastermedia.ru
 0.0.0.0 c4v7tn.lat
 0.0.0.0 www.utuydnmq.top
@@ -26707,6 +26711,7 @@
 0.0.0.0 jbtyl.com
 0.0.0.0 www.softmania.pl
 0.0.0.0 oas-c18.adnxs.com
+0.0.0.0 www.klnlmmr.shop
 0.0.0.0 www.pynorrovek.com
 0.0.0.0 milosc.co
 0.0.0.0 ads.socialreach.com
@@ -27629,6 +27634,7 @@
 0.0.0.0 adbers.com
 0.0.0.0 www.nameguess.com
 0.0.0.0 gov.yanao.ru
+0.0.0.0 www.screen-mates.com
 0.0.0.0 www.olx.pi-dostawa1973.cfd
 0.0.0.0 www.budsinc.com
 0.0.0.0 www.skeelsmarkets.com
@@ -36264,6 +36270,7 @@
 0.0.0.0 www.olx.dk039ing4m84fzg.top
 0.0.0.0 www.rightmedia.com
 0.0.0.0 masky.biddingx.com
+0.0.0.0 cde.monther.life
 0.0.0.0 unifomushop.com
 0.0.0.0 www.jornalhoy.click
 0.0.0.0 3-dauto.com
@@ -48149,6 +48156,7 @@
 0.0.0.0 vinted.pi-ofeta0286.sbs
 0.0.0.0 vinted.oferta91762562x.cfd
 0.0.0.0 ws025.coin-hive.com
+0.0.0.0 w141.hitbox.com
 0.0.0.0 ldsfch.112.2o7.net
 0.0.0.0 hd.logging.admicro.vn
 0.0.0.0 quik-serv.com
@@ -51243,6 +51251,7 @@
 0.0.0.0 freeadult.games
 0.0.0.0 www.9a882c1a.vcsservice.eu
 0.0.0.0 www.leanplum.com
+0.0.0.0 www.spolszczenia4you.net
 0.0.0.0 metrics.babycentre.co.uk
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 wlb1.cdn.stickyadstv.com.akadns.net
@@ -53438,6 +53447,7 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 la-mania-home.com
+0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -55000,6 +55010,7 @@
 0.0.0.0 www.6772514073-prawnicy.storage.googleapis.com
 0.0.0.0 olx.7669076.lat
 0.0.0.0 hitwebcounter.com
+0.0.0.0 www.adjmps.com
 0.0.0.0 cnt-jrs.com
 0.0.0.0 trafficmoose.com
 0.0.0.0 www.sfxfr8.com
@@ -57205,6 +57216,7 @@
 0.0.0.0 pl1.landurt.com
 0.0.0.0 amp.permutive.com
 0.0.0.0 fcanr.tracking.miui.com
+0.0.0.0 ad.nwt.cz
 0.0.0.0 vq918450.com
 0.0.0.0 www.wwwplaysite.com
 0.0.0.0 central1creditunion.112.2o7.net
@@ -60204,6 +60216,7 @@
 0.0.0.0 imp-lb-us2.jampp.com
 0.0.0.0 bnet-api.playm8ru.win
 0.0.0.0 foldexmoon.world
+0.0.0.0 directorym.com
 0.0.0.0 www.jilbabsublobbt.info
 0.0.0.0 mozebyctwoje.com
 0.0.0.0 reklamcsere.hu
@@ -67448,6 +67461,7 @@
 0.0.0.0 ocdn.adsterra.com
 0.0.0.0 www.prtc.net
 0.0.0.0 www.the-discount-store.com
+0.0.0.0 sakuraset.top
 0.0.0.0 www.finzy9-et70.sbs
 0.0.0.0 ads14.focalink.com
 0.0.0.0 info.adspruce.com
@@ -68433,6 +68447,7 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 e-hosting.hut1.ru
 0.0.0.0 www.lamaniastore-pl.top
+0.0.0.0 media10.popmarker.com
 0.0.0.0 db7.net-filter.com
 0.0.0.0 rubiks.ca
 0.0.0.0 modagotycka.com
@@ -74085,6 +74100,7 @@
 0.0.0.0 konflow.com # Facebook trojan
 0.0.0.0 ss-01.com
 0.0.0.0 at.umeng.com
+0.0.0.0 www.oferta323467.cfd
 0.0.0.0 alibestsale.com
 0.0.0.0 nabazarze.pl
 0.0.0.0 www.sprawdzzdjecia.24.eu
@@ -74370,6 +74386,7 @@
 0.0.0.0 zlog.zingmp3.vn
 0.0.0.0 creativedlock.com
 0.0.0.0 bptxr.shop
+0.0.0.0 xanax.t-amo.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 www.raknelsen.net
@@ -82015,7 +82032,6 @@
 0.0.0.0 lawlowvat.net
 0.0.0.0 www.1231517347-doradztwo.storage.googleapis.com
 0.0.0.0 www.fqashdwy.shop
-0.0.0.0 api.petametrics.com
 0.0.0.0 adserver.netcreators.nl
 0.0.0.0 www.aldieu.ygcornoil.shop
 0.0.0.0 www.smartassprinting.co.uk
@@ -82864,6 +82880,7 @@
 0.0.0.0 forex-affiliate.net
 0.0.0.0 images.ads.supplyframe.com
 0.0.0.0 www.fexotuvanex-soft-com.pages.dev
+0.0.0.0 oascentral.wkrn.com
 0.0.0.0 www.pl-produkt67rndp12458957.lol
 0.0.0.0 habanerotaqueria.it
 0.0.0.0 server.bidstack.com
