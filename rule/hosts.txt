@@ -1,4 +1,4 @@
-# Update time: 2026-10-25 09:58:19
+# Update time: 2026-10-25 23:08:19
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -17297,7 +17297,6 @@
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 www.randkamarzen.pl
 0.0.0.0 www.1rqffde.pics
-0.0.0.0 start.badults.se
 0.0.0.0 sdc.caranddriver.com
 0.0.0.0 counter48.bravenet.com
 0.0.0.0 oasc02023.247realmedia.com
@@ -23297,7 +23296,6 @@
 0.0.0.0 19563671.my.id
 0.0.0.0 colemanmarkets.com
 0.0.0.0 eusta.de
-0.0.0.0 oascentral.citypages.com
 0.0.0.0 smart-96852.cfd
 0.0.0.0 www.6812103650-prawnicy.storage.googleapis.com
 0.0.0.0 www.texeulxsek.club
@@ -24180,7 +24178,6 @@
 0.0.0.0 ai.voiceads.cn
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 openx.itsmassive.com
-0.0.0.0 adinjector.net
 0.0.0.0 media.liquidus.net
 0.0.0.0 openx.adhaven.com
 0.0.0.0 forumprawa24.pl
@@ -26709,6 +26706,7 @@
 0.0.0.0 jbtyl.com
 0.0.0.0 www.softmania.pl
 0.0.0.0 oas-c18.adnxs.com
+0.0.0.0 www.klnlmmr.shop
 0.0.0.0 www.pynorrovek.com
 0.0.0.0 milosc.co
 0.0.0.0 ads.socialreach.com
@@ -27631,7 +27629,6 @@
 0.0.0.0 adbers.com
 0.0.0.0 www.nameguess.com
 0.0.0.0 gov.yanao.ru
-0.0.0.0 www.screen-mates.com
 0.0.0.0 www.olx.pi-dostawa1973.cfd
 0.0.0.0 www.budsinc.com
 0.0.0.0 www.skeelsmarkets.com
@@ -36267,7 +36264,6 @@
 0.0.0.0 www.olx.dk039ing4m84fzg.top
 0.0.0.0 www.rightmedia.com
 0.0.0.0 masky.biddingx.com
-0.0.0.0 cde.monther.life
 0.0.0.0 unifomushop.com
 0.0.0.0 www.jornalhoy.click
 0.0.0.0 3-dauto.com
@@ -39897,7 +39893,6 @@
 0.0.0.0 www.rpepin.plus.com
 0.0.0.0 www.bandexperts.com
 0.0.0.0 data.cmcore.com
-0.0.0.0 addserver.mtv.com.tr
 0.0.0.0 www35f.glam.com
 0.0.0.0 www.nowflashwire.xyz
 0.0.0.0 www.landeavoirecto-fr.sbs
@@ -41302,7 +41297,6 @@
 0.0.0.0 ads.aws.fwmrm.net
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 thekaiserhandelai.net
-0.0.0.0 media.bonnint.net
 0.0.0.0 carnataldez.ml
 0.0.0.0 www.peachysailwv.pro
 0.0.0.0 adsrevenue.net
@@ -46203,7 +46197,6 @@
 0.0.0.0 neuratekperu.com
 0.0.0.0 www.day.bringmelove.icu
 0.0.0.0 ww370.smartadserver.com
-0.0.0.0 www.juicyads.com
 0.0.0.0 www.iesnare.com # See http://www.codingthewheel.com/archives/online-gambling-privacy-iesnare
 0.0.0.0 rilevwomen.store
 0.0.0.0 www.miziko.com
@@ -48217,7 +48210,6 @@
 0.0.0.0 www.insulantsscueelptress.info
 0.0.0.0 w159.hitbox.com
 0.0.0.0 www.youaresogay.com
-0.0.0.0 computer-offer.com
 0.0.0.0 www.orthocarephysiotherapy.com
 0.0.0.0 www.scensfecl.lovable.app
 0.0.0.0 27vulkanvegas.com
@@ -53443,7 +53435,6 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 la-mania-home.com
-0.0.0.0 dlero.net
 0.0.0.0 tracker.mca-analytics.com
 0.0.0.0 inno.bisrv.com
 0.0.0.0 w.inmobi.cn
@@ -57854,7 +57845,6 @@
 0.0.0.0 www.cda-vod.pl
 0.0.0.0 www.lightningfasttraffic.com
 0.0.0.0 hao.360.cn
-0.0.0.0 kitaramedia.com
 0.0.0.0 sender.clevernt.com
 0.0.0.0 s01.nowvisitors.com
 0.0.0.0 facebookloginsignin.com
@@ -63588,7 +63578,6 @@
 0.0.0.0 kqipaipingtairukou.com
 0.0.0.0 www.truvantamarnoxisglobal.pro
 0.0.0.0 www.berrakvermence.com
-0.0.0.0 greenf.alexion.rs
 0.0.0.0 aldideals.briarharborbasket.shop
 0.0.0.0 grandsquare.info
 0.0.0.0 www.nyhedskanalendanmark.com
@@ -68439,7 +68428,6 @@
 0.0.0.0 ads.quoka.de
 0.0.0.0 e-hosting.hut1.ru
 0.0.0.0 www.lamaniastore-pl.top
-0.0.0.0 media10.popmarker.com
 0.0.0.0 db7.net-filter.com
 0.0.0.0 rubiks.ca
 0.0.0.0 modagotycka.com
@@ -74092,7 +74080,6 @@
 0.0.0.0 konflow.com # Facebook trojan
 0.0.0.0 ss-01.com
 0.0.0.0 at.umeng.com
-0.0.0.0 www.oferta323467.cfd
 0.0.0.0 alibestsale.com
 0.0.0.0 nabazarze.pl
 0.0.0.0 www.sprawdzzdjecia.24.eu
@@ -74378,7 +74365,6 @@
 0.0.0.0 zlog.zingmp3.vn
 0.0.0.0 creativedlock.com
 0.0.0.0 bptxr.shop
-0.0.0.0 xanax.t-amo.net
 0.0.0.0 www.pdfinstalls-2.vercel.app
 0.0.0.0 www.hubtraffic.com
 0.0.0.0 www.raknelsen.net
