@@ -1,4 +1,4 @@
-# Update time: 2026-10-30 01:41:03
+# Update time: 2026-10-30 11:10:55
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -720,6 +720,7 @@
 127.0.0.1 tracking.olx-st.com
 127.0.0.1 affec.tv
 127.0.0.1 marketing.desertcart.com
+127.0.0.1 pushub.net
 127.0.0.1 reklamcsere.hu
 127.0.0.1 adzbazar.com
 127.0.0.1 adtilt.com
@@ -3196,6 +3197,7 @@
 127.0.0.1 samsungacr.com
 127.0.0.1 adnetworkperformance.com
 127.0.0.1 cdn.heapanalytics.com
+127.0.0.1 ads.locksecures.com
 127.0.0.1 insticator.com
 127.0.0.1 googlesyndication.com
 127.0.0.1 images-pw.secureserver.net
@@ -14475,6 +14477,7 @@
 0.0.0.0 smetrics.sap.com
 0.0.0.0 www.olx.lokalna-ofera02001021023442.shop
 0.0.0.0 p.chango.com
+0.0.0.0 www.liveheroes.com
 0.0.0.0 breezysparkhaven.bond
 0.0.0.0 www.your-gift-zone.com
 0.0.0.0 8.gadzooksrudely.com
@@ -20973,6 +20976,7 @@
 0.0.0.0 finitorfin.com
 0.0.0.0 ab.airpush.com
 0.0.0.0 www.wellandfast.org
+0.0.0.0 ww965.smartadserver.com
 0.0.0.0 webapi.hot-mob.com
 0.0.0.0 ad2.banners.ero-advertising.com
 0.0.0.0 wybierzgdansk.pl
@@ -21319,6 +21323,7 @@
 0.0.0.0 www.olx.pi-oferta752353.lol
 0.0.0.0 autospies.us.intellitxt.com
 0.0.0.0 nshnbd.3lek33.pics
+0.0.0.0 www.waylabclear9.shop
 0.0.0.0 cbmfashion.shop
 0.0.0.0 js5.clickzs.com
 0.0.0.0 www.bitkelt-click.pages.dev
@@ -25622,6 +25627,7 @@
 0.0.0.0 adserv005.adtech.fr
 0.0.0.0 reklamasieciowa.decentralize.vu
 0.0.0.0 www.finly8-dolor32.cfd
+0.0.0.0 cpmly.com
 0.0.0.0 sharemyhtml.com
 0.0.0.0 www.topaziocapitalix.com
 0.0.0.0 www.yjpsbu.vn-pg66.net
@@ -27152,6 +27158,7 @@
 0.0.0.0 pitbull-online.shop
 0.0.0.0 www.elqvoro.shop
 0.0.0.0 pixel-user-1039.everesttech.net
+0.0.0.0 adserver.creative-asia.com
 0.0.0.0 jgen23.cjt1.net
 0.0.0.0 icroho.odcinek86.forum
 0.0.0.0 everestmarkets.com
@@ -27670,6 +27677,7 @@
 0.0.0.0 www.drepapetro.store
 0.0.0.0 smetrics.vonage.com
 0.0.0.0 ampletitrevane.net
+0.0.0.0 pranking.ziyu.net
 0.0.0.0 www.jhdwwwazd.top
 0.0.0.0 umdenfolders.pro
 0.0.0.0 kroger.sc.omtrdc.net
@@ -29659,6 +29667,7 @@
 0.0.0.0 servethis.com
 0.0.0.0 theelitemarketai.com
 0.0.0.0 www.b3v56o.gertsakiln.shop
+0.0.0.0 install.protected.net
 0.0.0.0 tagmanager.smartadserver.com
 0.0.0.0 www.digamiescounterfvveit.pro
 0.0.0.0 logv19.xiti.com
@@ -29761,6 +29770,7 @@
 0.0.0.0 ads.adiply.com
 0.0.0.0 scarf.ensighten.com
 0.0.0.0 www.gvalliscoreofficial.org
+0.0.0.0 www.softmillon.com
 0.0.0.0 ib.affil.jp
 0.0.0.0 bebeautifulnh.net
 0.0.0.0 sitestat.com
@@ -36641,7 +36651,6 @@
 0.0.0.0 www.tradelax.com
 0.0.0.0 babouche-maroc.fr
 0.0.0.0 creating.studio
-0.0.0.0 e-2dj6whkiandzkko.stats.esomniture.com
 0.0.0.0 ad-specs.guoshipartners.com
 0.0.0.0 leadn.pl
 0.0.0.0 oosrndyh.shop
@@ -38103,6 +38112,7 @@
 0.0.0.0 cdn.qbaka.net
 0.0.0.0 www.continentaldeals.shop
 0.0.0.0 netlabsmini4.shop
+0.0.0.0 out.tubecorporate.com
 0.0.0.0 www.allwithreigne.site
 0.0.0.0 www.vintedorder872.com
 0.0.0.0 www.familyholiday.ml
@@ -41931,6 +41941,7 @@
 0.0.0.0 www.divetpsico.store
 0.0.0.0 www.bandexperts.com
 0.0.0.0 data.cmcore.com
+0.0.0.0 www35f.glam.com
 0.0.0.0 hiq.fotolog.com
 0.0.0.0 www.folicerin.pl
 0.0.0.0 eapik.anagog.com
@@ -42187,7 +42198,6 @@
 0.0.0.0 consumerreview.us.intellitxt.com
 0.0.0.0 click.dtiserv2.com
 0.0.0.0 www.jandrov.net
-0.0.0.0 kwaterowanie.pl
 0.0.0.0 www.vkvmotion.com
 0.0.0.0 titlioppug.store
 0.0.0.0 walkthedinosaur.com
@@ -42439,6 +42449,7 @@
 0.0.0.0 rantsports.us.intellitxt.com
 0.0.0.0 www.newprime68.shop
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
+0.0.0.0 c1.gostats.com
 0.0.0.0 stg-data-kh.ads.heytapmobile.com
 0.0.0.0 persifleux.info
 0.0.0.0 www.salemarketonline.shop
@@ -42833,6 +42844,7 @@
 0.0.0.0 tr.bigpoint.com
 0.0.0.0 ciaocom.122.2o7.net
 0.0.0.0 pgmediaserve.com
+0.0.0.0 ad-audit.tubemogul.com
 0.0.0.0 www.counter12.sextracker.be
 0.0.0.0 ecommercegoodies.com
 0.0.0.0 www.launchbuffer.com
@@ -43381,6 +43393,7 @@
 0.0.0.0 myseostats.com
 0.0.0.0 www22.a8.net
 0.0.0.0 finzy4-laborum2.sbs
+0.0.0.0 j.exit-ad.com
 0.0.0.0 blackhat.be
 0.0.0.0 mulato.info
 0.0.0.0 ws.tapjoy.com
@@ -44952,6 +44965,7 @@
 0.0.0.0 track.privacyatclearbit.com
 0.0.0.0 www.lidatonline.shop
 0.0.0.0 cryntorishelia-click.pages.dev
+0.0.0.0 api.eu.amplitude.com
 0.0.0.0 www.fambampli.store
 0.0.0.0 fnatfee.ero-advertising.com
 0.0.0.0 www.finzy6-ab71.sbs
@@ -48965,6 +48979,7 @@
 0.0.0.0 matcheendirect.fr
 0.0.0.0 finsy1-aliquam55.sbs
 0.0.0.0 www.skyperec.com
+0.0.0.0 scripts.sophus3.com
 0.0.0.0 sesja-2y7u-pkobiznes.pl-firma.net
 0.0.0.0 tnews.day
 0.0.0.0 ads.carmudi.vn
@@ -51871,7 +51886,6 @@
 0.0.0.0 akaramento.b-cdn.net
 0.0.0.0 vinted.id479580506.cyou
 0.0.0.0 soski.popunder.ru
-0.0.0.0 torrentu.pl
 0.0.0.0 www.finly0-quas55.cfd
 0.0.0.0 www.finly9-adipisci90.cfd
 0.0.0.0 codeads.com
@@ -51910,6 +51924,7 @@
 0.0.0.0 www.clickvalidator.net
 0.0.0.0 www.bestshockers.com
 0.0.0.0 finzy0-eos21.sbs
+0.0.0.0 www.vinted.pi-ofeta7281.sbs
 0.0.0.0 babywantsbling.com
 0.0.0.0 content.tapjoy.com
 0.0.0.0 www.vinted.id83g7f362383d235d27dv52.sbs
@@ -53050,6 +53065,7 @@
 0.0.0.0 protection.aspolice.com
 0.0.0.0 sustarox-ai.com
 0.0.0.0 www.ecovegan.top
+0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 dl634opl-trx741.cyou
 0.0.0.0 vectrabank.112.2o7.net
 0.0.0.0 www.6912325284-prawnicy.storage.googleapis.com
@@ -55280,6 +55296,7 @@
 0.0.0.0 c.gr.msn.com
 0.0.0.0 services.adtech.fr
 0.0.0.0 profolan.pl
+0.0.0.0 www.mikapellets.shop
 0.0.0.0 www.kartavisa.pl
 0.0.0.0 exe.bid
 0.0.0.0 log.sina.cn
@@ -55904,6 +55921,7 @@
 0.0.0.0 webcontentassessor.com
 0.0.0.0 www.butikyaya.pl
 0.0.0.0 www.underarmoursklep.com
+0.0.0.0 blushingbread.com
 0.0.0.0 wertvisiongptapp.net
 0.0.0.0 trk.atomex.net
 0.0.0.0 www.kidsangel.com
@@ -82873,7 +82891,6 @@
 0.0.0.0 spotlabeasy.digital
 0.0.0.0 www.yjrrkocn.shop
 0.0.0.0 linconpark.com
-0.0.0.0 finly5-magnam1.cfd
 0.0.0.0 www.yieldothen.net
 0.0.0.0 ky.5.p2l.info
 0.0.0.0 analytic.proxyme.link
@@ -83139,6 +83156,7 @@
 0.0.0.0 fundorship.online
 0.0.0.0 www.app.medfillle.com
 0.0.0.0 www.cplmart.com
+0.0.0.0 searchwe.com
 0.0.0.0 www.flexorio.net
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 hornytraffic.com
@@ -85581,7 +85599,6 @@
 0.0.0.0 vap3ewr1.lijit.com
 0.0.0.0 searscom.112.2o7.net
 0.0.0.0 newsea.digital
-0.0.0.0 www.sprawdzikk.v0r.org
 0.0.0.0 y3.ifengimg.com
 0.0.0.0 homearena.pl
 0.0.0.0 aldi.brelomart.shop
