@@ -1,4 +1,4 @@
-# Update time: 2026-11-03 04:56:25
+# Update time: 2026-11-03 12:16:12
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -11619,6 +11619,7 @@
 0.0.0.0 www.finzy6-corrupti44.sbs
 0.0.0.0 www.olx.smart-98572.cfd
 0.0.0.0 tracking.onespot.com
+0.0.0.0 galestorin.com
 0.0.0.0 completestonemanagement.com
 0.0.0.0 android.public.astrsk.net
 0.0.0.0 d2uap9jskdzp2.cloudfront.net
@@ -13843,6 +13844,7 @@
 0.0.0.0 tradedoubler.sonvideopro.com
 0.0.0.0 www.exambased.com
 0.0.0.0 chatbox-widget.botbanhang.vn
+0.0.0.0 jbaventures.cjt1.net
 0.0.0.0 formalizableensileddd.info
 0.0.0.0 compassbeneathdreams.click
 0.0.0.0 tds.trafflow.com
@@ -16316,6 +16318,7 @@
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 macnewsworld.us.intellitxt.com
 0.0.0.0 www.rubiks.ca
+0.0.0.0 gcirm.desmoinesregister.com
 0.0.0.0 www.guruguareni.autos
 0.0.0.0 yjvpz.com
 0.0.0.0 cp.polyad.net
@@ -18338,7 +18341,6 @@
 0.0.0.0 www.id83g7f362383d235d27dv52.sbs
 0.0.0.0 2026strausseu.shop
 0.0.0.0 finzy2-possimus27.sbs
-0.0.0.0 www.brumalrendesance.net
 0.0.0.0 solvreth.com
 0.0.0.0 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net # In spam
 0.0.0.0 img.xnxx.com
@@ -21084,6 +21086,7 @@
 0.0.0.0 finitorfin.com
 0.0.0.0 ab.airpush.com
 0.0.0.0 www.wellandfast.org
+0.0.0.0 ww965.smartadserver.com
 0.0.0.0 webapi.hot-mob.com
 0.0.0.0 ad2.banners.ero-advertising.com
 0.0.0.0 truthfulbrokers.com
@@ -27641,7 +27644,6 @@
 0.0.0.0 finzy6-rerum52.sbs
 0.0.0.0 jgen26.cjt1.net
 0.0.0.0 weblie.pl
-0.0.0.0 3dns-3.adobe.com
 0.0.0.0 2734627846242.sbs
 0.0.0.0 www.innovenv.net
 0.0.0.0 www.123laceypink.com
@@ -43944,6 +43946,7 @@
 0.0.0.0 phoneysblanduuishes.info
 0.0.0.0 c.us1.dyntrk.com
 0.0.0.0 oakveraliving.com
+0.0.0.0 www.supportnestframe.uk
 0.0.0.0 ap-southeast-1-ads.yieldmo.com
 0.0.0.0 cdp.cococx.com
 0.0.0.0 oferta-57399584.cfd
@@ -46327,7 +46330,6 @@
 0.0.0.0 vinted.pl-offertshare30274722.top
 0.0.0.0 adsatt.go.starwave.com
 0.0.0.0 vinted.id54472722.com
-0.0.0.0 counter.monkeybanana3.com
 0.0.0.0 www.zalukaj-pl.pl
 0.0.0.0 www.gyuhd22ndi.eu.cc
 0.0.0.0 www.domavixa.shop
@@ -46593,7 +46595,6 @@
 0.0.0.0 www.raziranizuro.com
 0.0.0.0 securebooklogins.online
 0.0.0.0 www.prearmscyyongresses.info
-0.0.0.0 bank13.ads.mp.mydas.mobi
 0.0.0.0 smykfashionoutlet.shop
 0.0.0.0 zunveraldo.net
 0.0.0.0 bergmanmarkets.com
@@ -48958,7 +48959,6 @@
 0.0.0.0 dvvglobalpayments.co.uk
 0.0.0.0 cryptogene21-digital.pages.dev
 0.0.0.0 www.monoaawort.store
-0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 varstone.net
 0.0.0.0 worthamence.online
 0.0.0.0 cashreportz.com
@@ -55197,6 +55197,7 @@
 0.0.0.0 www.domdom24pl.eu.cc
 0.0.0.0 sync.adaptv.advertising.com
 0.0.0.0 www.bannerconnect.net
+0.0.0.0 therapistla.com
 0.0.0.0 www.fqia10.otozamiana.pl
 0.0.0.0 aeromeciihanics.info
 0.0.0.0 www.aldideals.apricothearthshelf.shop
@@ -63931,7 +63932,6 @@
 0.0.0.0 px2ii-ufb66.ads.tremorhub.com
 0.0.0.0 www.candorbondimary.sbs
 0.0.0.0 www.lythavo.vip
-0.0.0.0 www.btsai.org
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 www.junvexa.pro
 0.0.0.0 www.falconkapstead.com
@@ -68918,6 +68918,7 @@
 0.0.0.0 glssp.jp
 0.0.0.0 www.chapadacreditovor.net
 0.0.0.0 1unblock.com
+0.0.0.0 caringcast.com
 0.0.0.0 redrocks.fr
 0.0.0.0 bochpl.shop
 0.0.0.0 snoranplus.pl
@@ -72407,6 +72408,7 @@
 0.0.0.0 alerter.pl
 0.0.0.0 exactadvertising.com
 0.0.0.0 primarystrike.net
+0.0.0.0 advertising.amazon.de
 0.0.0.0 1mem0i.arvertical.pl
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 live.monitus.net
@@ -80482,6 +80484,7 @@
 0.0.0.0 www.klikijuz.com
 0.0.0.0 gcirm.centralohio.gcion.com
 0.0.0.0 www.finzy9-distinctio54.sbs
+0.0.0.0 pokkt.com
 0.0.0.0 beamsupernew.top
 0.0.0.0 deltago.com
 0.0.0.0 hit8.hotlog.ru
@@ -85956,6 +85959,7 @@
 0.0.0.0 v7.viayonetici.com
 0.0.0.0 rendarejeles.pro
 0.0.0.0 rabbitrifle.com
+0.0.0.0 filmeo.tv
 0.0.0.0 www.wladze-pl.com
 0.0.0.0 computernetworksonline.com
 0.0.0.0 signauxia.org
