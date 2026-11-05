@@ -1,6 +1,7 @@
 !-------------白名单---------------
 #iconfont
 @@||www.iconfont.cn^$important
+@@||g.alicdn.com^$important
 
 #我与书 
 @@||woyushu.com^
