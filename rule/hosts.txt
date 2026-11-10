@@ -1,4 +1,4 @@
-# Update time: 2026-11-10 05:40:53
+# Update time: 2026-11-10 12:55:57
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 0.0.0.0 www.88888888888888886666666666666.com
 0.0.0.0 cwent.cuuod.cyou
@@ -13842,6 +13842,7 @@
 0.0.0.0 tradedoubler.sonvideopro.com
 0.0.0.0 www.exambased.com
 0.0.0.0 chatbox-widget.botbanhang.vn
+0.0.0.0 jbaventures.cjt1.net
 0.0.0.0 formalizableensileddd.info
 0.0.0.0 www.truly3-eum11.cfd
 0.0.0.0 compassbeneathdreams.click
@@ -14551,7 +14552,6 @@
 0.0.0.0 www.olx.lokalna-ofera02001021023442.shop
 0.0.0.0 p.chango.com
 0.0.0.0 www.itsuporte.serv00.net
-0.0.0.0 www.liveheroes.com
 0.0.0.0 breezysparkhaven.bond
 0.0.0.0 www.your-gift-zone.com
 0.0.0.0 8.gadzooksrudely.com
@@ -16359,6 +16359,7 @@
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 macnewsworld.us.intellitxt.com
 0.0.0.0 www.rubiks.ca
+0.0.0.0 gcirm.desmoinesregister.com
 0.0.0.0 www.guruguareni.autos
 0.0.0.0 www.khaadipresent.com
 0.0.0.0 yjvpz.com
@@ -22684,6 +22685,7 @@
 0.0.0.0 www.thriftidom.net
 0.0.0.0 www.azureus.es
 0.0.0.0 rot8.a8.net
+0.0.0.0 seezeit.fr
 0.0.0.0 finzy6-minus9.sbs
 0.0.0.0 www.onlineportal-bzst.de
 0.0.0.0 www.stakemoorequity.net
@@ -34840,6 +34842,7 @@
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 skinstrip.net
 0.0.0.0 whorecospe.store
+0.0.0.0 www.cunhalvormarkets.net
 0.0.0.0 www.finzy5-ut64.sbs
 0.0.0.0 metric.makemytrip.com
 0.0.0.0 www.kelqorix.com
@@ -34979,6 +34982,7 @@
 0.0.0.0 www.finly6-vel77.cfd
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 www.olx.pi-oferta83458939.lol
+0.0.0.0 www.nzgamingworld.com
 0.0.0.0 sunonesearch.112.2o7.net
 0.0.0.0 androidads23.adcolony.com
 0.0.0.0 mautic-learn.teky.edu.vn
@@ -45338,6 +45342,7 @@
 0.0.0.0 www.xelmariq.com
 0.0.0.0 www.fonteinewaardek.com
 0.0.0.0 www.wyzary.lovable.app
+0.0.0.0 www.tizelozo.com
 0.0.0.0 lp.mp.mydas.mobi
 0.0.0.0 prosieben01.webtrekk.net
 0.0.0.0 www.jhsmiami.com
@@ -45581,7 +45586,6 @@
 0.0.0.0 newly6-aspernatur63.cfd
 0.0.0.0 prodealscenter.com
 0.0.0.0 dovaluesa.net
-0.0.0.0 militaria.otter-sale.top
 0.0.0.0 www.finzy4-voluptas83.sbs
 0.0.0.0 domivellanta.shop
 0.0.0.0 starreal.digital
@@ -50617,7 +50621,6 @@
 0.0.0.0 maributik.com
 0.0.0.0 siniature.com
 0.0.0.0 catrg.peer39.net
-0.0.0.0 www.pureapp.digital
 0.0.0.0 www.bullbatshalloweaar.info
 0.0.0.0 nordiva-gpt.online
 0.0.0.0 www.pl-ofn.sbs
@@ -51064,6 +51067,7 @@
 0.0.0.0 f9uri.mymobilelead.com
 0.0.0.0 www.zyrenmint-ai.com
 0.0.0.0 www.pruszkow2019.pl
+0.0.0.0 www.mebluniva.shop
 0.0.0.0 alliancefrictionless.112.2o7.net
 0.0.0.0 www.segment53.help
 0.0.0.0 m.dlx.addthis.com
@@ -53750,6 +53754,7 @@
 0.0.0.0 lunefi.shop
 0.0.0.0 www.tsystems-ai.com
 0.0.0.0 ads250.console.adtarget.com.tr
+0.0.0.0 clausing-advies.nl
 0.0.0.0 www.go.tribefit.co
 0.0.0.0 rendivanto.pro
 0.0.0.0 hq1.appsflyer.com
@@ -54539,6 +54544,7 @@
 0.0.0.0 config.sdk.scopely.io
 0.0.0.0 robtopol.in
 0.0.0.0 traffic-bam.link
+0.0.0.0 colorfulpet.com
 0.0.0.0 www.loginmsftcheck.com
 0.0.0.0 www.quotevalure.net
 0.0.0.0 epigaenlis.store
@@ -61090,6 +61096,7 @@
 0.0.0.0 www.oneund.ru
 0.0.0.0 www.swingingcommunity.com
 0.0.0.0 revenue-invest.com
+0.0.0.0 www.super-disk-350c.bobbyzachary341m8z1-681.workers.dev
 0.0.0.0 www.galduno.shop
 0.0.0.0 metrics.sky.com
 0.0.0.0 traderprof.live
@@ -79122,6 +79129,7 @@
 0.0.0.0 www.teletlnexs.click
 0.0.0.0 www.laptopreportcard.com
 0.0.0.0 applogios.uc.cn
+0.0.0.0 www.weryfizkont.mom
 0.0.0.0 s3.adbers.com
 0.0.0.0 anwan.pl
 0.0.0.0 creativeteam.it
@@ -79340,6 +79348,7 @@
 0.0.0.0 echt-vermberg.net
 0.0.0.0 www.wfci21.vn-pg66.net
 0.0.0.0 www.localpokiesau.online
+0.0.0.0 www.courtneywalker.plus.com
 0.0.0.0 ciscowebex.112.2o7.net
 0.0.0.0 ibruno.shop
 0.0.0.0 config.claspws.tv
@@ -85524,7 +85533,6 @@
 0.0.0.0 www.allusermanual.com
 0.0.0.0 207.net
 0.0.0.0 n1internet.com
-0.0.0.0 www.steinerzglobal.com
 0.0.0.0 gymnanonex.store
 0.0.0.0 scar.unityads.unity3d.com
 0.0.0.0 jp1-bid-ga.adsrvr.org
@@ -88882,7 +88890,6 @@
 0.0.0.0 pobierzgo.pl
 0.0.0.0 www.homolognnizes.info
 0.0.0.0 dotcomsecrets.com
-0.0.0.0 www.heimlich-gefilmt.cxa.de
 0.0.0.0 shisancore-jp.net
 0.0.0.0 www.sesja-4r3x-pkobiznes-firma.lapaxe.com
 0.0.0.0 lank.ru
