@@ -1,4 +1,4 @@
-# Update time: 2026-11-11 11:25:27
+# Update time: 2026-11-12 02:55:58
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -2470,6 +2470,7 @@
 127.0.0.1 justpremium.com
 127.0.0.1 cdn.branch.io
 127.0.0.1 leadspace.com
+127.0.0.1 coalmerchants.com
 127.0.0.1 freecounterstat.com
 127.0.0.1 novem.pl
 127.0.0.1 navegg.com
@@ -13467,6 +13468,7 @@
 0.0.0.0 oas.repubblica.it
 0.0.0.0 movejobs.uk
 0.0.0.0 mata.ero-advertising.com
+0.0.0.0 liberland.fr
 0.0.0.0 truculentrate.com
 0.0.0.0 www.abqerio.shop
 0.0.0.0 www.os29novayq.eu.cc
@@ -15679,7 +15681,6 @@
 0.0.0.0 freehanbam.net
 0.0.0.0 imp-m.ambient-platform.com
 0.0.0.0 promo.lonelywifehookup.com
-0.0.0.0 ninemsn.imrworldwide.com
 0.0.0.0 vianickde.112.2o7.net
 0.0.0.0 guardedschool.com
 0.0.0.0 inapps.appflyer.com
@@ -18805,7 +18806,6 @@
 0.0.0.0 www.varicorin.pl
 0.0.0.0 www.jesusispunkrock.com
 0.0.0.0 stats.jippii.com
-0.0.0.0 dfnac.fr
 0.0.0.0 truemeritbanwick.com
 0.0.0.0 www.chiyih.com
 0.0.0.0 backend-ssp.adstudio.cloud
@@ -20625,7 +20625,6 @@
 0.0.0.0 server-jp.imrworldwide.com
 0.0.0.0 motosal.net
 0.0.0.0 www.gigantv.com
-0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 www.girlstofap.ga
 0.0.0.0 www.comvella.com
 0.0.0.0 www.johanvasquez.com
@@ -22678,7 +22677,6 @@
 0.0.0.0 www.thriftidom.net
 0.0.0.0 www.azureus.es
 0.0.0.0 rot8.a8.net
-0.0.0.0 seezeit.fr
 0.0.0.0 finzy6-minus9.sbs
 0.0.0.0 www.onlineportal-bzst.de
 0.0.0.0 www.stakemoorequity.net
@@ -27441,7 +27439,6 @@
 0.0.0.0 www.ruvanlex.net
 0.0.0.0 pitbull-online.shop
 0.0.0.0 pixel-user-1039.everesttech.net
-0.0.0.0 adserver.creative-asia.com
 0.0.0.0 jgen23.cjt1.net
 0.0.0.0 icroho.odcinek86.forum
 0.0.0.0 everestmarkets.com
@@ -30009,6 +30006,7 @@
 0.0.0.0 www.dcjddha.hubstatts.com
 0.0.0.0 battery.lionmobi.com
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
+0.0.0.0 amoxicillin.ourtablets.com
 0.0.0.0 backvids.com
 0.0.0.0 www.7m98cb.preibisch.pl
 0.0.0.0 www.fotrindfindomd.com
@@ -33483,7 +33481,6 @@
 0.0.0.0 www.jobace.com.au
 0.0.0.0 www.antifa.co.at
 0.0.0.0 mbox3e.offermatica.com
-0.0.0.0 media.popuptraffic.com
 0.0.0.0 www.affillavat.store
 0.0.0.0 mobilefuse.com
 0.0.0.0 ads.img.globo.com
@@ -34828,7 +34825,6 @@
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 skinstrip.net
 0.0.0.0 whorecospe.store
-0.0.0.0 www.cunhalvormarkets.net
 0.0.0.0 www.finzy5-ut64.sbs
 0.0.0.0 metric.makemytrip.com
 0.0.0.0 www.kelqorix.com
@@ -40334,6 +40330,7 @@
 0.0.0.0 assets1.exgfnetwork.com
 0.0.0.0 ams.toxity.biz
 0.0.0.0 cache.realitykings.com
+0.0.0.0 ads.bfast.com
 0.0.0.0 finsy5-est40.cfd
 0.0.0.0 privatproxy-cdn.xyz
 0.0.0.0 be.durationmedia.net
@@ -44116,6 +44113,7 @@
 0.0.0.0 c.us1.dyntrk.com
 0.0.0.0 www.9nixx5.gsecurespace.com
 0.0.0.0 www.telexxskis.click
+0.0.0.0 www.supportnestframe.uk
 0.0.0.0 ap-southeast-1-ads.yieldmo.com
 0.0.0.0 cdp.cococx.com
 0.0.0.0 www.amberhygge.buzz
@@ -49708,7 +49706,6 @@
 0.0.0.0 finsy1-aliquam55.sbs
 0.0.0.0 www.skyperec.com
 0.0.0.0 www.gans-law.com
-0.0.0.0 scripts.sophus3.com
 0.0.0.0 sesja-2y7u-pkobiznes.pl-firma.net
 0.0.0.0 tnews.day
 0.0.0.0 ads.carmudi.vn
@@ -51043,6 +51040,7 @@
 0.0.0.0 f9uri.mymobilelead.com
 0.0.0.0 www.zyrenmint-ai.com
 0.0.0.0 www.pruszkow2019.pl
+0.0.0.0 www.mebluniva.shop
 0.0.0.0 alliancefrictionless.112.2o7.net
 0.0.0.0 www.segment53.help
 0.0.0.0 m.dlx.addthis.com
@@ -52646,7 +52644,6 @@
 0.0.0.0 track.msadcenter.zmmr.com
 0.0.0.0 akaramento.b-cdn.net
 0.0.0.0 soski.popunder.ru
-0.0.0.0 torrentu.pl
 0.0.0.0 www.finly0-quas55.cfd
 0.0.0.0 torbimoufl.store
 0.0.0.0 www.finly9-adipisci90.cfd
@@ -56467,7 +56464,6 @@
 0.0.0.0 cloud.xdrig.com
 0.0.0.0 warmlight.digital
 0.0.0.0 www.wkhni8.ramka31.forum
-0.0.0.0 industry-specialist.com
 0.0.0.0 vinted.pl-954466346oferta008532264356.sbs
 0.0.0.0 www.firmereditaje.org
 0.0.0.0 gcirm.newsleader.com
@@ -58475,7 +58471,6 @@
 0.0.0.0 www.localytics.com
 0.0.0.0 www.kesnokravutrade.com
 0.0.0.0 ad.jorudan.co.jp
-0.0.0.0 www.olx.irqkategoria32342341.sbs
 0.0.0.0 www.trucktirehotline.com
 0.0.0.0 www.finzy4-necessitatibus17.sbs
 0.0.0.0 www.accrudonage.live
@@ -61067,6 +61062,7 @@
 0.0.0.0 www.oneund.ru
 0.0.0.0 www.swingingcommunity.com
 0.0.0.0 revenue-invest.com
+0.0.0.0 www.super-disk-350c.bobbyzachary341m8z1-681.workers.dev
 0.0.0.0 www.galduno.shop
 0.0.0.0 metrics.sky.com
 0.0.0.0 traderprof.live
@@ -64639,7 +64635,6 @@
 0.0.0.0 clicktale.net.edgekey.net
 0.0.0.0 click.kmindex.ru
 0.0.0.0 localytics.com
-0.0.0.0 tips.oewabox.at
 0.0.0.0 www14.moba8.net
 0.0.0.0 www.dilolnonin.store
 0.0.0.0 www.finzy3-at9.sbs
@@ -65142,6 +65137,7 @@
 0.0.0.0 a1382.casalemedia.com
 0.0.0.0 www.sport-trex.com
 0.0.0.0 ultrastableedge.digital
+0.0.0.0 ps-jp.amazon-adsystem.com
 0.0.0.0 www.cypressmirror.live
 0.0.0.0 www.o6ye73.cyou
 0.0.0.0 ads.clickagents.com
@@ -67555,6 +67551,7 @@
 0.0.0.0 www.udser1.odnow-2882.website
 0.0.0.0 macarramma.store
 0.0.0.0 www.udtickets.space
+0.0.0.0 wildflash.digital
 0.0.0.0 ads.gamespyid.com
 0.0.0.0 www.noralie.shop
 0.0.0.0 www.bravemarket.digital
@@ -68942,7 +68939,6 @@
 0.0.0.0 static.privacytrck.com
 0.0.0.0 finzy5-et57.sbs
 0.0.0.0 www.homrdepot.com
-0.0.0.0 technology.msnbc.us.intellitxt.com
 0.0.0.0 avocet.io
 0.0.0.0 pi-oferta7857152.lat
 0.0.0.0 sale-taranko.top
@@ -70731,7 +70727,6 @@
 0.0.0.0 smartgiveaway.com
 0.0.0.0 l10ncard.com
 0.0.0.0 www.teleomlixx.cyou
-0.0.0.0 getriksleadsnow.com
 0.0.0.0 www.dignusorb.com
 0.0.0.0 www.buzzsneakerssfsdfgdsgd.sbs
 0.0.0.0 inventbak.digital
@@ -72675,7 +72670,6 @@
 0.0.0.0 alerter.pl
 0.0.0.0 exactadvertising.com
 0.0.0.0 primarystrike.net
-0.0.0.0 advertising.amazon.de
 0.0.0.0 cdn.optimatic.com
 0.0.0.0 live.monitus.net
 0.0.0.0 finzy8-est62.sbs
@@ -74766,7 +74760,6 @@
 0.0.0.0 www.onaszuka.pl
 0.0.0.0 www.finsy3-et26.cfd
 0.0.0.0 evepdaikencom.112.2o7.net
-0.0.0.0 www.greenshot.fr
 0.0.0.0 www.safewaterbackup.com
 0.0.0.0 spnet2-1.i-mobile.co.jp
 0.0.0.0 pennygown.com
@@ -74817,7 +74810,6 @@
 0.0.0.0 ringsrecord.com
 0.0.0.0 www.globusdate.com
 0.0.0.0 gillout.oewabox.at
-0.0.0.0 www.newly0-voluptatum97.cfd
 0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 invervexa84.com
 0.0.0.0 www.btanasq.shop
@@ -76653,7 +76645,6 @@
 0.0.0.0 www.weyge3.4cfdu.cyou
 0.0.0.0 softstablebrigh.digital
 0.0.0.0 www.dofasao.pro
-0.0.0.0 hotvideos.fr
 0.0.0.0 www.vextri2qalod.com
 0.0.0.0 finzy5-facilis34.sbs
 0.0.0.0 pocztapolska-przesylka.com
@@ -80485,7 +80476,6 @@
 0.0.0.0 www.activepr.ru
 0.0.0.0 www.redstripesgift.com
 0.0.0.0 pl-0x9e-pkobiznes.bankowosc-elektroniczna.com
-0.0.0.0 www.pitbullsportsy.shop
 0.0.0.0 smetrics.hdfcbank.com
 0.0.0.0 img.blogads.com
 0.0.0.0 pointlite.digital
@@ -84227,6 +84217,7 @@
 0.0.0.0 www.lidajonlinen.shop
 0.0.0.0 sportsbar-durmersheim.de
 0.0.0.0 www.sesja-5i7t-pkobiznes-firma.wabze.net
+0.0.0.0 finly5-magnam1.cfd
 0.0.0.0 telerebrig.help
 0.0.0.0 www.yieldothen.net
 0.0.0.0 ky.5.p2l.info
@@ -84498,7 +84489,6 @@
 0.0.0.0 fundorship.online
 0.0.0.0 www.app.medfillle.com
 0.0.0.0 www.cplmart.com
-0.0.0.0 searchwe.com
 0.0.0.0 www.flexorio.net
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 hornytraffic.com
@@ -85094,7 +85084,6 @@
 0.0.0.0 www.delorvun.com
 0.0.0.0 fttcj.com
 0.0.0.0 primetime.net
-0.0.0.0 shockinggrass.com
 0.0.0.0 www.aukcja758487593.top
 0.0.0.0 www.esavilo.shop
 0.0.0.0 muwuo.comfortykive.xyz
@@ -86113,7 +86102,6 @@
 0.0.0.0 www.kulinarnebabuni.asckat.com
 0.0.0.0 www.otslawyers.com
 0.0.0.0 diparazoto.store
-0.0.0.0 ads.digital-digest.com
 0.0.0.0 gptrivaro.net
 0.0.0.0 a.trkme.net
 0.0.0.0 dk-oferta810574.sbs
@@ -87056,7 +87044,6 @@
 0.0.0.0 maccity.it.intellitxt.com
 0.0.0.0 finly2-ducimus72.cfd
 0.0.0.0 www.facebook-color.5v.pl
-0.0.0.0 lizardslaugh.com
 0.0.0.0 www.growtomesaic.com
 0.0.0.0 bestspark24.shop
 0.0.0.0 s-img.lentainform.com
@@ -87690,7 +87677,6 @@
 0.0.0.0 koukoku.red
 0.0.0.0 nuclandary.qnfbfs.cn
 0.0.0.0 storenotri.store
-0.0.0.0 chewbacca.cybereps.com
 0.0.0.0 analytics.thenest.com
 0.0.0.0 a1442.casalemedia.com
 0.0.0.0 gv1.xdrig.com
@@ -88323,7 +88309,6 @@
 0.0.0.0 w112.hitbox.com
 0.0.0.0 eviracolle.store
 0.0.0.0 www.aldi.corlistore.shop
-0.0.0.0 pluckypocket.com
 0.0.0.0 daccz.com
 0.0.0.0 hh.d7ntof.cfd
 0.0.0.0 ads1.advance.net
