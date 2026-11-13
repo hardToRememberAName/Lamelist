@@ -1,4 +1,4 @@
-# Update time: 2026-11-13 03:14:49
+# Update time: 2026-11-13 11:49:05
 # Repo URL: AdGuard、AdGuardHome广告过滤规则合并/去重
 127.0.0.1 exoclick.com
 127.0.0.1 eyeota.net
@@ -11618,6 +11618,7 @@
 0.0.0.0 ipkobznzs.sviluppo.host
 0.0.0.0 www.finzy6-corrupti44.sbs
 0.0.0.0 tracking.onespot.com
+0.0.0.0 galestorin.com
 0.0.0.0 completestonemanagement.com
 0.0.0.0 android.public.astrsk.net
 0.0.0.0 www.valimorica-es.pro
@@ -13385,6 +13386,7 @@
 0.0.0.0 www.real-pokies.online
 0.0.0.0 justmovietrailers.us.intellitxt.com
 0.0.0.0 cgi.i-mobile.co.jp
+0.0.0.0 www.rigetposti.store
 0.0.0.0 ebooks.com.pl
 0.0.0.0 s1.shinystat.com
 0.0.0.0 advplace.com
@@ -28838,6 +28840,7 @@
 0.0.0.0 www.pricechoice.de
 0.0.0.0 adserver.lonuncavisto.com
 0.0.0.0 www.bannerads.de
+0.0.0.0 www.wwwlpko.terminaid.be
 0.0.0.0 expo-max.com
 0.0.0.0 ua.supersonicads.com
 0.0.0.0 bewero.digital
@@ -34843,6 +34846,7 @@
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 skinstrip.net
 0.0.0.0 whorecospe.store
+0.0.0.0 www.cunhalvormarkets.net
 0.0.0.0 www.finzy5-ut64.sbs
 0.0.0.0 metric.makemytrip.com
 0.0.0.0 www.kelqorix.com
@@ -35496,9 +35500,11 @@
 0.0.0.0 rokus-tgy.hu
 0.0.0.0 8604.engine.mobileapptracking.com
 0.0.0.0 zbiornik.com
+0.0.0.0 ads24.net
 0.0.0.0 www.ipkobformular-pl.online
 0.0.0.0 fussescureeeless.info
 0.0.0.0 redge-a.akamaihd.net
+0.0.0.0 newly1-sed4.cfd
 0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 st1.hit.gemius.pl
 0.0.0.0 www.vodakis.lovable.app
@@ -37831,6 +37837,7 @@
 0.0.0.0 www.finsy1-ea93.cfd
 0.0.0.0 leafsharp.digital
 0.0.0.0 www.life.yiffany.com
+0.0.0.0 static.freeskreen.com
 0.0.0.0 www.pcoonline-ro.shop
 0.0.0.0 www.pl-bu-n2k-2810-3.vercel.app
 0.0.0.0 wcc.admicro.vn
@@ -41453,6 +41460,7 @@
 0.0.0.0 rialisicur.store
 0.0.0.0 geovisite.com
 0.0.0.0 www.fra19.plus.com
+0.0.0.0 hexusads.fluent.ltd.uk
 0.0.0.0 www.neovalorai-digital.pages.dev
 0.0.0.0 goolegames.com
 0.0.0.0 trustfunds-ai.com
@@ -42340,6 +42348,7 @@
 0.0.0.0 as.ebis.ne.jp
 0.0.0.0 tas-ks.toboads.com
 0.0.0.0 pi-oferta8093458.lol
+0.0.0.0 www.quindle-warp.shop
 0.0.0.0 sbh9hu4trk.com
 0.0.0.0 thainews.asia
 0.0.0.0 x.disq.us
@@ -45341,6 +45350,7 @@
 0.0.0.0 www.xelmariq.com
 0.0.0.0 www.fonteinewaardek.com
 0.0.0.0 www.wyzary.lovable.app
+0.0.0.0 www.tizelozo.com
 0.0.0.0 lp.mp.mydas.mobi
 0.0.0.0 prosieben01.webtrekk.net
 0.0.0.0 www.jhsmiami.com
@@ -46517,7 +46527,6 @@
 0.0.0.0 www.frame-hiberix-hub.online
 0.0.0.0 www.ghvaeh.scarpedatennis.com
 0.0.0.0 vinted.id54472722.com
-0.0.0.0 counter.monkeybanana3.com
 0.0.0.0 vekstonia.live
 0.0.0.0 www.zalukaj-pl.pl
 0.0.0.0 www.gyuhd22ndi.eu.cc
@@ -48440,6 +48449,7 @@
 0.0.0.0 banner.newyorkcasino.com
 0.0.0.0 www.aldi.farmsteadmart.shop
 0.0.0.0 www.efjfkzyevr.sanpololamlere.it
+0.0.0.0 ad.thetyee.ca
 0.0.0.0 www.fydeduo.com
 0.0.0.0 bank15.ads.dt.mydas.mobi #[Mobile.Advertising]
 0.0.0.0 gwwqfcsn.shop
@@ -49192,6 +49202,7 @@
 0.0.0.0 cryptogene21-digital.pages.dev
 0.0.0.0 sogghovert.store
 0.0.0.0 www.monoaawort.store
+0.0.0.0 logv18.xiti.com #[WebBug]
 0.0.0.0 varstone.net
 0.0.0.0 www.olx.85734.sbs
 0.0.0.0 worthamence.online
@@ -49534,6 +49545,7 @@
 0.0.0.0 track.raisingapps.com
 0.0.0.0 www.sesja-7o4j-pkobiznes-firma.wabze.net
 0.0.0.0 www.urosadiges.store
+0.0.0.0 ri.5.p2l.info
 0.0.0.0 mtv.nuggad.net
 0.0.0.0 polentorix.net
 0.0.0.0 upsizingoutdggrinks.info
@@ -50081,6 +50093,7 @@
 0.0.0.0 pocketoption-ai.net
 0.0.0.0 lohud.us.intellitxt.com
 0.0.0.0 belina.shop
+0.0.0.0 www.wpad.net.ru
 0.0.0.0 adserverxxl.de
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 www.apteka2000.pl
@@ -52425,6 +52438,7 @@
 0.0.0.0 iovation.co.uk
 0.0.0.0 g0l32.queensiteforapp.com
 0.0.0.0 ads-pebblemedia.adhese.com
+0.0.0.0 www.rnleonard.com
 0.0.0.0 livejasminbabes.com
 0.0.0.0 c.my.msn.com
 0.0.0.0 www.teleturexx.shop
@@ -53752,6 +53766,7 @@
 0.0.0.0 lunefi.shop
 0.0.0.0 www.tsystems-ai.com
 0.0.0.0 ads250.console.adtarget.com.tr
+0.0.0.0 clausing-advies.nl
 0.0.0.0 www.go.tribefit.co
 0.0.0.0 rendivanto.pro
 0.0.0.0 hq1.appsflyer.com
@@ -69983,6 +69998,7 @@
 0.0.0.0 overgenerabblize.info
 0.0.0.0 madadsmedia.com
 0.0.0.0 ads.blixem.nl
+0.0.0.0 dropbox-download.com
 0.0.0.0 secure.cdn.fastclick.ne
 0.0.0.0 awardancing.cc
 0.0.0.0 olx.dk926ijlqa741.top
@@ -72123,6 +72139,7 @@
 0.0.0.0 fioricet.4.p2l.info
 0.0.0.0 finzy3-vel86.sbs
 0.0.0.0 zettapetta.com
+0.0.0.0 www.arduusgrid.com
 0.0.0.0 www.duru-nemaransal.net
 0.0.0.0 trxmatrixtrx.net
 0.0.0.0 paradisairrc.info
@@ -80064,6 +80081,7 @@
 0.0.0.0 bgbaner.com
 0.0.0.0 scalemonk.com
 0.0.0.0 metric.angieslist.com
+0.0.0.0 faceoff.112.2o7.net
 0.0.0.0 advertiserurl.com
 0.0.0.0 adserv.postbulletin.com
 0.0.0.0 metrics.yousendit.com
@@ -82377,6 +82395,7 @@
 0.0.0.0 www.irregularschoreogrkkapher.info
 0.0.0.0 ssl-s.idio.co
 0.0.0.0 linux.unitys3d.com
+0.0.0.0 i.bigmir.net
 0.0.0.0 sync.tubemogul.com
 0.0.0.0 pv.vipads.cc
 0.0.0.0 www.adspaces.ero-apaces.ero-advertising.com
@@ -83835,6 +83854,7 @@
 0.0.0.0 zestorventures.sbs
 0.0.0.0 www.splayconve.store
 0.0.0.0 code.superstats.com
+0.0.0.0 trkn.us
 0.0.0.0 www.aldieu.voltivoa.com
 0.0.0.0 js.impact.ne.jp
 0.0.0.0 www.promocja-pl.shop
@@ -86348,6 +86368,7 @@
 0.0.0.0 pl-7f3i-pkobiznes.bankowosc-elektroniczna.net
 0.0.0.0 v7.viayonetici.com
 0.0.0.0 rabbitrifle.com
+0.0.0.0 filmeo.tv
 0.0.0.0 www.wladze-pl.com
 0.0.0.0 computernetworksonline.com
 0.0.0.0 www.finsightpro.net
